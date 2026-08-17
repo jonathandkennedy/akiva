@@ -1667,6 +1667,22 @@ def main():
     lines_netlify = [f"{f} {t if t == '/' else t + '/'} 301!" for f, t in plan["redirects"].items()] + \
                     [f"{f}/ {t if t == '/' else t + '/'} 301!" for f, t in plan["redirects"].items()]
     write("/_redirects", "\n".join(lines_netlify) + "\n")
+    # Vercel config — lives at the REPO ROOT, not inside site/.
+    # Vercel ignores _redirects (Netlify) and .htaccess (Apache), so the 301s
+    # have to be declared here or they silently do nothing.
+    vercel = {
+        "$schema": "https://openapi.vercel.sh/vercel.json",
+        "outputDirectory": "site",
+        "trailingSlash": True,
+        "redirects": [
+            {"source": f, "destination": (t if t == "/" else t + "/"), "permanent": True}
+            for f, t in sorted(plan["redirects"].items())
+        ],
+    }
+    with open(os.path.join(BASE, "vercel.json"), "w", encoding="utf-8") as fh:
+        json.dump(vercel, fh, indent=2)
+        fh.write("\n")
+
     ht = ["ErrorDocument 404 /404.html", "RewriteEngine On"]
     for f, t in plan["redirects"].items():
         target = t if t == "/" else t + "/"
