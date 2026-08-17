@@ -21,3 +21,7 @@ plan_site.py
 *.swp
 __pycache__/
 *.pyc
+
+# Full-resolution client photography (75MB source library, kept locally)
+photos/
+fetch_drive.sh

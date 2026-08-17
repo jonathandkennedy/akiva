@@ -93,7 +93,7 @@ CSS = r"""
 *{margin:0;padding:0;box-sizing:border-box}
 html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
 body{font-family:var(--sans);color:var(--ink);background:var(--white);line-height:1.65;font-size:16.5px}
-img{max-width:100%;display:block}
+img{max-width:100%;height:auto;display:block}
 a{color:var(--navy-soft);text-decoration:none}
 .wrap{max-width:var(--maxw);margin:0 auto;padding:0 22px}
 h1,h2,h3,.serif{font-family:var(--serif);font-weight:600;line-height:1.18;color:var(--navy);letter-spacing:-.01em}
@@ -366,7 +366,7 @@ def firm_schema():
         "@id": DOMAIN + "/#firm",
         "name": FIRM,
         "url": DOMAIN + "/",
-        "image": DOMAIN + "/img/akiva-shapiro-attorney.jpg",
+        "image": DOMAIN + "/img/akiva-hero.jpg",
         "telephone": PHONE_TEL,
         "faxNumber": FAX,
         "email": EMAIL,
@@ -582,7 +582,7 @@ def crumbs_html(crumbs):
 def author_box():
     return f"""
 <aside class="author-box">
-  <img src="/img/akiva-author.jpg" alt="Akiva Shapiro, Esq., Long Island attorney" width="96" height="96" loading="lazy">
+  <img src="/img/akiva-author.jpg" srcset="/img/akiva-author.jpg 1x, /img/akiva-author@2x.jpg 2x" alt="Akiva Shapiro, Esq., Long Island attorney" width="96" height="96" loading="lazy" decoding="async">
   <div>
     <div class="ab-kicker">Written &amp; Reviewed By</div>
     <h3>Akiva Shapiro, Esq.</h3>
@@ -727,7 +727,7 @@ def article_page(meta, art):
         "publisher": {"@id": DOMAIN + "/#firm"},
         "datePublished": meta["date"], "dateModified": TODAY,
         "mainEntityOfPage": DOMAIN + path,
-        "image": DOMAIN + "/img/akiva-shapiro-attorney.jpg",
+        "image": DOMAIN + "/img/akiva-hero.jpg",
     })
     sections_html = "".join(
         f"<h2>{esc(s['h2'])}</h2>{s['html']}" for s in art["sections"])
@@ -751,7 +751,7 @@ def article_page(meta, art):
   <div class="kicker">{esc(cl['label'])} · Legal Answers</div>
   <h1>{esc(h1)}</h1>
   <div class="meta-row">
-    <span class="byline"><img src="/img/akiva-author.jpg" alt="" width="34" height="34"> By <b>&nbsp;Akiva Shapiro, Esq.</b></span>
+    <span class="byline"><img src="/img/akiva-author.jpg" srcset="/img/akiva-author.jpg 1x, /img/akiva-author@2x.jpg 2x" alt="" width="34" height="34" loading="lazy" decoding="async"> By <b>&nbsp;Akiva Shapiro, Esq.</b></span>
     <span class="chip">{date_h}</span>
   </div>
 </div>
@@ -907,7 +907,7 @@ def custom_practice_page(pg, custom):
          "author": {"@id": DOMAIN + "/#akiva"}, "publisher": {"@id": DOMAIN + "/#firm"},
          "datePublished": "2026-08-17", "dateModified": TODAY,
          "mainEntityOfPage": DOMAIN + path,
-         "image": DOMAIN + "/img/akiva-shapiro-attorney.jpg"},
+         "image": DOMAIN + "/img/akiva-hero.jpg"},
     ]
     qa_items = [q for q in plan["qa"] if q["cluster"] == my_cluster][:6] if my_cluster else []
     qa_html = ""
@@ -1118,7 +1118,12 @@ def home_page():
     </ul>
   </div>
   <div class="hero-photo">
-    <img src="/img/akiva-shapiro-attorney.jpg" alt="Akiva Shapiro, Esq., attorney in Old Bethpage, Long Island" width="468" height="625" fetchpriority="high">
+    <picture>
+      <source type="image/webp" srcset="/img/akiva-hero.webp 1x, /img/akiva-hero@2x.webp 2x">
+      <img src="/img/akiva-hero.jpg" srcset="/img/akiva-hero.jpg 1x, /img/akiva-hero@2x.jpg 2x"
+           alt="Akiva Shapiro, Esq., estate planning and elder law attorney, outside his Old Bethpage, Long Island law office"
+           width="760" height="1013" fetchpriority="high" decoding="async">
+    </picture>
     <div class="hero-badge"><b>★★★★★</b> <span>{G_RATING} on Google<br><small style="color:var(--muted);font-weight:500">{G_COUNT} verified reviews</small></span></div>
   </div>
 </div></div>
@@ -1174,7 +1179,10 @@ def home_page():
     <blockquote class="pull">Akiva looks at your legal life holistically, and crafts solutions that solve today's problem within the context of your whole picture.</blockquote>
     <p>That means the trust that protects your house also fits your Medicaid plan. The lease you sign doesn't undermine your asset protection. And the person advising you already knows your story — because he's the one who has handled it from the start.</p>
   </div>
-  <div class="photo"><img src="/img/og-office.jpg" alt="Akiva Shapiro Law office in Old Bethpage, New York" loading="lazy" width="1200" height="630"></div>
+  <div class="photo"><picture>
+    <source type="image/webp" srcset="/img/office-conference.webp">
+    <img src="/img/office-conference.jpg" alt="Conference room at Akiva Shapiro Law in Old Bethpage, New York, with the firm's framed credentials" loading="lazy" width="1200" height="800" decoding="async">
+  </picture></div>
 </div></section>
 
 <section><div class="wrap">
@@ -1188,7 +1196,12 @@ def home_page():
 </div></section>
 
 <section class="band"><div class="wrap split">
-  <div class="photo"><img src="/img/akiva-shapiro-attorney.jpg" alt="Attorney Akiva Shapiro, Esq." loading="lazy" width="468" height="625" style="max-width:420px"></div>
+  <div class="photo"><picture>
+    <source type="image/webp" srcset="/img/akiva-portrait.webp 1x, /img/akiva-portrait@2x.webp 2x">
+    <img src="/img/akiva-portrait.jpg" srcset="/img/akiva-portrait.jpg 1x, /img/akiva-portrait@2x.jpg 2x"
+         alt="Akiva Shapiro, Esq., Long Island estate planning attorney" loading="lazy"
+         width="720" height="900" style="max-width:420px" decoding="async">
+  </picture></div>
   <div>
     <div class="kicker">Meet Your Attorney</div>
     <h2>Akiva Shapiro, Esq.</h2>
@@ -1326,7 +1339,10 @@ def attorney_page():
   </div>
   <aside class="rail">
     <div class="rail-card" style="text-align:center">
-      <img src="/img/akiva-shapiro-attorney.jpg" alt="Akiva Shapiro, Esq." style="border-radius:12px;margin-bottom:1em" width="468" height="625">
+      <picture>
+        <source type="image/webp" srcset="/img/akiva-profile.webp">
+        <img src="/img/akiva-profile.jpg" alt="Akiva Shapiro, Esq., Attorney and Counselor-at-Law" style="border-radius:12px;margin-bottom:1em" width="620" height="820" decoding="async">
+      </picture>
       <a class="btn btn-gold" href="tel:{PHONE_TEL}">Call {PHONE_DISPLAY}</a>
       <a class="btn btn-line" style="margin-top:.6em" href="/contact-us/">Free Phone Consultation</a>
     </div>
@@ -1419,6 +1435,10 @@ def contact_page():
       <dt>Email</dt><dd><a href="mailto:{EMAIL}">{EMAIL}</a></dd>
       <dt>Hours</dt><dd>Mon–Thu 9:30am–5:30pm<br>Fri 9:30am–4:00pm<br>Evenings &amp; Sunday by appointment</dd>
     </dl>
+    <picture>
+      <source type="image/webp" srcset="/img/office-reception.webp">
+      <img src="/img/office-reception.jpg" alt="Reception area at Akiva Shapiro Law, PLLC in Old Bethpage, New York" loading="lazy" width="1200" height="800" style="margin-top:22px;border-radius:var(--r);box-shadow:var(--shadow)" decoding="async">
+    </picture>
     <iframe class="map-frame" style="margin-top:22px" title="Map to Akiva Shapiro Law, PLLC" loading="lazy" src="https://www.google.com/maps?q=1+W+Park+Dr,+Old+Bethpage,+NY+11804&output=embed"></iframe>
   </div>
 </div></section>

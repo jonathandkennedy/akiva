@@ -6,7 +6,7 @@
 *{margin:0;padding:0;box-sizing:border-box}
 html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
 body{font-family:var(--sans);color:var(--ink);background:var(--white);line-height:1.65;font-size:16.5px}
-img{max-width:100%;display:block}
+img{max-width:100%;height:auto;display:block}
 a{color:var(--navy-soft);text-decoration:none}
 .wrap{max-width:var(--maxw);margin:0 auto;padding:0 22px}
 h1,h2,h3,.serif{font-family:var(--serif);font-weight:600;line-height:1.18;color:var(--navy);letter-spacing:-.01em}
