@@ -4,162 +4,162 @@
   "trailingSlash": true,
   "redirects": [
     {
-      "source": "/about",
+      "source": "/about/",
       "destination": "/attorney-profile/akiva-shapiro-esq/",
       "permanent": true
     },
     {
-      "source": "/are-there-any-maintenance-costs-to-an-estate-plan",
+      "source": "/are-there-any-maintenance-costs-to-an-estate-plan/",
       "destination": "/are-there-any-maintenance-costs-to-an-estate-plan-in-new-york/",
       "permanent": true
     },
     {
-      "source": "/as-a-trust-administrator-can-i-sell-property-that-is-in-a-trust",
+      "source": "/as-a-trust-administrator-can-i-sell-property-that-is-in-a-trust/",
       "destination": "/as-a-trust-administrator-can-i-sell-property-thats-in-a-trust/",
       "permanent": true
     },
     {
-      "source": "/author/akivas",
+      "source": "/author/akivas/",
       "destination": "/attorney-profile/akiva-shapiro-esq/",
       "permanent": true
     },
     {
-      "source": "/blog",
+      "source": "/blog/",
       "destination": "/faq/",
       "permanent": true
     },
     {
-      "source": "/can-i-have-more-than-one-trust",
+      "source": "/can-i-have-more-than-one-trust/",
       "destination": "/can-a-person-have-more-than-one-trust/",
       "permanent": true
     },
     {
-      "source": "/contact",
+      "source": "/contact/",
       "destination": "/contact-us/",
       "permanent": true
     },
     {
-      "source": "/contact-us-covid-19",
+      "source": "/contact-us-covid-19/",
       "destination": "/contact-us/",
       "permanent": true
     },
     {
-      "source": "/destinations",
+      "source": "/destinations/",
       "destination": "/",
       "permanent": true
     },
     {
-      "source": "/how-do-i-begin-the-process-to-be-appointed-a-guardian",
+      "source": "/how-do-i-begin-the-process-to-be-appointed-a-guardian/",
       "destination": "/how-do-i-begin-the-process-to-be-appointed-as-a-guardian/",
       "permanent": true
     },
     {
-      "source": "/how-do-i-find-an-estate-planning-attorney",
+      "source": "/how-do-i-find-an-estate-planning-attorney/",
       "destination": "/how-do-i-find-an-estate-planning-attorney-in-new-york/",
       "permanent": true
     },
     {
-      "source": "/how-long-does-it-take-a-court-to-grant-guardianship",
+      "source": "/how-long-does-it-take-a-court-to-grant-guardianship/",
       "destination": "/how-long-does-it-take-a-court-to-grant-a-guardianship/",
       "permanent": true
     },
     {
-      "source": "/how-long-does-it-take-to-create-an-estate-plan",
+      "source": "/how-long-does-it-take-to-create-an-estate-plan/",
       "destination": "/how-long-does-it-take-to-create-an-estate-plan-in-new-york/",
       "permanent": true
     },
     {
-      "source": "/how-long-does-the-initial-trust-administration-generally-takes",
+      "source": "/how-long-does-the-initial-trust-administration-generally-takes/",
       "destination": "/how-long-does-initial-trust-administration-take/",
       "permanent": true
     },
     {
-      "source": "/news",
+      "source": "/news/",
       "destination": "/faq/",
       "permanent": true
     },
     {
-      "source": "/sample-page-2",
+      "source": "/sample-page-2/",
       "destination": "/",
       "permanent": true
     },
     {
-      "source": "/sign-up",
+      "source": "/sign-up/",
       "destination": "/contact-us/",
       "permanent": true
     },
     {
-      "source": "/slide-types/client",
+      "source": "/slide-types/client/",
       "destination": "/",
       "permanent": true
     },
     {
-      "source": "/test-build",
+      "source": "/test-build/",
       "destination": "/",
       "permanent": true
     },
     {
-      "source": "/testing",
+      "source": "/testing/",
       "destination": "/",
       "permanent": true
     },
     {
-      "source": "/testingpage",
+      "source": "/testingpage/",
       "destination": "/",
       "permanent": true
     },
     {
-      "source": "/testpage",
+      "source": "/testpage/",
       "destination": "/",
       "permanent": true
     },
     {
-      "source": "/webinars",
+      "source": "/webinars/",
       "destination": "/attorney-profile/webinars/",
       "permanent": true
     },
     {
-      "source": "/webinars-2",
+      "source": "/webinars-2/",
       "destination": "/attorney-profile/webinars/",
       "permanent": true
     },
     {
-      "source": "/what-are-beneficiaries-rights-in-a-trust",
+      "source": "/what-are-beneficiaries-rights-in-a-trust/",
       "destination": "/what-are-the-beneficiarys-rights-in-a-trust/",
       "permanent": true
     },
     {
-      "source": "/what-documents-are-in-an-estate-plan",
+      "source": "/what-documents-are-in-an-estate-plan/",
       "destination": "/what-documents-are-in-an-estate-plan-in-new-york/",
       "permanent": true
     },
     {
-      "source": "/what-happens-if-i-die-without-a-will",
+      "source": "/what-happens-if-i-die-without-a-will/",
       "destination": "/what-happens-if-i-die-without-a-will-in-new-york/",
       "permanent": true
     },
     {
-      "source": "/what-is-court-appointed-attorney",
+      "source": "/what-is-court-appointed-attorney/",
       "destination": "/what-is-a-court-appointed-attorney/",
       "permanent": true
     },
     {
-      "source": "/what-is-guardian",
+      "source": "/what-is-guardian/",
       "destination": "/what-is-a-guardian/",
       "permanent": true
     },
     {
-      "source": "/what-is-the-definition-of-an-estate",
+      "source": "/what-is-the-definition-of-an-estate/",
       "destination": "/what-is-the-definition-of-an-estate-in-new-york/",
       "permanent": true
     },
     {
-      "source": "/where-do-i-start-with-estate-planning",
+      "source": "/where-do-i-start-with-estate-planning/",
       "destination": "/where-do-i-start-with-estate-planning-in-new-york/",
       "permanent": true
     },
     {
-      "source": "/will-the-guardian-be-required-to-cover-all-of-that-persons-expenses",
+      "source": "/will-the-guardian-be-required-to-cover-all-of-that-persons-expenses/",
       "destination": "/will-the-guardian-be-required-to-cover-all-of-the-persons-expenses/",
       "permanent": true
     }

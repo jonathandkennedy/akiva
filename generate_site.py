@@ -1674,8 +1674,11 @@ def main():
         "$schema": "https://openapi.vercel.sh/vercel.json",
         "outputDirectory": "site",
         "trailingSlash": True,
+        # trailingSlash normalization runs BEFORE these rules, so sources must
+        # carry the trailing slash or they will never match.
         "redirects": [
-            {"source": f, "destination": (t if t == "/" else t + "/"), "permanent": True}
+            {"source": f.rstrip("/") + "/", "destination": (t if t == "/" else t + "/"),
+             "permanent": True}
             for f, t in sorted(plan["redirects"].items())
         ],
     }

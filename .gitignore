@@ -9,7 +9,9 @@ scrape-log.txt
 sub-sitemaps.txt
 all-urls.txt
 batch_*.tsv
-robots.txt
+# NOTE: leading slash matters — these are the OLD site's files at the project
+# root. Without it the pattern would also swallow site/robots.txt.
+/robots.txt
 /sitemap.xml
 # scrape-pipeline scripts (depend on the excluded scrape/ snapshot)
 extract_pages.py
