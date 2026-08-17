@@ -1,0 +1,28 @@
+{
+  "slug": "what-is-federal-court",
+  "h1_clean": "What Is Federal Court?",
+  "meta_desc": "Federal court hears federal-law and interstate cases, while most disputes stay in New York state courts. The difference, and which courts serve Long Island.",
+  "direct_answer": "<p>Federal court is the separate, nationwide court system of the United States government, and it hears only limited categories of cases: disputes arising under federal law, cases between citizens of different states involving more than a threshold amount, bankruptcy, and suits involving the federal government. Everything else, including most contract, property, estate, and business disputes, belongs in New York's state courts. Long Island sits in the Eastern District of New York, with federal courthouses in Brooklyn and Central Islip.</p>",
+  "sections": [
+    {
+      "h2": "Federal Courts vs. New York State Courts",
+      "html": "<p>The United States runs two parallel court systems. New York's state courts are courts of general jurisdiction: they can hear nearly any kind of dispute, which is why the overwhelming majority of lawsuits, from collection cases to will contests, live there. Federal courts are courts of limited jurisdiction: they can only hear the case types the Constitution and Congress assign to them, and they must dismiss cases that do not qualify.</p><p>Practice differs in real ways. Federal cases run under the Federal Rules of Civil Procedure rather than New York's CPLR, deadlines and discovery mechanics differ, and federal judges, appointed for life, often manage cases on tighter schedules. Juries are drawn from a multi-county pool rather than a single county. None of this makes one system better; it makes forum selection a genuine strategic decision when a case could go either way.</p>"
+    },
+    {
+      "h2": "When a Case Belongs in Federal Court",
+      "html": "<p>Two doorways bring most civil cases into federal court:</p><ul><li>Federal question jurisdiction: the claim arises under federal law, such as a federal statute or the U.S. Constitution.</li><li>Diversity jurisdiction: the plaintiffs and defendants are citizens of different states and the amount in controversy exceeds 75,000 dollars. A New York business suing a New Jersey company over a large contract is a classic example.</li></ul><p>Bankruptcy cases belong exclusively to the federal bankruptcy courts, and suits by or against the federal government also proceed federally. One more wrinkle matters in practice: removal. A defendant sued in state court can sometimes transfer, or remove, the case to federal court if it could have been filed there originally, and the plaintiff can then ask the federal judge to send it back. Battles over the forum happen because lawyers know procedure shapes outcomes.</p>"
+    },
+    {
+      "h2": "The Federal Courts That Serve Long Island",
+      "html": "<p>Federal trial courts are called district courts, and New York contains four districts. Nassau and Suffolk Counties fall within the Eastern District of New York, which also covers Brooklyn, Queens, and Staten Island; its courthouses in Brooklyn and Central Islip are where Long Island federal cases are heard. Manhattan, the Bronx, and several counties to the north are covered by the Southern District of New York.</p><p>Appeals from these district courts go to the United States Court of Appeals for the Second Circuit, which sits in Manhattan, and from there the only step up is the United States Supreme Court, which chooses the few cases it hears. Note that the naming runs opposite to the state system: in federal courts, the supreme court really is the top, while in New York State, Supreme Court is the trial court where cases begin.</p><p>For most Long Islanders, contact with the federal system comes through a handful of scenarios: a business dispute with an out-of-state company, a bankruptcy filing, a federal statutory claim, or a state case a defendant removes. Everything else, estates, guardianships, most contracts and collections, stays in the state courts, and knowing which system you are in tells you which rulebook and deadlines apply.</p>"
+    }
+  ],
+  "takeaways": [
+    "Federal courts hear limited case types; New York state courts hear nearly everything else.",
+    "Federal jurisdiction mainly covers federal-law claims and interstate disputes over 75,000 dollars.",
+    "Nassau and Suffolk federal cases go to the Eastern District of New York, in Brooklyn and Central Islip.",
+    "Defendants can sometimes remove a qualifying state case to federal court.",
+    "Federal appeals go to the Second Circuit, then possibly the U.S. Supreme Court."
+  ],
+  "faq_short": "Federal court is the national court system, limited to specific cases: claims under federal law, disputes between citizens of different states exceeding 75,000 dollars, bankruptcy, and cases involving the federal government. Most other disputes proceed in New York state courts. Long Island falls within the Eastern District of New York, with courthouses in Brooklyn and Central Islip, and appeals go to the Second Circuit."
+}

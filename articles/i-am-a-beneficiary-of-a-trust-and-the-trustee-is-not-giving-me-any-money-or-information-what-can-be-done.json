@@ -1,0 +1,32 @@
+{
+ "slug": "i-am-a-beneficiary-of-a-trust-and-the-trustee-is-not-giving-me-any-money-or-information-what-can-be-done",
+ "h1_clean": "I Am a Beneficiary of a Trust and the Trustee Is Not Giving Me Any Money or Information. What Can Be Done?",
+ "meta_desc": "A silent trustee can be forced to account in New York Surrogate's Court. Learn the demand-then-petition process beneficiaries use to get answers and money.",
+ "direct_answer": "<p>You can force the issue. New York law entitles trust beneficiaries to information about the trust and, on a proper petition, to a court-ordered accounting of every dollar the trustee has handled. Start with a written demand; if the trustee stays silent, the Surrogate's Court can compel an accounting, order the distributions the trust requires, and suspend or remove a trustee who refuses to comply.</p>",
+ "sections": [
+  {
+   "h2": "Step One: Put Your Demand in Writing",
+   "html": "<p>Before going to court, create a paper trail. Send the trustee a written request — email plus a mailed letter works well — asking for a copy of the trust or at least the provisions affecting your interest, a list of trust assets, an informal accounting of receipts and expenses, and the trustee's position on when distributions will be made.</p><p>Give a reasonable deadline. Many stalled situations break loose right here, because the letter signals that you know your rights. If the deadline passes in silence, the letter becomes Exhibit A: it shows a court that you asked properly and were stonewalled, which colors everything the trustee says afterward.</p><p>Be precise about what you request and when you requested it. Vague complaints are easy to deflect; a numbered list of documents with a deadline is not. Precision now also makes any court papers faster and cheaper to prepare later, because the petition practically writes itself from your correspondence.</p>"
+  },
+  {
+   "h2": "Compelling an Accounting in Surrogate's Court",
+   "html": "<p>A beneficiary can petition the court to compel the trustee to file a formal judicial accounting — a sworn, itemized report of every asset received, every expense paid, every investment made, and every distribution. For trusts connected to an estate, that petition typically belongs in Surrogate's Court; disputes over lifetime trusts can also be brought in Supreme Court.</p><p>Once the court orders an accounting, ignoring it is no longer an option — a trustee who defies a court order faces contempt, suspension, or removal. When the accounting arrives, you can file objections to anything that looks wrong, and the court resolves them. Discovery tools then let your attorney obtain the bank records the trustee never volunteered.</p>"
+  },
+  {
+   "h2": "Getting Distributions Moving",
+   "html": "<p>Whether you are owed money right now depends on the trust's terms. If the trust mandates distributions — all income quarterly, or principal at a stated age — the court can order the trustee to comply. If distributions are discretionary, the trustee gets latitude, but not unlimited latitude: discretion must be exercised in good faith, and a trustee who refuses even to consider requests can be overruled for abusing it.</p><p>Courts can also grant interim relief while the case proceeds — suspending the trustee, restraining trust accounts, or appointing a neutral fiduciary — so the money is protected while the dispute plays out.</p>"
+  },
+  {
+   "h2": "When Silence Justifies Removal",
+   "html": "<p>A trustee who cannot be bothered to inform beneficiaries or account for funds is failing the job's most basic requirements. Persistent stonewalling — especially combined with missing records or unexplained transactions — supports a petition to remove the trustee and appoint a successor.</p><p>Judges notice the difference between a trustee who communicated imperfectly and one who went completely dark. The record you build from today forward — dated letters, unanswered emails, a clear timeline — is what makes that difference visible in court.</p><p>Removal is not the goal in every case — sometimes the accounting reveals honest disorganization rather than wrongdoing, and money starts flowing once a court is watching. But the option needs to be on the table, because it is often what finally motivates a silent trustee to do the job.</p>"
+  }
+ ],
+ "takeaways": [
+  "Start with a written demand for the trust terms, an asset list, and an accounting.",
+  "Courts can compel a sworn judicial accounting if the trustee stays silent.",
+  "Mandatory distributions can be ordered; abused discretion can be overruled.",
+  "Persistent stonewalling supports suspension or removal of the trustee.",
+  "Your demand letter becomes key evidence — send it early and keep copies."
+ ],
+ "faq_short": "Send a written demand for the trust's terms, an asset list, an accounting, and a distribution timeline. If the trustee stays silent, petition the New York Surrogate's Court to compel a sworn judicial accounting. Courts can order required distributions, restrain trust accounts, and suspend or remove a trustee who persists in stonewalling. A documented demand strengthens every later step you take."
+}

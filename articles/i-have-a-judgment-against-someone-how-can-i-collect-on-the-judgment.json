@@ -1,0 +1,28 @@
+{
+  "slug": "i-have-a-judgment-against-someone-how-can-i-collect-on-the-judgment",
+  "h1_clean": "I Have a Judgment Against Someone. How Can I Collect on the Judgment?",
+  "meta_desc": "New York courts do not collect judgments for you. Learn the enforcement tools, from restraining notices to income executions and liens, that get you paid.",
+  "direct_answer": "<p>Winning the judgment was half the battle; New York courts do not collect the money for you. To collect, you first locate the debtor's assets using post-judgment discovery, then apply the CPLR's enforcement tools: restraining notices that freeze bank accounts, income executions that garnish wages, property executions that let the sheriff seize assets, and liens against real estate. A New York money judgment is generally enforceable for twenty years and earns statutory interest, so time is on your side.</p>",
+  "sections": [
+    {
+      "h2": "Step One: Find the Debtor's Assets",
+      "html": "<p>Enforcement starts with intelligence, not paperwork. Begin by docketing the judgment with the county clerk in any county where the debtor owns or might buy real estate; docketing creates a lien on the debtor's real property in that county, which can sit quietly until the property is sold or refinanced.</p><p>Then use post-judgment discovery. Information subpoenas can be served on the debtor, banks, employers, and anyone else who may know about assets, and recipients must answer under penalty of contempt. You can also subpoena the debtor for a deposition and demand documents: tax returns, bank statements, deeds, and business records. Professional asset searches supplement the formal tools. The goal is a working map of where the money actually is, because every enforcement device works better when it is aimed at a known target.</p><p>Do not overlook the simplest sources. Papers from the underlying case often identify the debtor's bank, employer, and property, and a debtor who once wrote you checks has already shown you where an account lives. Start the map with what you already have.</p>"
+    },
+    {
+      "h2": "New York's Judgment Enforcement Toolkit",
+      "html": "<p>Once you know what the debtor has, the CPLR gives you several ways to reach it:</p><ul><li>Restraining notices: served on the debtor or a bank, they freeze accounts and prohibit transfers of property, creating immediate pressure to resolve the debt.</li><li>Income executions: a wage garnishment delivered through the sheriff or marshal that takes a portion of the debtor's earnings, generally up to ten percent of gross wages, until the judgment is paid.</li><li>Property executions: directions to the sheriff to levy on and sell non-exempt assets, including funds in bank accounts.</li><li>Real property liens: a docketed judgment encumbers the debtor's real estate, and in the right circumstances the lien can be enforced through a sale.</li><li>Turnover proceedings: court orders compelling the debtor or a third party holding the debtor's assets to hand them over.</li></ul><p>These tools are most effective layered together, and a debtor facing frozen accounts and garnished wages often proposes payment terms quickly.</p>"
+    },
+    {
+      "h2": "Limits, Exemptions, and Smart Strategy",
+      "html": "<p>Not everything is reachable. New York law exempts certain income and property from collection, including Social Security and various benefit payments, and bank accounts holding exempt funds receive special protection. Pushing against exempt assets wastes money and can create liability, so enforcement has to respect the boundaries.</p><p>Strategy matters as much as force. Interest accrues on the unpaid judgment at the statutory rate, which strengthens your negotiating position over time, and a lump-sum settlement for less than face value is sometimes worth more than years of trickling garnishment. Watch the calendar too: the judgment is generally enforceable for twenty years, but real property liens have shorter renewal deadlines. If the debtor transferred assets to avoid paying, fraudulent transfer claims can bring them back into reach.</p><p>One caution: if the debtor files for bankruptcy, collection must stop immediately under the automatic stay, and continuing to enforce can create liability for the creditor, so any bankruptcy notice deserves prompt attention.</p>"
+    }
+  ],
+  "takeaways": [
+    "The court does not collect for you; enforcement is the creditor's job.",
+    "Docket the judgment with the county clerk to create a lien on the debtor's real estate.",
+    "Information subpoenas and debtor depositions locate bank accounts, wages, and property.",
+    "Restraining notices, income executions, and sheriff levies convert assets into payment.",
+    "Exempt income like Social Security is off limits, so aim enforcement carefully."
+  ],
+  "faq_short": "New York courts do not collect judgments for you. Docket the judgment with the county clerk to create a real estate lien, then use information subpoenas to find bank accounts and employment. From there, restraining notices freeze accounts, income executions garnish a portion of wages, and the sheriff can levy on property. Judgments generally remain enforceable for twenty years with interest accruing."
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "ive-been-sued-do-i-need-an-attorney",
+  "h1_clean": "I've Been Sued. Do I Need an Attorney?",
+  "meta_desc": "Served with a lawsuit in New York? You have a short window to respond before default. Learn when you truly need a lawyer and what ignoring the case costs.",
+  "direct_answer": "<p>You are not legally required to hire an attorney when you are sued as an individual in New York, but in most cases you would be wise to. The clock is short: you generally have twenty to thirty days to respond after being served, depending on how service was made, and failing to respond can lead to a default judgment for everything the plaintiff demanded. If a company was sued, the answer changes entirely, because businesses generally must appear through counsel.</p>",
+  "sections": [
+    {
+      "h2": "The Deadline Starts the Moment You Are Served",
+      "html": "<p>Once you receive a summons, New York procedure gives you a limited window, generally twenty to thirty days depending on the method of service, to appear and respond. The response is usually an answer, which admits or denies each allegation and raises your defenses, or a motion attacking the complaint.</p><p>Some of your strongest defenses are also the most perishable. Objections such as improper service or lack of jurisdiction over you generally must be raised at the outset or they are waived, and an expired statute of limitations does you no good if nobody asserts it. This is a large part of why early legal advice matters: an experienced litigator reads the papers looking for exits, not just for what the plaintiff claims. Before anything else, note the date you were served and how, because that detail controls your deadline.</p>"
+    },
+    {
+      "h2": "What Ignoring a Lawsuit Actually Costs",
+      "html": "<p>Doing nothing is the one guaranteed way to lose. If you fail to respond, the plaintiff can apply for a default judgment, and the court can award what was demanded without ever hearing your side. That judgment is fully enforceable: bank accounts can be restrained, a portion of wages garnished through an income execution, and a lien placed against your home.</p><p>New York courts can vacate a default, but relief is not automatic. You generally must move promptly and show both a reasonable excuse for the default and a meritorious defense, and judges have discretion to say no. Cleaning up a default is almost always harder and more expensive than answering the complaint on time would have been. Even if the lawsuit seems baseless or you were never properly served, the safe path runs through responding, not ignoring.</p>"
+    },
+    {
+      "h2": "When You Can Go It Alone, and When You Should Not",
+      "html": "<p>There are real situations where hiring counsel may not be necessary. Small claims cases are designed for self-represented parties, with informal procedures and modest amounts at stake. Some people also handle simple disputes where the cost of a lawyer would exceed the amount in controversy.</p><p>Outside those settings, the value of counsel scales with the stakes. A lawyer evaluates defenses and counterclaims, preserves the objections that expire early, manages discovery so you do not hand the other side its case, and negotiates from knowledge rather than fear. If there is any insurance policy that might cover the claim, notify the carrier immediately, because coverage can include a defense.</p><p>One rule has no exception worth trusting: if your corporation or LLC was sued, it generally cannot appear pro se in New York, so the company needs an attorney to avoid defaulting.</p><p>Cost worries are legitimate, and there are ways to manage them. Some attorneys handle a defense in stages, quote flat fees for discrete steps such as an answer and early motions, or scope a limited engagement so you know the outlay before committing. Weigh those options against what a default judgment would cost you, and the decision usually makes itself.</p>"
+    }
+  ],
+  "takeaways": [
+    "You generally have twenty to thirty days after service to respond to a New York lawsuit.",
+    "Ignoring the suit invites a default judgment, followed by frozen accounts, garnishment, and liens.",
+    "Defenses like improper service and jurisdiction are typically waived if not raised early.",
+    "Small claims court is built for self-representation; higher-stakes cases usually justify counsel.",
+    "A sued corporation or LLC generally must appear through an attorney."
+  ],
+  "faq_short": "Individuals are not required to hire a lawyer after being sued in New York, but the response deadline is short, generally twenty to thirty days after service, and ignoring the case risks a default judgment and enforcement against wages, accounts, and property. Counsel preserves defenses that expire early, such as improper service. A corporation or LLC generally must appear through an attorney."
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "how-long-does-a-lawsuit-take",
+  "h1_clean": "How Long Does a Lawsuit Take?",
+  "meta_desc": "From filing to verdict, a New York lawsuit can run from months to years. A phase-by-phase look at the litigation clock and what stretches or shortens it.",
+  "direct_answer": "<p>A lawsuit in New York can take anywhere from a few months to several years, and one to three years is a realistic expectation for a contested case in Supreme Court. Each phase has its own clock: responding to the complaint takes weeks, discovery frequently takes a year or more, and getting from the trial calendar to a verdict can add many months. Settlement can cut the timeline short at any point, and an appeal can extend it well past the verdict.</p>",
+  "sections": [
+    {
+      "h2": "The Litigation Clock, Phase by Phase",
+      "html": "<p>Here is how the time typically accumulates in a New York civil case:</p><ul><li>Pleadings: after being served, a defendant generally has twenty to thirty days to respond, depending on how service was made. A motion to dismiss can add months while it is briefed and decided.</li><li>Discovery: document demands, written interrogatories, and depositions unfold under a court-ordered schedule. In a genuinely contested case this phase routinely takes a year or longer.</li><li>Note of issue: this filing certifies the case as trial-ready and moves it onto the trial calendar.</li><li>Trial wait and trial: depending on the court's backlog, the wait for a trial date can be substantial. The trial itself may last days or weeks.</li><li>Judgment and appeal: entering judgment takes additional weeks, and an appeal to the Appellate Division can add a year or more.</li></ul><p>Add those phases together and the arithmetic explains the ranges lawyers quote: a case that settles during discovery might finish inside a year, while one that runs through trial and appeal can occupy three or more.</p>"
+    },
+    {
+      "h2": "Why Some Cases Take So Much Longer",
+      "html": "<p>Five factors do most of the stretching. First, complexity: a two-party contract dispute moves faster than a case with six parties, expert witnesses, and years of financial records. Second, discovery fights: when parties resist turning over documents, motions to compel and extra conferences eat months. Third, dispositive motions: a summary judgment motion can sit with the court for a long stretch before decision.</p><p>Fourth, congestion: the Supreme Court calendars in Nassau and Suffolk are busy, and judges manage hundreds of cases at once. Fifth, adjournments: postponed depositions and conferences are routine, and each one nudges everything downstream.</p><p>None of this is within any one party's full control, which is why honest lawyers give ranges instead of dates.</p><p>Where the case is filed matters too. The small claims parts of Long Island's District Courts resolve modest disputes in a fraction of the time a Supreme Court case takes, precisely because procedures are simplified and discovery is minimal. Supreme Court, with fuller procedure and a fuller calendar, sits at the other end of the spectrum. When you have a choice of forum, the speed difference belongs in the decision alongside the dollar limits.</p>"
+    },
+    {
+      "h2": "Can You Make a Lawsuit Go Faster?",
+      "html": "<p>You cannot control the court's calendar, but you can control your side of the case. Pleading focused claims instead of every conceivable theory narrows discovery. Responding to discovery promptly and completely removes excuses for delay. Showing up to conferences ready with a proposed schedule tends to produce tighter orders.</p><p>Some matters also qualify for faster procedural tracks. Certain disputes can be brought as special proceedings, which are streamlined and decided largely on papers, and commercial cases may be eligible for parts of the court that actively manage deadlines. Mediation or direct negotiation can resolve a case in weeks that litigation would take years to finish.</p><p>Speed is a strategic choice with tradeoffs. Sometimes pressing hard for an early resolution serves you; sometimes the stronger play is patience while the evidence develops.</p>"
+    }
+  ],
+  "takeaways": [
+    "One to three years is a realistic range for a contested New York lawsuit.",
+    "Defendants generally have twenty to thirty days to respond after being served.",
+    "Discovery is the longest phase and routinely takes a year or more.",
+    "Congested Nassau and Suffolk calendars and adjournments stretch every stage.",
+    "Settlement, mediation, or a streamlined special proceeding can shorten the timeline dramatically."
+  ],
+  "faq_short": "A contested lawsuit in New York typically takes one to three years, though some resolve in months. Responding to a complaint takes weeks, discovery often takes a year or more, and the wait for a trial date depends on the court's backlog. Settlement can end the case at any stage, while an appeal after judgment can add a year or more."
+}

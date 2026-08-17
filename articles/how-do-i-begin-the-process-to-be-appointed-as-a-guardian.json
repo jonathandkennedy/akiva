@@ -1,0 +1,28 @@
+{
+  "slug": "how-do-i-begin-the-process-to-be-appointed-as-a-guardian",
+  "h1_clean": "How Do I Begin The Process To Be Appointed As A Guardian?",
+  "meta_desc": "Becoming a guardian for an incapacitated adult in New York starts with an Article 81 petition in Supreme Court. See the steps, who is notified, and what to expect.",
+  "direct_answer": "<p>To be appointed guardian of an incapacitated adult in New York, you begin by filing a petition under Article 81 of the Mental Hygiene Law in the Supreme Court of the county where the person lives. The petition explains why the person cannot manage their personal or financial affairs and what powers you are asking for. The court then sets a hearing date, requires notice to the person and their close family, and typically appoints a court evaluator to investigate and report back to the judge.</p>",
+  "sections": [
+    {
+      "h2": "Step One: Confirm Guardianship Is Actually Needed",
+      "html": "<p>Before filing anything, make sure there is no simpler path. If your loved one already signed a durable power of attorney and health care proxy while they had capacity, those documents may give the family all the authority it needs, and no court case is required.</p><p>Guardianship is the tool of last resort, used when no valid advance documents exist and the person can no longer understand or sign them. Courts expect you to explain in the petition why less restrictive alternatives will not work.</p>"
+    },
+    {
+      "h2": "Filing The Article 81 Petition",
+      "html": "<p>The petition is the heart of the case. It is filed in Supreme Court, usually with an order to show cause that sets the hearing date. A well-prepared petition includes:</p><ul><li>Specific, recent examples of the person's inability to manage their affairs, such as unpaid bills, wandering, missed medications, or susceptibility to scams.</li><li>A description of their assets, income, and living situation.</li><li>The exact powers you are requesting, personal, financial, or both.</li><li>Why you are a suitable guardian and how you are related.</li></ul><p>Vague claims of confusion are not enough. Judges want concrete facts showing the person is likely to suffer harm without a guardian.</p>"
+    },
+    {
+      "h2": "Notice, The Court Evaluator, And The Hearing",
+      "html": "<p>The person you seek to protect, called the alleged incapacitated person, must be personally served with the papers and has the right to appear and to counsel. Close relatives are also notified so they can support or oppose the petition.</p><p>The court usually appoints a court evaluator, a neutral professional who interviews the person, the petitioner, and others, reviews finances and medical information, and files a report with recommendations. At the hearing, the judge takes testimony and decides whether incapacity has been proven by clear and convincing evidence. If so, the court signs an order and, after you file your commission and any required bond, you receive the official authority to act.</p>"
+    }
+  ],
+  "takeaways": [
+    "Adult guardianship in New York is filed under Article 81 in Supreme Court, not Surrogate's Court.",
+    "Check for an existing power of attorney and health care proxy first; they may make guardianship unnecessary.",
+    "The petition must give specific examples of harm, not just a diagnosis.",
+    "The person and their close family receive notice, and a court evaluator usually investigates.",
+    "The judge grants only the specific powers the person actually needs."
+  ],
+  "faq_short": "You start by filing a petition under Article 81 of the Mental Hygiene Law in the Supreme Court of the county where the person lives, describing specific ways they cannot manage their affairs and the powers you seek. The court sets a hearing, notifies the person and close relatives, and usually appoints a court evaluator to investigate before the judge decides."
+}

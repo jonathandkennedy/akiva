@@ -1,0 +1,28 @@
+{
+  "slug": "what-documents-are-in-an-estate-plan-in-new-york",
+  "h1_clean": "What Documents Are in an Estate Plan in New York?",
+  "meta_desc": "Every complete New York estate plan starts with four core documents — and often a trust. Here is what each document does and how they work together.",
+  "direct_answer": "<p>A complete New York estate plan is built on four core documents — a last will and testament, a durable power of attorney, a health care proxy, and a living will — and often adds a fifth, a revocable or irrevocable trust. Each document has its own job and its own signing formalities under New York law, and they are drafted to work together as a single coordinated plan.</p>",
+  "sections": [
+    {
+      "h2": "The Will and the Trust: Where Your Property Goes",
+      "html": "<p>The last will and testament is the backbone. It says who inherits your property, names the executor who will administer your estate, and nominates guardians for minor children. New York enforces strict execution rules — a will must be signed with the required witnesses under formal procedures — and after death it is submitted to Surrogate's Court for probate before it has any effect.</p><p>A trust picks up what a will cannot do. A revocable living trust holds assets during your lifetime and passes whatever it owns at your death directly to your beneficiaries, without probate. Irrevocable trusts are more specialized tools, used for goals like protecting assets from long-term care costs in Medicaid planning. A trust only governs what has been titled into it, which is why funding the trust is part of the work.</p><p>Which vehicle leads — will or trust — shapes the whole plan. A will-based plan is simpler up front and relies on Surrogate's Court after death; a trust-based plan asks more effort during life and less of your family afterward. Neither is automatically better. The right choice depends on your assets, your family, and how much court involvement you want to spare them.</p>"
+    },
+    {
+      "h2": "The Lifetime Documents: Power of Attorney and Health Care Proxy",
+      "html": "<p>Two documents protect you while you are alive. The durable power of attorney appoints an agent to manage your financial life — banking, bills, real estate, taxes — and remains effective if you become incapacitated. New York uses a statutory form with precise signing requirements, and without a valid one, your family's alternative is often a court-supervised guardianship proceeding.</p><p>The health care proxy is the medical counterpart. It appoints one agent at a time, with alternates as backup, to make treatment decisions when you cannot. It is the document hospitals ask for first, and it spares your family from disputes about who speaks for you.</p>"
+    },
+    {
+      "h2": "The Living Will — Plus Keeping the Documents Usable",
+      "html": "<p>The living will states your wishes about life-sustaining treatment — ventilators, feeding tubes, resuscitation — in your own words. New York has no statute creating living wills, but courts honor clear written evidence of a patient's wishes, and the document gives your health care agent the guidance and moral cover to follow them.</p><p>Finally, documents only work if they can be found and accepted. Keep signed originals in a safe, accessible place and tell your executor and agents where they are — a will filed away in a forgotten drawer can derail an entire plan. And because New York periodically updates its forms, especially the power of attorney, documents signed many years ago should be reviewed to be sure banks and hospitals will still honor them smoothly.</p><p>Beyond the core five, many New York plans add supporting pieces: a HIPAA authorization so loved ones can speak with your doctors, an appointment of an agent to control disposition of remains for funeral and burial wishes, provisions granting fiduciaries access to digital assets, and a plain-language letter of instruction telling your family where everything is. None of these replaces the core documents — they make the core documents easier to use.</p>"
+    }
+  ],
+  "takeaways": [
+    "The four core documents: will, durable power of attorney, health care proxy, and living will.",
+    "Many New York plans add a revocable or irrevocable trust to avoid probate or protect assets.",
+    "Each document has strict New York signing formalities — execution errors can be fatal.",
+    "The power of attorney and health care proxy prevent court-supervised guardianship in incapacity.",
+    "Originals must be stored safely, findable, and periodically reviewed for outdated forms."
+  ],
+  "faq_short": "A New York estate plan is built on four core documents: a last will and testament, a durable power of attorney, a health care proxy, and a living will. Many plans add a revocable or irrevocable trust to avoid probate, manage assets, or protect them in Medicaid planning. Each document has strict New York signing formalities, and together they cover inheritance, finances, and medical decisions."
+}

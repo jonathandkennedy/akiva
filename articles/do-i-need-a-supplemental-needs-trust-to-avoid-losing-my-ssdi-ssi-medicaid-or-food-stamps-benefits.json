@@ -1,0 +1,28 @@
+{
+  "slug": "do-i-need-a-supplemental-needs-trust-to-avoid-losing-my-ssdi-ssi-medicaid-or-food-stamps-benefits",
+  "h1_clean": "Do I Need A Supplemental Needs Trust To Avoid Losing My SSDI, SSI, Medicaid Or Food Stamps Benefits?",
+  "meta_desc": "An inheritance or settlement can cut off SSI, Medicaid, or SNAP. Learn when a supplemental needs trust protects benefits in New York and when you may not need one.",
+  "direct_answer": "<p>If you receive means-tested benefits like SSI, Medicaid, or SNAP (food stamps) and you are about to receive money, a supplemental needs trust is often the tool that lets you keep both. These programs have strict income and resource limits, so an inheritance, lawsuit settlement, or gift held in your own name can disqualify you. Money placed in a properly drafted supplemental needs trust is not counted against those limits. SSDI is different: it is based on your work record, not your assets, so receiving money does not affect it.</p>",
+  "sections": [
+    {
+      "h2": "Which Benefits Are Actually At Risk",
+      "html": "<p>The first step is sorting your benefits into two buckets. Means-tested benefits look at what you own and earn. Entitlement benefits do not.</p><ul><li><strong>At risk:</strong> SSI (Supplemental Security Income), Medicaid, and SNAP are means-tested. Exceeding the resource limit, even briefly, can suspend or terminate them.</li><li><strong>Not at risk:</strong> SSDI (Social Security Disability Insurance) and Medicare are earned benefits. An inheritance or settlement does not affect them.</li></ul><p>Many people on SSDI also receive Medicaid to cover what Medicare does not. If that is you, the Medicaid piece is what the trust protects.</p>"
+    },
+    {
+      "h2": "How A Supplemental Needs Trust Protects You",
+      "html": "<p>A supplemental needs trust, sometimes called a special needs trust, holds money for a person with a disability without the money counting as their resource. A trustee, not the beneficiary, controls the funds and uses them for things benefits do not cover: therapies, a wheelchair-accessible vehicle, home modifications, clothing, travel, and quality-of-life expenses.</p><p>New York recognizes these trusts by statute, and Medicaid and Social Security honor them when they are drafted correctly. The key is that the beneficiary cannot demand the money. Because the funds supplement rather than replace government benefits, eligibility continues.</p>"
+    },
+    {
+      "h2": "First-Party, Third-Party, And Pooled Options",
+      "html": "<p>The right structure depends on whose money is going in. If the funds are yours, such as a personal injury settlement or an inheritance already paid to you, you need a first-party trust, which must contain a provision paying Medicaid back at your death. If a parent or relative is leaving you money, they should use a third-party supplemental needs trust in their will or living trust, which has no payback requirement. A pooled trust run by a nonprofit is often the practical choice for smaller amounts or for sheltering excess income.</p><p>Timing matters enormously. Planning before the money arrives preserves the most options, but even after a windfall lands, prompt legal action can usually restore or preserve eligibility.</p>"
+    }
+  ],
+  "takeaways": [
+    "SSI, Medicaid, and SNAP are means-tested; a windfall in your own name can end them.",
+    "SSDI and Medicare are based on your work record and are not affected by assets.",
+    "A properly drafted supplemental needs trust keeps funds from counting against benefit limits.",
+    "First-party trusts hold your own money and require a Medicaid payback; third-party trusts do not.",
+    "Plan before an inheritance or settlement arrives whenever possible."
+  ],
+  "faq_short": "If you receive SSI, Medicaid, or SNAP, yes, a supplemental needs trust is usually needed before you receive an inheritance or settlement, because those programs have strict resource limits. Money in a properly drafted trust does not count against you. SSDI is not means-tested, so it is unaffected. The right trust type depends on whose money funds it."
+}

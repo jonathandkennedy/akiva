@@ -1,0 +1,28 @@
+{
+  "slug": "what-are-the-basic-items-entailed-in-an-estate-plan",
+  "h1_clean": "What Are the Basic Items Entailed in an Estate Plan?",
+  "meta_desc": "The basic items in a New York estate plan: a will, durable power of attorney, health care proxy, living will, and often a trust. What each one does.",
+  "direct_answer": "<p>A basic New York estate plan contains five core items: a last will and testament, a durable power of attorney, a health care proxy, a living will, and — for many families — a revocable or irrevocable trust. Together they answer three questions: who inherits what you own, who manages your affairs if you cannot, and who makes medical decisions when you cannot speak for yourself.</p>",
+  "sections": [
+    {
+      "h2": "The Five Core Items and What Each One Does",
+      "html": "<p>Each piece of the plan has a distinct job:</p><ul><li><strong>Last will and testament.</strong> Directs who inherits your property, names an executor to carry it out, and — critically for parents — nominates guardians for minor children.</li><li><strong>Durable power of attorney.</strong> Appoints an agent to handle your finances, and stays effective even if you become incapacitated. Without it, your family may need a court-appointed guardian just to pay your bills.</li><li><strong>Health care proxy.</strong> Names the person who makes medical decisions for you when you cannot.</li><li><strong>Living will.</strong> Records your wishes about life-sustaining treatment, so your proxy and doctors are not left guessing.</li><li><strong>Trust.</strong> A revocable trust can hold assets during your life and pass them outside of court at death; irrevocable trusts serve targeted goals like asset protection and Medicaid planning.</li></ul>"
+    },
+    {
+      "h2": "The Items People Forget: Titles, Beneficiaries, and Guardians",
+      "html": "<p>An estate plan is more than its documents. Life insurance, retirement accounts, and any account with a named beneficiary pass directly to that beneficiary — outside your will entirely. Jointly titled property usually goes straight to the surviving owner the same way. If these designations contradict the will, the designations generally win. Reviewing and coordinating them is a basic item of every plan, and one of the most commonly skipped.</p><p>For parents of minor children, the guardianship nomination in the will may be the single most important sentence in the entire plan. It tells the court who you chose to raise your children, rather than leaving that decision to a judge weighing competing relatives. A simple written inventory of your assets, accounts, and key contacts rounds out the basics, sparing your family a scavenger hunt at the worst possible time.</p><p>Digital life belongs on the list now too: email, photos, online banking, subscriptions, even loyalty points. New York law allows fiduciaries to be given access to digital assets, but generally only if your documents grant it — modern plans build that authorization in.</p>"
+    },
+    {
+      "h2": "Does a Basic Plan Need a Trust?",
+      "html": "<p>Not always. For some New Yorkers, a well-drafted will plus the incapacity documents does the job. Trusts earn their place when they solve a specific problem: avoiding probate in Surrogate's Court, managing an inheritance for young children or a family member with special needs, keeping affairs private, handling out-of-state property, or protecting assets in long-term care and Medicaid planning.</p><p>The right answer depends on your assets, your family, and your goals — which is exactly what the planning conversation is for. The basic items are standard; how they are assembled should not be.</p><p>To see how the items work together, follow one thread: if illness strikes, your power of attorney lets your agent manage the accounts and your health care proxy directs your treatment, guided by your living will. At death, the will — or the trust, if you funded one — moves your property to the right hands, while your beneficiary designations quietly deliver the insurance and retirement funds. Remove any one item and the others strain to cover the gap. A plan is a system, not a stack of paper.</p>"
+    }
+  ],
+  "takeaways": [
+    "The core items are a will, durable power of attorney, health care proxy, living will, and often a trust.",
+    "The will also nominates guardians for minor children — vital for parents.",
+    "Beneficiary designations and joint titles pass property outside the will and must be coordinated.",
+    "The power of attorney and health care proxy protect you while you are alive.",
+    "A trust is added when it solves a specific problem, such as probate avoidance or asset protection."
+  ],
+  "faq_short": "A basic New York estate plan includes a last will and testament, a durable power of attorney, a health care proxy, a living will, and often a revocable or irrevocable trust. It also involves coordinating beneficiary designations and account titles, which pass property outside the will, and nominating guardians for minor children. Together these items cover inheritance, incapacity, and medical decisions."
+}

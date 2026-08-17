@@ -1,0 +1,28 @@
+{
+  "slug": "what-is-a-guardian",
+  "h1_clean": "What Is A Guardian?",
+  "meta_desc": "A guardian is a person with legal authority to make decisions for someone who cannot. Learn what guardians do in New York and how Article 81 guardianship works.",
+  "direct_answer": "<p>A guardian is a person appointed by a court to make decisions for someone who cannot make them on their own, either a minor child or an adult who has lost the ability to manage their personal or financial affairs. In New York, guardianship of an incapacitated adult is governed by Article 81 of the Mental Hygiene Law and handled in Supreme Court. The guardian steps into a legally supervised role, handling things like housing, medical arrangements, bills, and property, with duties owed to the person they protect.</p>",
+  "sections": [
+    {
+      "h2": "The Main Types Of Guardianship In New York",
+      "html": "<p>The word guardian covers several distinct legal roles, and families often mix them up:</p><ul><li><strong>Article 81 guardian.</strong> For adults who have become incapacitated, commonly due to dementia, stroke, brain injury, or serious mental illness. Powers are tailored to the person's actual needs.</li><li><strong>Article 17-A guardian.</strong> For adults with intellectual or developmental disabilities, appointed in Surrogate's Court, typically with broader, less tailored authority.</li><li><strong>Guardian of a minor.</strong> For children who need an adult to manage their person or property, for example after a parent's death or when a child receives money.</li></ul><p>Most elder-law situations, an aging parent who can no longer manage safely, fall under Article 81.</p>"
+    },
+    {
+      "h2": "What A Guardian Actually Does",
+      "html": "<p>A guardian's job is defined by the court order. Guardianship of the person covers life decisions: where the person lives, arranging aides or a facility, consenting to certain care, and making sure daily needs are met. Guardianship of the property covers money: collecting income, paying bills, safeguarding accounts and real estate, pursuing benefits such as Medicaid, and keeping meticulous records.</p><p>A guardian is a fiduciary, which means the law holds them to the highest standard of loyalty. They must act in the person's best interest, honor the person's own wishes where possible, use the least restrictive options, and never mix the person's money with their own. New York guardians complete court-approved training, may post a bond, and file reports the court reviews.</p>"
+    },
+    {
+      "h2": "Why Guardianship Is The Last Resort",
+      "html": "<p>Because guardianship removes rights from an adult, New York courts require clear and convincing evidence of incapacity and proof that nothing less intrusive will work. The person receives notice, may have counsel, and a court evaluator usually investigates before any decision.</p><p>The alternative most families overlook is planning. A durable power of attorney and health care proxy, signed while a person still has capacity, hand chosen loved ones the same practical authority with no court, no evaluator, and a fraction of the cost. Guardianship exists for those who never got the chance, or never took it.</p>"
+    }
+  ],
+  "takeaways": [
+    "A guardian is court-appointed to decide for someone who cannot decide for themselves.",
+    "Incapacitated adults in New York fall under Article 81 of the Mental Hygiene Law.",
+    "Guardianship can cover personal needs, property management, or both.",
+    "Guardians are fiduciaries who complete training, may post bonds, and file annual reports.",
+    "A power of attorney signed in time usually makes guardianship unnecessary."
+  ],
+  "faq_short": "A guardian is a person a court appoints to make decisions for someone unable to manage their own affairs, whether a minor or an incapacitated adult. In New York, adult guardianships proceed under Article 81 of the Mental Hygiene Law in Supreme Court. The guardian may handle personal needs, finances, or both, always under court supervision and fiduciary duties."
+}

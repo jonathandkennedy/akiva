@@ -1,0 +1,28 @@
+{
+  "slug": "can-a-person-handle-a-case-pro-se",
+  "h1_clean": "Can a Person Handle a Case Pro Se?",
+  "meta_desc": "Yes, you can represent yourself in a New York lawsuit. Learn what pro se litigants must handle, where self-representation works, and where it backfires.",
+  "direct_answer": "<p>Yes. Every individual has the right to appear in New York courts without a lawyer, which is called proceeding pro se. The catch is that pro se litigants are held to the same rules, deadlines, and evidence standards as attorneys, and neither the judge nor the court staff can give you legal advice. Self-representation is realistic in small claims court, but in Supreme Court litigation the risks climb quickly, and what you save in fees you can easily lose in the outcome.</p>",
+  "sections": [
+    {
+      "h2": "What Proceeding Pro Se Means in New York",
+      "html": "<p>Pro se is a Latin phrase meaning for oneself. When you appear pro se, you act as your own attorney from start to finish: you draft the pleadings, respond to motions, conduct discovery, question witnesses, and argue your position to the court. Every New York court, from a village Justice Court up to the Court of Appeals, allows an individual to do this.</p><p>The right has two important limits. First, it belongs to people, not companies. A corporation or LLC in New York generally must appear through a licensed attorney, so a business owner cannot answer a lawsuit on the company's behalf. Second, the court must stay neutral. Judges are often patient with self-represented parties, but they cannot tell you what to file, which defenses to raise, or how to repair a mistake, and the clerk's office is barred from giving legal advice. You are on your own in a system built by and for professionals.</p>"
+    },
+    {
+      "h2": "The Real Risks of Representing Yourself",
+      "html": "<p>New York civil practice runs on the CPLR, the state's detailed rulebook covering how papers are served, when responses are due, and how evidence is exchanged. The court will expect you to know it. Miss the deadline to answer a complaint and you risk a default judgment. Fail to raise a defense such as improper service or an expired statute of limitations at the right moment and you may lose it forever.</p><p>Discovery carries its own traps. You must answer document demands and sit for a deposition, and a careless response can sink an otherwise winnable case. At trial, the rules of evidence control what the judge or jury actually hears, and objections you never make are objections you lose.</p><p>There is an emotional cost too. It is genuinely hard to make calm, strategic decisions in your own dispute, especially opposite a trained adversary. Professional distance is a real part of what a lawyer provides.</p><p>One more reality check: your adversary's attorney owes you no help and no warnings. Opposing counsel may be courteous, but their job is to win for their client, and they are entitled to hold you to every rule. Court help centers can explain procedure and point you to forms, yet they stop short of legal advice, which is exactly the piece a contested case demands.</p>"
+    },
+    {
+      "h2": "Where Pro Se Works and Where It Usually Fails",
+      "html": "<p>Self-representation makes sense in some settings. The small claims parts of Long Island's District Courts and of City, Town, and Village Courts are informal by design, with simplified procedures and modest dollar limits. Many people handle those cases alone and do fine, because the courts are built to accommodate them.</p><p>The picture changes in Supreme Court, where contract disputes, business breakups, and estate litigation play out under the full weight of the CPLR, usually against opposing counsel who know the local motion practice. Appeals are less forgiving still, because they turn on a precise written record and strict briefing rules.</p><p>A practical test: weigh what you could lose against the cost of representation. If the amount at stake is modest, going it alone may be a rational choice. If your home, business, savings, or an inheritance is on the line, the fees you save rarely justify the risk you take on.</p>"
+    }
+  ],
+  "takeaways": [
+    "Individuals may represent themselves in any New York court; corporations generally cannot.",
+    "Pro se litigants must follow the same CPLR rules and deadlines as lawyers.",
+    "Judges and court clerks cannot give you legal advice or fix your mistakes.",
+    "Small claims court is designed for self-representation; Supreme Court litigation is not.",
+    "Measure the decision by what you stand to lose, not just the fees you save."
+  ],
+  "faq_short": "Yes. New York allows individuals to represent themselves, known as appearing pro se, in any court. You must follow the same rules, deadlines, and evidence standards as an attorney, and judges cannot assist or advise you. Self-representation is common in small claims court, but in higher-stakes Supreme Court cases most people are better served by counsel. Corporations generally must appear through an attorney."
+}

@@ -1,0 +1,32 @@
+{
+ "slug": "what-is-an-off-shore-trust",
+ "h1_clean": "What Is an Offshore Trust?",
+ "meta_desc": "An offshore trust is governed by foreign law and built for asset protection. What New Yorkers should know about how they work, their limits, and the cost.",
+ "direct_answer": "<p>An offshore trust is a trust established under the laws of a foreign jurisdiction — most famously the Cook Islands or Nevis — usually with a foreign trustee, and usually built for one purpose: protecting assets from future creditors. Offshore trusts are legal for New Yorkers, but they are tax-neutral, heavily regulated, and expensive, so they make sense only for a narrow band of people with serious liability exposure.</p>",
+ "sections": [
+  {
+   "h2": "How an Offshore Trust Works",
+   "html": "<p>The structure resembles a domestic irrevocable trust: you transfer assets to a trustee to hold under written terms for named beneficiaries. The difference is the governing law. Jurisdictions like the Cook Islands wrote statutes deliberately friendly to trust creators — they generally refuse to enforce American judgments, force creditors to relitigate locally, impose demanding proof standards, and set short windows for challenging transfers.</p><p>Notably, these jurisdictions allow self-settled asset protection — a trust that shields assets while you remain a beneficiary. New York law refuses that combination, voiding trusts for the creator's own benefit as against creditors, and that gap is the core reason offshore trusts exist. A common design pairs the trust with an offshore LLC you manage day to day, with the foreign trustee positioned to take over if serious trouble arrives.</p>"
+  },
+  {
+   "h2": "What Offshore Trusts Do — and Do Not — Protect",
+   "html": "<p>The protection is real but bounded. A creditor holding a New York judgment faces an expensive, uphill fight to reach Cook Islands or Nevis assets, which creates powerful settlement leverage for the person who planned ahead. But you remain personally before American courts, which can order you to repatriate assets and jail you for contempt if you refuse — an outcome that has actually happened to trust creators who played games.</p><p>Timing is the other boundary. Transfers made after a claim already exists can be attacked as voidable under New York law. Offshore trusts protect against tomorrow's unknown risks; they cannot erase today's creditors, and attempting that multiplies your legal problems instead of solving them.</p>"
+  },
+  {
+   "h2": "Taxes, Reporting, and Cost",
+   "html": "<p>An offshore trust saves no income tax. United States citizens are taxed on worldwide income, and the typical asset protection trust is a grantor trust — its income lands on your personal return as if you still owned the assets. What offshore status adds is paperwork: annual federal reporting for foreign trusts and foreign financial accounts, with penalties for noncompliance that can dwarf any benefit the structure provides.</p><p>Add the real costs — setup fees, annual foreign trustee fees, ongoing compliance — and the honest calculus emerges. Offshore trusts fit physicians, developers, business owners, and others with outsized lawsuit exposure and substantial liquid assets. For most Long Island families, domestic irrevocable trusts, sound insurance, and good entity planning deliver the protection they actually need at a fraction of the cost and complexity.</p>"
+  },
+  {
+   "h2": "Offshore vs. New York Trusts",
+   "html": "<p>The comparison worth making is not offshore versus nothing — it is offshore versus what New York already allows. A New York irrevocable trust can protect assets set aside for your spouse and children, and a Medicaid asset protection trust can shield a home from long-term care costs, all at domestic prices, with familiar courts and no foreign reporting.</p><p>What New York will not do is protect assets in a trust you created for your own benefit; the Estates, Powers and Trusts Law voids that protection as against your creditors. If self-settled protection is truly what your risk profile demands, that is the honest case for going offshore — and it should be made with clear eyes about the cost, the compliance burden, and the limits of what any trust can do.</p>"
+  }
+ ],
+ "takeaways": [
+  "Offshore trusts are governed by creditor-hostile foreign law, most often the Cook Islands or Nevis.",
+  "They permit self-settled protection that New York law does not allow.",
+  "American courts keep power over you personally, including contempt sanctions.",
+  "They are tax-neutral and carry heavy annual federal reporting duties.",
+  "Best suited to high-liability clients; most families do better with domestic tools."
+ ],
+ "faq_short": "An offshore trust is a trust created under a foreign jurisdiction's laws — commonly the Cook Islands or Nevis — usually with a foreign trustee, designed to protect assets from future creditors. It is legal for New Yorkers but provides no income tax savings, carries strict federal reporting requirements, and cannot shield assets from existing creditors, whose claims can unwind recent transfers."
+}

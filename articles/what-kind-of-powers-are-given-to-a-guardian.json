@@ -1,0 +1,28 @@
+{
+  "slug": "what-kind-of-powers-are-given-to-a-guardian",
+  "h1_clean": "What Kind Of Powers Are Given To A Guardian?",
+  "meta_desc": "New York guardians receive only the specific powers a judge grants, over personal needs, property, or both. See what Article 81 guardianship powers actually include.",
+  "direct_answer": "<p>A guardian in New York receives only the specific powers listed in the court's order, nothing more. Under Article 81 of the Mental Hygiene Law, judges tailor guardianships to the individual, granting personal needs powers, such as deciding where the person lives and arranging their care, property management powers, such as paying bills and handling accounts and real estate, or both. The person under guardianship keeps every right the order does not expressly remove, and the guardian must always use the least restrictive means available.</p>",
+  "sections": [
+    {
+      "h2": "Personal Needs Powers",
+      "html": "<p>Guardianship of the person addresses daily life and safety. Depending on what the court finds necessary, these powers can include:</p><ul><li>Deciding where the person will live, at home with aides, in assisted living, or in a nursing facility.</li><li>Hiring and supervising home care and managing daily routines.</li><li>Accessing medical records and making certain health care decisions, within limits the order defines.</li><li>Arranging meals, clothing, social activities, and transportation.</li></ul><p>Even with these powers, the guardian must consider the person's own wishes, religious beliefs, and long-standing preferences, and involve them in decisions to the extent they are able to participate.</p>"
+    },
+    {
+      "h2": "Property Management Powers",
+      "html": "<p>Guardianship of the property puts the guardian in charge of finances, as a fiduciary under court supervision. Typical powers include collecting income and benefits, paying bills and taxes, managing bank and investment accounts, maintaining or selling real estate, pursuing lawsuits or claims, and applying for government benefits such as Medicaid.</p><p>Bigger moves usually need specific court permission. Selling the person's home, making gifts, settling a lawsuit, or engaging in Medicaid asset protection planning generally requires the judge's approval of the particular transaction. New York courts can and do authorize guardians to do Medicaid planning, including asset transfers the person would likely have chosen themselves, but the guardian must ask first, not act and explain later.</p>"
+    },
+    {
+      "h2": "The Limits And Duties That Come With The Powers",
+      "html": "<p>Article 81 is built on restraint. The judge must find that each granted power is necessary because of the person's actual functional limitations, and anything not granted stays with the person. A guardian who exceeds the order acts without authority.</p><p>Alongside the powers come enforceable duties: complete court-approved training, possibly post a bond, keep the person's funds strictly separate, keep records of every transaction, visit the person regularly, and file an initial report plus annual accountings that a court examiner reviews. Guardians who mismanage funds or neglect the person can be removed and held financially responsible. In short, the powers are real but borrowed, exercised for the person, under a judge's watch.</p>"
+    }
+  ],
+  "takeaways": [
+    "New York guardians get only the powers the court order lists.",
+    "Personal needs powers cover housing, care arrangements, and certain medical decisions.",
+    "Property powers cover income, bills, accounts, real estate, and benefits applications.",
+    "Selling a home, gifting, or Medicaid planning usually requires specific court approval.",
+    "Guardians are trained, often bonded, and accountable through annual reports."
+  ],
+  "faq_short": "Only the powers the judge grants. Under Article 81, a New York guardian may receive personal needs powers, deciding where the person lives and arranging care, and property powers, paying bills, managing accounts and real estate, and applying for benefits. Major acts like selling a home or making gifts need specific court approval, and the person keeps all rights not expressly removed."
+}

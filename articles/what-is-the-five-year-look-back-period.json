@@ -1,0 +1,28 @@
+{
+  "slug": "what-is-the-five-year-look-back-period",
+  "h1_clean": "What Is The Five-Year Look-Back Period?",
+  "meta_desc": "The five-year look-back is Medicaid's review of every asset transfer made before a nursing-home application. See how it works in New York and what triggers penalties.",
+  "direct_answer": "<p>The five-year look-back period is the window of time Medicaid examines when you apply for nursing-home coverage. In New York, the agency reviews the five years of financial records immediately before your institutional Medicaid application, hunting for gifts and transfers made for less than fair market value. Any uncompensated transfer found in that window, money to a child, a house deeded to family, forgiven loans, can trigger a penalty period during which Medicaid refuses to pay for your nursing-home care.</p>",
+  "sections": [
+    {
+      "h2": "How The Look-Back And Penalty Actually Work",
+      "html": "<p>When you file a nursing-home Medicaid application, you must produce roughly five years of bank statements, brokerage records, and property records. Caseworkers flag withdrawals and transfers they cannot trace to fair-value purchases.</p><p>Each gift found is added up and divided by a regional rate representing the average monthly cost of nursing-home care, producing a penalty period measured in months. The trap is the timing: the penalty does not run from the date of the gift. It begins only when you are in the nursing home, otherwise financially eligible, and applying, precisely when you have no money left and need coverage most. A large gift discovered at that moment can leave a family scrambling to pay for months of care.</p>"
+    },
+    {
+      "h2": "What Counts As A Transfer, And What Does Not",
+      "html": "<p>The rule sweeps broadly, and innocent generosity counts just like strategic gifting:</p><ul><li><strong>Counted:</strong> cash gifts to children or grandchildren, adding a child to a deed, selling property below market value, forgiving debts, and paying relatives for care without a proper written agreement.</li><li><strong>Exempt:</strong> transfers to a spouse; transfers to a blind or disabled child; a home transferred to a caretaker child who lived there two years providing care, or to certain siblings; and transfers into a trust solely for a disabled person under 65.</li></ul><p>Two more critical points: the look-back applies to nursing-home (institutional) Medicaid, and fair-market transactions, where you received full value, are not penalized at all. Ordinary spending on yourself is never a gift.</p>"
+    },
+    {
+      "h2": "Planning Around The Look-Back",
+      "html": "<p>The look-back rewards early planning. Assets moved into a Medicaid asset protection trust, an irrevocable trust designed for this purpose, become fully protected once five years pass from the transfer. Families who fund a trust in their 60s or early 70s typically clear the window long before care is ever needed.</p><p>If care is needed inside five years, all is not lost. Exempt transfers still work, spouses have powerful protections including spousal refusal in New York, gifts can be cured by returning assets, and crisis strategies pairing a partial gift with a promissory note can often preserve a substantial share of savings even at the nursing-home door. The worst plan is hiding transfers; records are verified, and unexplained withdrawals are treated as gifts.</p>"
+    }
+  ],
+  "takeaways": [
+    "New York reviews five years of finances before granting nursing-home Medicaid.",
+    "Gifts and below-market transfers in that window can trigger a penalty period.",
+    "The penalty starts when you apply and are otherwise eligible, not when you gave the gift.",
+    "Transfers to spouses, disabled children, and qualifying caretaker children are exempt.",
+    "Assets in a Medicaid asset protection trust are safe once five years pass."
+  ],
+  "faq_short": "It is the five-year window before a nursing-home Medicaid application that New York reviews for gifts and below-market transfers. Uncompensated transfers found in that period trigger a penalty during which Medicaid will not pay for institutional care, starting when you apply and are otherwise eligible. Transfers to spouses, disabled children, and certain caretaker children are exempt, and early trust planning avoids the problem."
+}

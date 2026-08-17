@@ -1,0 +1,28 @@
+{
+  "slug": "what-is-a-court-appointed-attorney",
+  "h1_clean": "What Is a Court-Appointed Attorney?",
+  "meta_desc": "A court-appointed attorney is assigned by a judge, usually where the law guarantees counsel. See when New York courts appoint lawyers and who qualifies.",
+  "direct_answer": "<p>A court-appointed attorney is a lawyer a judge assigns to represent a party, most commonly someone who cannot afford counsel in a case where the law guarantees representation. In New York, that includes criminal prosecutions, many Family Court matters, and guardianship proceedings, where the court appoints counsel for the person alleged to be incapacitated. In most ordinary civil lawsuits, though, there is no right to a free lawyer, so litigants either retain counsel or represent themselves.</p>",
+  "sections": [
+    {
+      "h2": "When New York Courts Appoint Counsel",
+      "html": "<p>The clearest right to appointed counsel arises in criminal cases. A defendant facing the loss of liberty who cannot afford a lawyer is entitled to one at public expense, provided through public defender offices and assigned counsel panels of private attorneys who accept court appointments.</p><p>The right extends into significant civil territory involving fundamental interests. In Family Court, indigent adults are entitled to assigned counsel in many proceedings, including those involving custody and allegations of neglect, and the court appoints an attorney for the child, a lawyer whose client is the child, in custody and similar disputes. Eligibility for appointed counsel is based on financial circumstances, which the court screens. An appointed lawyer, once assigned, owes the client the same duties of loyalty, confidentiality, and diligence as any retained attorney.</p><p>The terminology varies, which confuses people. Public defender, assigned counsel, and 18-B attorney, a nickname drawn from the law creating the assigned counsel panels, all describe lawyers provided through the courts rather than hired privately. The differences concern administration and funding, not the duty owed to the client.</p>"
+    },
+    {
+      "h2": "Appointments in Guardianship and Estate Matters",
+      "html": "<p>Courts on Long Island make appointments constantly in cases about vulnerable people, and the roles are easy to confuse. In a guardianship proceeding under New York's Mental Hygiene Law, the court generally appoints counsel for the alleged incapacitated person if they do not have their own, so that the person whose rights are at stake has an advocate. That attorney argues for the client's expressed wishes.</p><p>Separately, the court may appoint a court evaluator, a neutral investigator who reports to the judge rather than advocating for anyone, an entirely different function from appointed counsel. In Surrogate's Court, judges appoint guardians ad litem, often attorneys, to protect the interests of minors, unknown heirs, or others who cannot protect themselves in an estate proceeding. Who pays these appointees varies; the court often directs payment from the estate or the assets of the person the proceeding concerns.</p>"
+    },
+    {
+      "h2": "No Right to Appointed Counsel in Most Civil Cases",
+      "html": "<p>If you are suing over a contract, defending a collection case, or fighting about property, do not expect the judge to hand you a lawyer. The constitutional right to appointed counsel does not extend to ordinary civil litigation, and New York courts appoint civil counsel only in the specific categories the legislature or case law has recognized.</p><p>That does not mean people without means are without options. Legal aid and pro bono organizations serve Long Island and take qualifying cases. Bar associations run lawyer referral services. Some claims fit contingency arrangements, where the fee comes from the recovery, and some lawyers offer limited-scope help with discrete tasks at lower cost. Courts also maintain help centers for self-represented litigants, though staff there can explain procedure, not give legal advice. Knowing which door to knock on is half the battle.</p><p>If a court has appointed a lawyer, evaluator, or guardian ad litem in a case affecting you, learn that appointee's precise role early. Your strategy differs sharply depending on whether the person is your advocate or the court's neutral.</p>"
+    }
+  ],
+  "takeaways": [
+    "Court-appointed attorneys are assigned by judges, mainly where the law guarantees counsel.",
+    "Criminal defendants who cannot afford a lawyer are entitled to appointed counsel.",
+    "Family Court assigns counsel to eligible adults and an attorney for the child in custody cases.",
+    "In guardianship cases, appointed counsel advocates for the alleged incapacitated person, while a court evaluator is a neutral.",
+    "There is no right to a free lawyer in most civil suits; legal aid and contingency fees fill some gaps."
+  ],
+  "faq_short": "A court-appointed attorney is a lawyer the judge assigns to represent a party, typically someone who cannot afford counsel where representation is guaranteed: criminal cases, many Family Court matters, and New York guardianship proceedings, where counsel is appointed for the alleged incapacitated person. In most ordinary civil lawsuits there is no right to appointed counsel, so parties retain lawyers or proceed pro se."
+}

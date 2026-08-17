@@ -1,0 +1,28 @@
+{
+  "slug": "what-can-i-do-to-protect-the-money-and-keep-my-government-benefits",
+  "h1_clean": "What Can I Do To Protect The Money And Keep My Government Benefits?",
+  "meta_desc": "Coming into money while on SSI, Medicaid, or other benefits does not have to end them. Learn how supplemental needs trusts and pooled trusts work in New York.",
+  "direct_answer": "<p>The main tool is a supplemental needs trust, sometimes called a special needs trust. Means-tested benefits like SSI and Medicaid have strict resource limits, so money held in your own name, an inheritance, a lawsuit settlement, or savings, can disqualify you. Money placed in a properly drafted supplemental needs trust does not count, yet it remains available to improve your life. For monthly income that exceeds Medicaid's limits, a pooled income trust performs the same trick, sheltering the excess while paying your everyday bills.</p>",
+  "sections": [
+    {
+      "h2": "Know Which Benefits Are Means-Tested",
+      "html": "<p>Protection planning starts with sorting your benefits. SSI, Medicaid, and SNAP are means-tested: they look at what you own and receive, and exceeding the limits can suspend or end them. SSDI and Medicare are earned entitlements based on your work record; money in the bank does not affect them.</p><p>If you receive both kinds, the plan targets the means-tested pieces. Losing Medicaid can be the most damaging outcome of all, because it often pays for home care, aides, and services no other insurance covers.</p>"
+    },
+    {
+      "h2": "Supplemental Needs Trusts: The Core Tool",
+      "html": "<p>A supplemental needs trust holds money for a person with a disability without it counting as their resource. A trustee controls the funds and spends them on things benefits do not cover, therapies, equipment, a vehicle, home modifications, education, recreation, and personal items. Because you cannot demand the money yourself, the government does not count it.</p><ul><li><strong>First-party trust:</strong> funded with your own money, such as a settlement or inheritance already in your name. Requires a provision repaying Medicaid at your death.</li><li><strong>Third-party trust:</strong> funded by someone else, typically parents planning their estate. No Medicaid payback; leftover funds can pass to family.</li><li><strong>Pooled trust:</strong> run by a nonprofit, practical for smaller sums and for sheltering surplus monthly income for community Medicaid.</li></ul>"
+    },
+    {
+      "h2": "Timing And Common Mistakes",
+      "html": "<p>The order of operations matters. If a relative plans to leave you money, have them route it into a third-party supplemental needs trust in their estate plan now; an inheritance paid directly to you forces the less favorable first-party route. If a windfall has already landed, act quickly, because benefits are measured month to month and delay can mean a suspension you did not need to suffer.</p><p>Avoid the classic errors: do not simply give the money away, which can trigger transfer penalties for SSI and Medicaid; do not park it in a relative's name, which creates tax and creditor risks and legal problems; and do not rely on a generic trust form, since a defective trust is counted like a bank account. This is one area of New York law where precision pays for itself.</p>"
+    }
+  ],
+  "takeaways": [
+    "SSI, Medicaid, and SNAP are means-tested; SSDI and Medicare are not.",
+    "A supplemental needs trust holds money without it counting against resource limits.",
+    "First-party trusts require Medicaid payback at death; third-party trusts do not.",
+    "A pooled income trust shelters excess monthly income for New York community Medicaid.",
+    "Giving money away instead of using a trust can trigger transfer penalties."
+  ],
+  "faq_short": "Use a supplemental needs trust. Money held in a properly drafted trust does not count against the resource limits for SSI, Medicaid, or SNAP, yet can still pay for things that improve your life. Your own funds go into a first-party trust with a Medicaid payback; family gifts belong in a third-party trust. Pooled income trusts shelter excess monthly income."
+}

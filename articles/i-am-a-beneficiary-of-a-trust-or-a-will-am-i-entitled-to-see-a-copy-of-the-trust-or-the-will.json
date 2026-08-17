@@ -1,0 +1,32 @@
+{
+ "slug": "i-am-a-beneficiary-of-a-trust-or-a-will-am-i-entitled-to-see-a-copy-of-the-trust-or-the-will",
+ "h1_clean": "I Am a Beneficiary of a Trust or a Will. Am I Entitled to See a Copy of the Trust or the Will?",
+ "meta_desc": "Once a will is filed for probate in New York it becomes public, and trust beneficiaries have a right to key terms. How to get a copy if you are refused.",
+ "direct_answer": "<p>Generally, yes. Once a will is filed for probate in New York, it becomes a public court record, and beneficiaries and close family members receive formal notice. Trust beneficiaries stand differently — a trust is a private document — but New York law entitles you to enough information to protect your interest, which as a practical matter means seeing the trust's terms, and courts can order a copy produced.</p>",
+ "sections": [
+  {
+   "h2": "Wills: Private in Life, Public After Filing",
+   "html": "<p>During the will-maker's life, a will is private; no one is entitled to see it. Death changes that. For a will to have any legal effect, it must be filed with the Surrogate's Court in the county where the person lived, and the probate process requires formal notice to the decedent's closest relatives and to the people named in the document.</p><p>Once filed, the will is a public record, and any interested person can obtain a copy from the court file. If someone is holding a will and refusing to file it, New York procedure includes a proceeding to compel its production — a will cannot simply be suppressed by whoever happens to have the original in a drawer.</p><p>Timing matters here as well. Probate does not begin automatically — someone, usually the nominated executor, must start it. If weeks pass and nothing has been filed, that delay itself is worth questioning, because estate assets effectively sit frozen until the court acts.</p>"
+  },
+  {
+   "h2": "Trusts: Private, but Not Secret From Beneficiaries",
+   "html": "<p>A trust does not get filed with a court at death, which is precisely why many people choose trusts — privacy. But that privacy runs against outsiders, not against you. A trustee owes beneficiaries a duty to keep them reasonably informed, and you cannot evaluate your rights, or the trustee's conduct, without knowing what the trust says.</p><p>In practice, a beneficiary is entitled at minimum to the provisions affecting their interest, and any judicial accounting will put the full instrument before the court. Many trustees sensibly provide a complete copy on request; resisting tends to buy them a court proceeding they are likely to lose, along with a skeptical judge.</p>"
+  },
+  {
+   "h2": "What to Do if You Are Refused",
+   "html": "<p>Ask in writing first, and keep the letter simple: identify yourself, state your understanding that you are a beneficiary, and request a copy of the will or the trust's relevant terms. Silence or refusal moves you to court. For a will, that can mean a proceeding to compel production, or simply obtaining the document from the probate file. For a trust, a petition to compel an accounting forces the trust's terms — and the trustee's handling of the money — into the open.</p><p>One caution: if you have only heard secondhand that you are a beneficiary, the court process is often how you learn the truth. Acting promptly matters, because once formal notices start the clock, the windows to contest a will or object to a fiduciary's conduct can be short.</p>"
+  },
+  {
+   "h2": "Why Transparency Protects Everyone",
+   "html": "<p>Executors and trustees sometimes withhold documents out of caution or family friction rather than bad intent. It still backfires: secrecy breeds suspicion, suspicion breeds litigation, and litigation costs the estate or trust far more than a photocopy ever would.</p><p>If you are the fiduciary reading this, sharing the operative terms early — with a short plain-English explanation — is usually the cheapest dispute prevention available. If you are the beneficiary, a calm written request is the right first move, with the courts as leverage behind it.</p><p>Most refusals collapse quickly once a formal request arrives, because fiduciaries and their advisors know how these proceedings end. The document you are entitled to see usually surfaces long before a judge has to order it.</p>"
+  }
+ ],
+ "takeaways": [
+  "A will becomes a public record once filed for probate in Surrogate's Court.",
+  "New York procedure can compel someone holding a will to produce it.",
+  "Trust beneficiaries are entitled at least to the terms affecting their interest.",
+  "A compelled accounting puts the full trust before the court.",
+  "Ask in writing first — a refusal becomes evidence later."
+ ],
+ "faq_short": "Generally, yes. A will filed for probate in New York becomes a public record, and beneficiaries receive formal notice; courts can compel production of a withheld will. A trust stays private, but the trustee must keep beneficiaries reasonably informed, which includes providing the terms affecting your interest. If a trustee refuses, a petition to compel an accounting brings the trust into the open."
+}

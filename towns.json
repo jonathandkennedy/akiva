@@ -1,0 +1,81 @@
+{
+ "court": {
+  "name": "Nassau County Surrogate's Court",
+  "address": "262 Old Country Road, Mineola, NY 11501",
+  "county": "Nassau County"
+ },
+ "towns": [
+  {
+   "name": "Plainview",
+   "zip": "11803",
+   "proximity": "Plainview sits directly north of our Old Bethpage office — we're practically neighbors, a few minutes apart off Old Country Road and Route 135.",
+   "intro": "Plainview families have spent decades building something worth protecting — a home that has appreciated far beyond what they paid, retirement savings, and often a business. Akiva Shapiro is the estate planning and elder law attorney right next door, helping Plainview residents put the right plan in place before they need it.",
+   "angle_h2": "Why Estate Planning Matters for Plainview Homeowners",
+   "angle_html": "<p>A long-held Plainview home is often a family's largest asset — and one of the biggest reasons to plan. Without a plan, that home can be tied up in probate, exposed to a nursing-home spend-down, or fought over by heirs. With the right will, trust, or Medicaid asset-protection plan, it passes the way you intend, with far less cost and delay. Because our office is minutes away, Plainview clients get a level of personal attention that larger firms down the Expressway can't match.</p>",
+   "nearby": ["Old Bethpage", "Hicksville", "Syosset", "Bethpage"]
+  },
+  {
+   "name": "Hicksville",
+   "zip": "11801",
+   "proximity": "Hicksville is a short drive west of our Old Bethpage office, near the LIRR hub and Route 106/107.",
+   "intro": "From young families buying their first home near the Hicksville station to parents helping aging relatives, Hicksville residents turn to Akiva Shapiro for clear, practical guidance on wills, trusts, probate, and elder law — from an attorney who knows the community and answers his own phone.",
+   "angle_h2": "Estate Planning and Elder Law for Hicksville Families",
+   "angle_html": "<p>Hicksville is one of the most diverse, multigenerational communities on Long Island, and that shapes the planning families need: naming guardians for young children, protecting a parent's home from Medicaid spend-down, and making sure a will actually reflects your wishes under New York law. Akiva walks Hicksville families through each decision in plain English — and, when the time comes, handles probate at the Nassau County Surrogate's Court in nearby Mineola so your family doesn't have to navigate it alone.</p>",
+   "nearby": ["Old Bethpage", "Plainview", "Bethpage", "Jericho"]
+  },
+  {
+   "name": "Bethpage",
+   "zip": "11714",
+   "proximity": "Bethpage borders Old Bethpage directly to the south — our office is just up the road via Route 135 or Stewart Avenue.",
+   "intro": "Akiva Shapiro Law is the hometown estate planning and elder law firm for Bethpage. From protecting a family home to settling a loved one's estate, Bethpage residents get counsel from an attorney who is genuinely part of the neighborhood.",
+   "angle_h2": "Your Neighborhood Estate Planning Attorney in Bethpage",
+   "angle_html": "<p>Bethpage families value straight talk and a handshake you can trust — which is exactly how Akiva practices. Whether you need a first will and health care proxy, a trust to keep your home out of probate, or help qualifying a parent for Medicaid without losing the house, you get a plan built around your family, not a template. And because we're right next door, meeting in person is easy.</p>",
+   "nearby": ["Old Bethpage", "Farmingdale", "Plainview", "Massapequa"]
+  },
+  {
+   "name": "Syosset",
+   "zip": "11791",
+   "proximity": "Syosset is a short drive north of our Old Bethpage office, just off the LIE and Jericho Turnpike.",
+   "intro": "Syosset's established families and business owners often have more complex estates — appreciated real estate, investment accounts, and closely held businesses. Akiva Shapiro brings a Duke MBA and decades of business experience to estate planning for Syosset, so your plan protects what you've built and passes it on cleanly.",
+   "angle_h2": "Sophisticated Estate Planning for Syosset Families",
+   "angle_html": "<p>Higher-value estates need more than a fill-in-the-blank will. Syosset clients come to Akiva for revocable and irrevocable trusts, business-succession planning, asset protection from liability and taxes, and Medicaid planning that keeps a family home intact. Akiva looks at your whole picture — personal, business, and legacy — so the pieces work together instead of against each other.</p>",
+   "nearby": ["Woodbury", "Jericho", "Plainview", "Old Bethpage"]
+  },
+  {
+   "name": "Jericho",
+   "zip": "11753",
+   "proximity": "Jericho is minutes northwest of our Old Bethpage office, near the LIE and Jericho Turnpike.",
+   "intro": "Jericho families planning for the next generation rely on Akiva Shapiro for estate plans that protect substantial assets and provide for children and grandchildren with clarity. It's estate planning done holistically, by an attorney who takes the time to understand your goals.",
+   "angle_h2": "Protecting Wealth Across Generations in Jericho",
+   "angle_html": "<p>For many Jericho families, the question isn't just who inherits — it's how to protect an inheritance from taxes, creditors, divorces, and mismanagement. Akiva designs trusts and estate plans that pass wealth to children and grandchildren on your terms, coordinates Medicaid and long-term-care planning for aging parents, and stands ready to handle probate or estate litigation in Nassau County if disputes arise.</p>",
+   "nearby": ["Syosset", "Woodbury", "Plainview", "Hicksville"]
+  },
+  {
+   "name": "Woodbury",
+   "zip": "11797",
+   "proximity": "Woodbury is a short drive north of Old Bethpage, near the LIE and Route 135.",
+   "intro": "Woodbury residents with significant homes and retirement assets choose Akiva Shapiro for estate and legacy planning that is thorough, personal, and built to last. You get a single trusted attorney for your life, business, and legacy — not a rotating cast of associates.",
+   "angle_h2": "Estate and Legacy Planning for Woodbury",
+   "angle_html": "<p>Woodbury's higher property values make careful planning essential: an unplanned estate can mean unnecessary taxes, a lengthy probate, and family conflict. Akiva builds plans that keep assets out of probate where possible, shelter a home from Medicaid spend-down, and clearly direct how your legacy is distributed. When an estate does need administration, he guides the family through the Nassau County Surrogate's Court personally.</p>",
+   "nearby": ["Syosset", "Jericho", "Plainview", "Old Bethpage"]
+  },
+  {
+   "name": "Massapequa",
+   "zip": "11758",
+   "proximity": "Massapequa is a short drive south of our Old Bethpage office via Route 135, the Seaford–Oyster Bay Expressway.",
+   "intro": "Massapequa families trust Akiva Shapiro for down-to-earth estate planning and elder law — wills, trusts, probate, and Medicaid planning explained in plain English, with the personal attention of a true neighborhood attorney.",
+   "angle_h2": "Estate Planning and Elder Law for Massapequa Families",
+   "angle_html": "<p>For south-shore families in Massapequa, protecting the family home is often the heart of the plan — especially when a parent's health is declining and long-term care is on the horizon. Akiva helps Massapequa residents put wills, health care proxies, and powers of attorney in place, use trusts to avoid probate, and plan ahead so a nursing-home stay doesn't wipe out a lifetime of savings.</p>",
+   "nearby": ["Bethpage", "Farmingdale", "Old Bethpage", "Plainview"]
+  },
+  {
+   "name": "Farmingdale",
+   "zip": "11735",
+   "proximity": "Farmingdale sits just east of Old Bethpage along the Route 110 corridor — a quick drive from our office.",
+   "intro": "From the Route 110 business corridor to its close-knit residential streets, Farmingdale blends family and enterprise — and Akiva Shapiro serves both, handling estate planning, business matters, and elder law for Farmingdale residents and business owners.",
+   "angle_h2": "Estate and Business Planning for Farmingdale",
+   "angle_html": "<p>Farmingdale's many small-business owners face a double planning challenge: protecting the business and protecting the family. Akiva brings real business experience to both — structuring succession plans, shielding personal and business assets, and building estate plans that keep a company and a home in the family. For residents, he handles the full range of wills, trusts, probate, and Medicaid planning with the same personal attention.</p>",
+   "nearby": ["Old Bethpage", "Bethpage", "Massapequa", "Plainview"]
+  }
+ ]
+}

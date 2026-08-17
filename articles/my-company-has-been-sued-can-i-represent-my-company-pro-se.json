@@ -1,0 +1,28 @@
+{
+  "slug": "my-company-has-been-sued-can-i-represent-my-company-pro-se",
+  "h1_clean": "My Company Has Been Sued. Can I Represent My Company Pro Se?",
+  "meta_desc": "No. New York generally requires corporations and LLCs to appear in court through an attorney. Learn the small claims exception and what to do when served.",
+  "direct_answer": "<p>No. In New York, a corporation or LLC generally must appear in court through a licensed attorney, which means an owner, officer, or member cannot litigate on the company's behalf pro se, even in a business you own outright. If your company responds to a lawsuit without counsel, the papers can be rejected or stricken and the company can slide into default. The main exception is the small claims and commercial claims parts of the lower courts, where an authorized representative may appear.</p>",
+  "sections": [
+    {
+      "h2": "Why New York Requires Companies to Appear Through Counsel",
+      "html": "<p>The rule flows from what a company is. A corporation or LLC is a separate legal person, distinct from its owners; that separation is exactly what shields your personal assets from business debts. The flip side is that when the company litigates, someone is representing another legal person, and representing someone else in court is the practice of law, reserved for licensed attorneys.</p><p>The rule applies regardless of size or ownership. A single-member LLC and a corporation with one shareholder are treated the same as large companies: the entity appears through counsel or, for most purposes, it does not appear at all. Courts apply this consistently, and pleadings signed only by a non-attorney officer are routinely rejected. It can feel like a technicality to an owner who knows the facts better than anyone, but it is one of the more rigidly enforced rules in New York practice.</p><p>The consequences arrive fast in motion practice. Courts confronted with an entity answering through a non-lawyer routinely treat the appearance as a nullity, meaning that legally it never happened, which opens the door to default. Judges have little discretion to overlook the defect, however sympathetic the owner.</p>"
+    },
+    {
+      "h2": "The Small Claims and Commercial Claims Exception",
+      "html": "<p>The legislature carved out a narrow zone where businesses can proceed without a lawyer. In the small claims and commercial claims parts of New York's lower courts, including the District Courts on Long Island, an authorized officer, director, or employee of a corporation may generally appear on the company's behalf. These parts handle modest dollar amounts under informal procedures, which is why the usual rule is relaxed there.</p><p>The exception is as narrow as it sounds. It does not extend to Supreme Court, where most significant business litigation happens, and it does not follow the case upward if it moves to a higher court. If your company was served with a Supreme Court summons and complaint, there is no self-help route: the company needs an attorney to respond.</p>"
+    },
+    {
+      "h2": "What to Do When Your Company Is Served",
+      "html": "<p>Move quickly and in order:</p><ul><li>Record the date and manner of service, because the response deadline, generally twenty to thirty days, runs from it.</li><li>Notify your insurance carriers; some policies cover both defense costs and the claim itself, and late notice can jeopardize coverage.</li><li>Preserve every relevant document, email, and text. Deleting materials after a lawsuit arrives can lead to serious sanctions.</li><li>Retain litigation counsel promptly so an answer or motion is filed on time and the company's defenses and counterclaims are protected.</li></ul><p>If the company simply does not respond through counsel, the plaintiff can obtain a default judgment and enforce it against company bank accounts, receivables, and property. Defaults can sometimes be vacated, but the standard is demanding and the process costs more than defending on time would have.</p><p>Owners sometimes worry that hiring counsel signals weakness or guarantees runaway expense. In practice, an early and properly filed response preserves the company's defenses and counterclaims, and many business cases resolve long before trial once both sides are represented and realistic about the numbers.</p>"
+    }
+  ],
+  "takeaways": [
+    "New York generally requires corporations and LLCs to appear in court through a licensed attorney.",
+    "The rule applies even to single-owner companies; the entity is a separate legal person.",
+    "Small claims and commercial claims parts allow an authorized company representative to appear.",
+    "A company that answers without counsel risks stricken papers and a default judgment.",
+    "After service: calendar the deadline, notify insurers, preserve documents, and retain counsel."
+  ],
+  "faq_short": "Generally no. New York requires corporations and LLCs to appear in court through a licensed attorney, so an owner or officer cannot answer a Supreme Court lawsuit for the company pro se. The narrow exception is the small claims and commercial claims parts of lower courts, where an authorized representative may appear. A company that responds without counsel risks default and enforcement against its assets."
+}

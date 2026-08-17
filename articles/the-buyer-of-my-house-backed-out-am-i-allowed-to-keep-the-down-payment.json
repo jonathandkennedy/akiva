@@ -1,0 +1,28 @@
+{
+  "slug": "the-buyer-of-my-house-backed-out-am-i-allowed-to-keep-the-down-payment",
+  "h1_clean": "The Buyer of My House Backed Out. Am I Allowed to Keep the Down Payment?",
+  "meta_desc": "When a buyer defaults on a New York home contract with no legal excuse, the seller can usually keep the down payment. Learn the rules and exceptions.",
+  "direct_answer": "<p>Usually, yes. Under long-standing New York law, a buyer who defaults on a real estate contract without a lawful excuse forfeits the down payment — even if you turn around and sell the house to someone else for the same price or more. The real questions are whether the buyer actually defaulted, and whether a contract contingency gave them the right to cancel and take their deposit home.</p>",
+  "sections": [
+    {
+      "h2": "The New York Rule on Defaulting Buyers",
+      "html": "<p>New York's highest court settled this issue decades ago and has never wavered: a buyer who walks away from a real estate contract without legal justification cannot recover the down payment. The deposit — commonly around ten percent of the purchase price on Long Island — effectively serves as the seller's agreed compensation for a broken deal.</p><p>Notably, the seller generally does not have to prove actual damages. Even a seller who quickly resells at a higher price can keep a defaulting buyer's deposit. The rule exists to give real estate contracts teeth: the down payment is the buyer's skin in the game, and New York courts enforce it that way.</p><p>The flip side is that sellers should not overreach. The rule covers the contract deposit itself — it is not a license to claim additional damages that were never negotiated, and a seller who declares default prematurely can convert a winning position into a losing one. Precision, not aggression, is what keeps the deposit.</p>"
+    },
+    {
+      "h2": "When the Buyer Gets the Down Payment Back",
+      "html": "<p>Forfeiture only follows a true default. The buyer is entitled to the deposit's return when the contract gave them an exit and they used it correctly:</p><ul><li><strong>A mortgage contingency.</strong> If the contract was contingent on financing and the buyer was denied a loan despite good-faith efforts, a timely and properly documented cancellation returns the deposit. Most down payment fights on Long Island are fought on this ground — usually over whether the buyer followed the contingency's notice and deadline requirements to the letter.</li><li><strong>Title problems.</strong> If the seller cannot deliver clean, insurable title as the contract requires, the buyer may cancel.</li><li><strong>Seller default.</strong> A seller who cannot or will not close has no claim to the deposit.</li><li><strong>Other contract conditions.</strong> Inspection provisions, co-op board approval in co-op sales, and similar conditions can each justify cancellation when properly invoked.</li></ul>"
+    },
+    {
+      "h2": "How a Down Payment Dispute Actually Plays Out",
+      "html": "<p>In a typical New York deal, the down payment sits in the escrow account of the seller's attorney. When the deal collapses, the escrow agent cannot simply hand the money to either side while a dispute exists — release generally requires both parties' agreement or a court decision. Expect a standoff until the dispute is resolved or settled.</p><p>Position yourself early. A seller should keep proof of being ready, willing, and able to close, and can use a time-of-essence letter to set a firm closing date that converts a stalling buyer into a defaulting one. Gather the contract, all attorney correspondence, and any lender letters, and move carefully — the side that follows the contract's notice provisions precisely usually wins the deposit.</p><p>Two mistakes cost sellers real leverage. The first is relisting and reselling the home in a way that muddies whether you remained ready to perform on the original contract — document everything before moving on. The second is informal deal-making by phone: in a down payment dispute, anything not confirmed in writing between the attorneys may as well not have happened. When in doubt, have counsel send the notices; the cost is trivial next to the deposit at stake.</p>"
+    }
+  ],
+  "takeaways": [
+    "A buyer who defaults without lawful excuse forfeits the down payment under New York law.",
+    "The seller can generally keep the deposit even after reselling at the same or higher price.",
+    "A properly exercised mortgage contingency entitles the buyer to a refund.",
+    "The deposit stays frozen in escrow until agreement or a court order releases it.",
+    "Time-of-essence letters and strict notice compliance often decide these disputes."
+  ],
+  "faq_short": "Usually yes. New York law lets a seller keep the down payment when a buyer defaults on a real estate contract without lawful excuse, even if the home later sells for more. But if the buyer properly cancelled under a mortgage contingency, title objection, or other contract condition — or the seller defaulted — the deposit must be returned. Until resolved, the funds stay in escrow."
+}

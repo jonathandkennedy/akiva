@@ -1,0 +1,28 @@
+{
+  "slug": "what-is-the-definition-of-an-estate-in-new-york",
+  "h1_clean": "What Is the Definition of an Estate in New York?",
+  "meta_desc": "In New York your estate is everything you own or control at death — property, accounts, business interests. Learn what counts and why the definition matters.",
+  "direct_answer": "<p>In New York, your estate is everything you own or control at your death — your home, bank and investment accounts, business interests, vehicles, personal belongings, life insurance, and even digital assets. The word carries different meanings in different contexts, though: your probate estate is only the property that passes under your will, while your taxable estate can include assets that never go near a courtroom.</p>",
+  "sections": [
+    {
+      "h2": "The Plain-English Definition of an Estate",
+      "html": "<p>Strip away the legal packaging and an estate is simply the total of your property interests: real estate, cash and accounts, retirement funds, business ownership, cars, jewelry, art, collectibles, intellectual property, cryptocurrency, and money others owe you. Debts count too — what your family ultimately receives is what remains after valid debts, expenses, and any taxes are paid.</p><p>Everyone has an estate. It is not a word reserved for mansions and trust funds; a modest house in Nassau County, a checking account, and a retirement plan are an estate in every legal sense that matters. The size changes the planning; it does not change the definition.</p><p>The law also speaks of estates in other contexts during life — a bankruptcy estate, or the property managed for a person under guardianship — but in estate planning the focus is the property you leave behind and the people it must reach.</p>"
+    },
+    {
+      "h2": "Probate Estate vs. Non-Probate Assets",
+      "html": "<p>The most useful distinction in New York is between property that passes through court and property that does not. Your probate estate is what you own in your sole name with no beneficiary designation. Those assets pass under your will, through a Surrogate's Court proceeding, administered by your executor.</p><p>Non-probate assets bypass that process entirely and pass by their own terms, regardless of what your will says:</p><ul><li>Jointly owned property with rights of survivorship, which goes to the surviving owner.</li><li>Life insurance, retirement accounts, and any account with a designated beneficiary.</li><li>Bank accounts held in trust for a named person or payable on death.</li><li>Anything owned by a trust you created, which passes under the trust's terms.</li></ul>"
+    },
+    {
+      "h2": "Why the Definition of Your Estate Matters",
+      "html": "<p>Because your will only controls your probate estate, mismatched paperwork can quietly defeat your entire plan. A will that leaves everything equally to your three children does nothing about the retirement account that still names only one of them as beneficiary. Coordinating titles and designations with the will is not a detail — it is the plan.</p><p>The taxable estate is a broader net. For estate tax purposes, assets like life insurance proceeds and jointly held property can be counted even though they skipped probate, and New York imposes its own estate tax separate from the federal one, with its own threshold. Understanding which of your assets fall into which definition is the first step of real estate planning — and it is why two families with identical net worths can need very different plans.</p><p>A quick Long Island example makes it concrete. A Nassau County couple owns a home jointly, one spouse has a retirement account naming the other as beneficiary, and the other keeps a checking account in her name alone. If she dies first, the house passes automatically to the surviving owner, the retirement account is untouched, and only the solo checking account is her probate estate — yet for tax purposes, her share of everything may still be counted. Same family, three different definitions of the estate, three different results. Planning starts by mapping which bucket each asset sits in.</p>"
+    }
+  ],
+  "takeaways": [
+    "Your estate is everything you own or control at death, minus debts — everyone has one.",
+    "The probate estate is only solely owned property with no beneficiary designation.",
+    "Joint property, beneficiary accounts, and trust assets pass outside the will.",
+    "A will cannot fix a wrong beneficiary designation — coordination is essential.",
+    "The taxable estate is broader, and New York has its own estate tax separate from federal."
+  ],
+  "faq_short": "In New York, your estate is everything you own or control at death: real estate, accounts, business interests, belongings, insurance, and digital assets. Your probate estate — solely owned property without beneficiary designations — passes under your will through Surrogate's Court. Non-probate assets like joint property, trust assets, and beneficiary accounts pass outside the will, while the taxable estate can include both categories."
+}

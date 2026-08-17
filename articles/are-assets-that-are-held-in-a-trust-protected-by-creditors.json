@@ -1,0 +1,32 @@
+{
+ "slug": "are-assets-that-are-held-in-a-trust-protected-by-creditors",
+ "h1_clean": "Are Assets That Are Held in a Trust Protected by Creditors?",
+ "meta_desc": "Trust assets are only sometimes safe from creditors. Learn when New York law protects them, why revocable trusts offer no shield, and why timing matters.",
+ "direct_answer": "<p>Sometimes — it depends entirely on the type of trust. Assets in a revocable trust get no creditor protection, because New York law treats property you can take back as still yours. A properly structured irrevocable trust, by contrast, can shield assets from many future creditors. The trust's terms, who benefits from it, and the timing of your transfers all determine whether that protection actually holds up.</p>",
+ "sections": [
+  {
+   "h2": "Why Revocable Trusts Offer No Creditor Protection",
+   "html": "<p>A revocable trust is one you can amend or cancel at any time. You usually serve as your own trustee, spend from the accounts freely, and can pull every asset back out tomorrow. Because you never truly gave anything up, the law does not treat those assets as separate from you.</p><p>That means your creditors can reach revocable trust assets during your lifetime just as if they sat in your own name. After your death, those assets also remain available to satisfy your debts before your beneficiaries receive anything. Revocable trusts are excellent tools for avoiding probate in Surrogate's Court and planning for incapacity — but shielding assets from creditors is simply not one of their jobs, no matter how the document is worded.</p>"
+  },
+  {
+   "h2": "How Irrevocable Trusts Protect Assets in New York",
+   "html": "<p>An irrevocable trust can offer genuine protection, because you give up ownership and control over what goes into it. Once assets legally belong to the trust, they generally are no longer yours for a creditor to seize.</p><p>New York adds an important limit. Under the Estates, Powers and Trusts Law, a trust you create for your own benefit is void as against your creditors. In plain terms, you cannot park money in a trust, keep the right to enjoy all of it, and expect it to be untouchable. Protection works when the trust genuinely benefits others — your spouse, children, or other loved ones — or when it is structured within recognized limits, like a Medicaid asset protection trust that lets you keep the income while shielding the principal from long-term care costs.</p><p>Irrevocable trusts also protect beneficiaries. A spendthrift provision keeps a beneficiary's own creditors from reaching an inheritance while it remains inside the trust, which is one reason parents leave assets in trust rather than handing them over outright.</p>"
+  },
+  {
+   "h2": "Timing Matters: Voidable Transfer Rules",
+   "html": "<p>Even a well-drafted irrevocable trust cannot erase debts you already have. New York's voidable transactions law lets courts unwind transfers made to hinder, delay, or defraud creditors. If you move assets into a trust after a lawsuit, accident, or major debt is already on the horizon, a judge can order those assets pulled right back out — and the attempt can damage your credibility in the underlying case.</p><p>That is why real asset protection is about planning ahead. Transfers made years before any claim arises, for legitimate estate planning reasons, stand on far stronger ground than last-minute moves. Long Island homeowners often fund irrevocable trusts to protect a house from future long-term care costs, and the same principle applies there: the earlier the trust is created and funded, the more likely the protection is to survive a challenge.</p>"
+  },
+  {
+   "h2": "Getting the Structure Right",
+   "html": "<p>Creditor protection is one goal among several, and it has to be balanced against control, taxes, and Medicaid eligibility. The right structure depends on what you own, who you want to protect, and what risks you realistically face.</p><p>Before relying on any trust as a shield, have the document reviewed carefully. Small drafting details — who serves as trustee, what rights you retain, how distributions work — often decide whether a court respects the trust or looks straight through it.</p>"
+  }
+ ],
+ "takeaways": [
+  "Revocable trusts give you no protection from your own creditors.",
+  "New York voids self-settled trusts — trusts for your own benefit — as against creditors.",
+  "Irrevocable trusts for spouses, children, or others can offer real protection.",
+  "Transfers made after a claim is on the horizon can be unwound as voidable.",
+  "Early, well-drafted planning is what makes trust protection hold up."
+ ],
+ "faq_short": "It depends on the trust. Assets in a revocable trust are not protected because you still control them, and New York law treats them as yours. A properly drafted irrevocable trust can protect assets from many future creditors, but New York voids trusts created for your own benefit, and transfers made to defeat existing creditors can be unwound by a court."
+}

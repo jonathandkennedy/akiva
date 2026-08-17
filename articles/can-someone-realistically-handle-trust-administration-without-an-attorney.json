@@ -1,0 +1,32 @@
+{
+ "slug": "can-someone-realistically-handle-trust-administration-without-an-attorney",
+ "h1_clean": "Can Someone Realistically Handle Trust Administration Without an Attorney?",
+ "meta_desc": "New York lets trustees administer a trust without a lawyer, but trustees are personally liable for mistakes. See when DIY works and when it backfires.",
+ "direct_answer": "<p>Legally, yes — New York does not require a trustee to hire an attorney, and a straightforward trust with cooperative beneficiaries can sometimes be administered without one. Realistically, most trustees should not go it alone, because trustees are personally liable for their mistakes, and trust administration involves tax filings, fiduciary duties, and formal accountings that are easy to get wrong the first time.</p>",
+ "sections": [
+  {
+   "h2": "What Trust Administration Actually Involves",
+   "html": "<p>Administering a trust after a death is a real job with real deadlines. The successor trustee must locate and read the trust, obtain death certificates, and take control of every trust asset. From there, the work typically includes:</p><ul><li>Inventorying and valuing assets, including real estate and business interests</li><li>Notifying beneficiaries and keeping them reasonably informed</li><li>Paying the decedent's legitimate debts and final expenses</li><li>Filing final income tax returns and any required trust or estate tax returns</li><li>Maintaining complete records and preparing an accounting</li><li>Distributing assets exactly as the trust directs — outright or in continuing trusts</li></ul><p>Each step sounds manageable on its own. The difficulty is that they interact: distribute too early and you may be personally short when a tax bill arrives; value an asset wrong and a beneficiary may challenge everything that follows.</p>"
+  },
+  {
+   "h2": "The Real Risk: Personal Liability",
+   "html": "<p>A trustee is a fiduciary — held to one of the highest standards New York law imposes. You must be loyal, prudent, and impartial among beneficiaries. If you fall short, beneficiaries can sue in Surrogate's Court or Supreme Court to surcharge you, which means paying the trust's losses out of your own pocket.</p><p>Trustees have been held personally responsible for missed tax filings, imprudent investments, sloppy records, and distributions that ignored the trust's terms. Good faith is not a complete defense; the standard is what a prudent fiduciary would have done. Professional guidance is, in part, liability protection you buy with the trust's own funds — reasonable administration expenses are properly paid from the trust, not from you personally.</p><p>New York also expects trustees to meet statutory standards for investing and record-keeping that most non-lawyers have never encountered. The role is not graded on effort or good intentions — it is graded on process and documentation, which is a difficult standard to satisfy alone and an easier one to satisfy with the right guidance.</p>"
+  },
+  {
+   "h2": "When Going Alone Is Realistic — and When It Is Not",
+   "html": "<p>Handling administration yourself is most realistic when the trust is small and simple: a bank account or two, one or two adult beneficiaries who get along, no ongoing trusts, and no tax complications. Even then, having the document reviewed at the outset can confirm nothing unusual is hiding in it.</p><p>You should have counsel when the trust holds real estate or a business, when a beneficiary is a minor or has special needs, when family members are already in conflict, when the estate may owe estate tax, or when the trust continues for years after death. And if beneficiaries start hinting at objections, the time for professional help is immediately — what you write and do in the early weeks often decides how a later dispute ends.</p>"
+  },
+  {
+   "h2": "A Middle Path: Limited-Scope Help",
+   "html": "<p>This is not an all-or-nothing choice. Many trustees handle the day-to-day tasks themselves — gathering statements, paying routine bills, communicating with family — while using an attorney for the load-bearing pieces: interpreting the trust, sequencing debts and taxes, preparing the accounting, and reviewing releases before final distributions.</p><p>That division keeps costs proportionate while protecting you where the personal risk actually lives. The trust pays those reasonable expenses, and beneficiaries generally prefer a correctly administered trust over a cheap mistake they end up inheriting.</p>"
+  }
+ ],
+ "takeaways": [
+  "New York does not require a trustee to hire an attorney.",
+  "Trustees are personally liable for mistakes — beneficiaries can surcharge them in court.",
+  "Simple trusts with cooperative adult beneficiaries are the safest do-it-yourself candidates.",
+  "Real estate, businesses, taxes, minors, or family conflict call for counsel.",
+  "Reasonable professional fees are paid from the trust, not the trustee's pocket."
+ ],
+ "faq_short": "Legally, yes — New York does not require a trustee to hire an attorney, and a small, simple trust with cooperative beneficiaries can sometimes be handled alone. Realistically, most trustees benefit from counsel because they are personally liable for mistakes involving taxes, accountings, and fiduciary duties. Reasonable legal fees are properly paid from the trust itself, which makes guidance protection rather than a personal expense."
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "i-have-a-bunch-of-judgments-that-seem-uncollectible-what-can-i-do-about-it",
+  "h1_clean": "I Have a Bunch of Judgments That Seem Uncollectible. What Can I Do About It?",
+  "meta_desc": "Uncollectible judgments can often be revived. New York judgments last twenty years, and liens, subpoenas, and executions can reach assets acquired later.",
+  "direct_answer": "<p>Judgments that look dead can often be revived. A New York money judgment is generally enforceable for twenty years, statutory interest keeps accruing the whole time, and enforcement tools such as information subpoenas, restraining notices, income executions, and real property liens can reach assets the debtor acquires years after you won. The practical move is to triage the portfolio: investigate each debtor, press the collectible judgments hard, and make a clear-eyed business decision about the rest.</p>",
+  "sections": [
+    {
+      "h2": "Why Judgments Go Unpaid in the First Place",
+      "html": "<p>Winning a judgment gets you a piece of paper, not a check. New York courts do not collect for you; enforcement is the creditor's job. Judgments stall for predictable reasons: the debtor has no reachable assets, income is legally exempt from collection, the debtor moved or dissolved a business, or assets were quietly shifted to relatives or new entities.</p><p>Some of those obstacles are permanent, but many are temporary. A debtor who was judgment-proof three years ago may now have a job, a bank account, an inheritance, or equity in a house. Because the judgment stays alive for two decades and grows with interest, patience combined with periodic investigation is itself a strategy. The worst approach is the common one: letting judgments sit in a drawer until the enforcement clock and lien deadlines quietly run out.</p>"
+    },
+    {
+      "h2": "Enforcement Tools That Can Revive an Old Judgment",
+      "html": "<p>New York gives judgment creditors a serious toolkit under the CPLR:</p><ul><li>Docketing the judgment with the county clerk creates a lien on the debtor's real property in that county. The lien generally lasts ten years and can be renewed, so calendar it.</li><li>Information subpoenas force the debtor, banks, and employers to answer questions about assets under penalty of contempt.</li><li>Restraining notices freeze bank accounts and block transfers of property while you move to collect.</li><li>Income executions garnish a portion of the debtor's wages, generally up to ten percent of gross earnings.</li><li>Property executions direct the sheriff to levy on bank accounts and other assets.</li><li>Turnover proceedings and fraudulent transfer claims can pull back assets moved to third parties to dodge the judgment.</li></ul><p>The right sequence depends on what the investigation turns up, which is why asset discovery comes first.</p>"
+    },
+    {
+      "h2": "Triage: Deciding Which Judgments Are Worth Pursuing",
+      "html": "<p>Not every judgment deserves the same effort. Start with a current asset investigation on each debtor: employment, banking relationships, real estate, vehicles, business interests, and any transfers made after the debt arose. That picture sorts the pile into three groups: collectible now, worth monitoring, and realistically dead.</p><p>For the collectible group, enforcement should be prompt and layered, since tools work better in combination. For the monitoring group, renew liens, keep addresses current, and re-run investigations periodically. For the dead group, consider whether selling or assigning the judgments for a discounted price makes sense, and talk to your accountant about whether writing them off has tax value. An experienced judgment enforcement attorney can often tell you quickly which pile each judgment belongs in, before you spend money chasing the wrong ones.</p><p>Timing deserves respect in both directions. Enforcement generally ends when the twenty-year life expires, and liens lapse if renewal windows pass unnoticed, so a simple calendar of deadlines across the portfolio is itself an asset. Debtors also resurface with money precisely when they want something, a mortgage, a business loan, a clean title search, and a properly docketed judgment stands squarely in their path at that moment. That is when phones ring and settlements happen.</p>"
+    }
+  ],
+  "takeaways": [
+    "New York money judgments are generally enforceable for twenty years, with interest accruing.",
+    "Docketed judgments create real property liens that generally last ten years and can be renewed.",
+    "Information subpoenas, restraining notices, and executions can reach assets acquired long after the verdict.",
+    "Fraudulent transfer claims can recover assets shifted to third parties.",
+    "Triage the portfolio: enforce the collectible, monitor the doubtful, and consider selling or writing off the dead."
+  ],
+  "faq_short": "Old judgments are often still collectible. New York money judgments generally last twenty years and accrue interest, and tools like information subpoenas, restraining notices, income executions, and real property liens can reach assets a debtor acquires later. Investigate each debtor's current assets, enforce the promising judgments, renew liens on doubtful ones, and consider selling or writing off the truly dead accounts."
+}

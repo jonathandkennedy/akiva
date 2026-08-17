@@ -1,0 +1,32 @@
+{
+ "slug": "i-am-a-beneficiary-of-a-trust-what-are-my-rights",
+ "h1_clean": "I Am a Beneficiary of a Trust. What Are My Rights?",
+ "meta_desc": "New York trust beneficiaries have enforceable rights to information, accountings, prudent management, and distributions. Learn how to use each of them.",
+ "direct_answer": "<p>As a trust beneficiary in New York, you have enforceable legal rights: the right to be kept reasonably informed about the trust, the right to an accounting of what the trustee has done with the money, the right to have the trust managed prudently and loyally, and the right to receive exactly what the trust's terms provide. If the trustee falls short, courts can order compliance and make the trustee personally repay losses.</p>",
+ "sections": [
+  {
+   "h2": "Your Right to Information",
+   "html": "<p>You cannot protect an interest you cannot see. A trustee must keep beneficiaries reasonably informed — who the trustee is, what the trust holds, and what the terms say about your share. At minimum you are entitled to the provisions of the trust that affect your interest, and courts can require production of the full document.</p><p>Information rights are the foundation for everything else. Most trust problems surface as unanswered questions long before they surface as missing money, so a trustee who will not communicate is itself a warning sign worth taking seriously.</p><p>In New York, these information duties intensify after the creator of a revocable trust dies, because that is when your interest becomes fixed. If you are learning about the trust for the first time after a death, asking for the operative terms in writing is the natural, expected first step — and a trustee who resists it is telling you something.</p>"
+  },
+  {
+   "h2": "Your Right to an Accounting",
+   "html": "<p>An accounting is an itemized, documented report of every asset, receipt, expense, investment, and distribution. Trustees should provide informal accountings on reasonable request; if they refuse, you can petition Surrogate's Court — or Supreme Court for a lifetime trust — to compel a judicial accounting filed under oath.</p><p>Once filed, the accounting is testable. You can object to improper fees, questionable transactions, or investment losses, and the trustee bears the burden of justifying their stewardship with actual records, not memory.</p>"
+  },
+  {
+   "h2": "Your Right to Proper Management and Distributions",
+   "html": "<p>New York holds trustees to strict fiduciary duties: loyalty, meaning no self-dealing; prudence, meaning sound diversified investing under the Prudent Investor Act; and impartiality among beneficiaries. Violations expose the trustee to a surcharge — personal liability to restore what the trust lost.</p><p>Distributions depend on the trust's language. Mandatory distributions — income payable annually, or principal at a set age — are yours as written, and a court will enforce them. Discretionary distributions leave room for trustee judgment, but not unlimited room: ignored requests, arbitrary refusals, or favoritism can be corrected by a court as an abuse of discretion.</p><p>Impartiality matters too. If you are an income beneficiary, the trustee cannot starve your returns to fatten the remainder — and if you are a remainder beneficiary, the trustee cannot spend down principal in ways the trust never authorized.</p>"
+  },
+  {
+   "h2": "How You Enforce These Rights",
+   "html": "<p>Enforcement usually escalates in stages: a written request, then a formal demand letter, then a petition to compel an accounting, then objections and — where warranted — claims for surcharge, suspension, or removal of the trustee. Courts can also issue restraints that freeze trust assets while disputes are resolved, so a wayward trustee cannot drain the trust mid-fight.</p><p>Keep every statement, letter, and email, and note the dates of phone conversations. Beneficiary cases are won with paper. The sooner you assert your rights, the fewer opportunities a problem trustee has to make assets, or answers, disappear.</p><p>Deadlines can also run against you. Approving an accounting or signing a release can waive claims, and long delay can weaken them, so it pays to raise questions while they are still small.</p>"
+  }
+ ],
+ "takeaways": [
+  "You are entitled to be kept reasonably informed about the trust and its terms.",
+  "You can compel a sworn accounting through the New York courts.",
+  "Trustees must manage prudently and loyally — or personally repay losses.",
+  "Mandatory distributions are enforceable; abused discretion can be corrected.",
+  "Enforcement escalates: demand letter, petition, objections, removal."
+ ],
+ "faq_short": "New York trust beneficiaries have the right to be kept reasonably informed, to receive accountings, to prudent and loyal management of trust assets, and to the distributions the trust's terms require. If the trustee falls short, you can compel a judicial accounting, object to improper transactions, seek personal repayment of losses from the trustee, and ask the court to suspend or remove them."
+}

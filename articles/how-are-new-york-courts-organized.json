@@ -1,0 +1,28 @@
+{
+  "slug": "how-are-new-york-courts-organized",
+  "h1_clean": "How Are New York Courts Organized?",
+  "meta_desc": "A plain-English map of the New York court system: Supreme Court as trial court, the Appellate Division, the Court of Appeals, and Long Island's local courts.",
+  "direct_answer": "<p>New York's court system has three main layers: trial courts, where cases start; the Appellate Division, which reviews trial court decisions; and the Court of Appeals in Albany, the state's highest court. Confusingly, the main trial court is called the Supreme Court, and in New York that name does not mean the top court. Specialized courts, such as Surrogate's Court for estates and Family Court, sit alongside the Supreme Court and handle their own subject areas.</p>",
+  "sections": [
+    {
+      "h2": "New York's Trial Courts: Where Cases Begin",
+      "html": "<p>The Supreme Court is New York's trial court of general jurisdiction. It sits in every county, including Nassau and Suffolk, and it hears the cases no other court can: larger money disputes, business and commercial litigation, requests for injunctions, and divorces. If you are suing or being sued for a significant amount on Long Island, this is usually where the case lives.</p><p>Alongside it sit specialized trial courts. Surrogate's Court handles probate, estate administration, and will contests. Family Court hears custody, support, and related family matters. County Court, which exists outside New York City, handles felony cases and some civil disputes. The Court of Claims is the only court that hears money claims against the State of New York itself. Each of these courts has its own judges, its own rules, and its own filing systems, which is one reason picking the right forum matters from day one.</p><p>Why does the structure matter to you? Jurisdiction. A case filed in a court that cannot hear it wastes months and money before being dismissed or transferred, and deadlines keep running in the meantime. Structure also shapes strategy: the same family dispute can look different in Surrogate's Court than in Supreme Court, some business cases qualify for specialized commercial parts, and where a case starts determines where its appeal will go.</p>"
+    },
+    {
+      "h2": "Local Courts on Long Island and Across the State",
+      "html": "<p>Smaller disputes start in local courts. Nassau County and the five western towns of Suffolk County have District Courts, which handle lower-dollar civil cases, landlord-tenant matters, vehicle and traffic matters, and small claims. Cities such as Long Beach and Glen Cove have City Courts, and towns and villages have Justice Courts covering similar territory. Within the five boroughs, the New York City Civil Court and Criminal Court fill these roles.</p><p>These courts are faster and less formal than the Supreme Court, and their small claims parts are built for people without lawyers. The tradeoff is jurisdiction: each has a dollar ceiling and a limited menu of cases it can hear, so larger or more complex disputes must be filed in Supreme Court.</p>"
+    },
+    {
+      "h2": "The Appellate Division and the Court of Appeals",
+      "html": "<p>If you lose in a trial court, your appeal generally goes to the Appellate Division of the Supreme Court. The state is split into four departments, and appeals from Nassau and Suffolk County cases go to the Second Department in Brooklyn, one of the busiest appellate courts in the country. The Appellate Division reviews the trial record for errors of law and, in many civil cases, can also review the facts.</p><p>Appeals from Long Island's local courts usually travel first to an intermediate court called the Appellate Term before they can go higher.</p><p>At the top sits the New York Court of Appeals in Albany, the state's highest court. It hears a limited number of cases each year, mostly by permission, and its rulings bind every other court in the state. For most litigants, the Appellate Division is the practical court of last resort.</p>"
+    }
+  ],
+  "takeaways": [
+    "The Supreme Court is New York's main trial court, not its highest court.",
+    "The Court of Appeals in Albany is the highest court in the state.",
+    "Appeals from Nassau and Suffolk cases go to the Appellate Division, Second Department.",
+    "Surrogate's Court handles probate and estate disputes; Family Court handles custody and support.",
+    "District, City, and Justice Courts handle smaller local cases on Long Island."
+  ],
+  "faq_short": "New York courts have three layers. Trial courts include the Supreme Court, the main trial court sitting in every county, plus specialized courts like Surrogate's Court for estates and Family Court for custody and support. The Appellate Division reviews trial court decisions, and Nassau and Suffolk appeals go to its Second Department. The Court of Appeals in Albany is the state's highest court."
+}

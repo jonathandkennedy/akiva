@@ -1,0 +1,28 @@
+{
+  "slug": "what-is-the-difference-between-a-third-party-and-a-first-party-supplemental-needs-trust",
+  "h1_clean": "What Is The Difference Between A Third-Party And A First-Party Supplemental Needs Trust?",
+  "meta_desc": "The difference comes down to whose money funds the trust and what happens at death. Compare first-party and third-party supplemental needs trusts under New York law.",
+  "direct_answer": "<p>The difference is whose money funds the trust, and that single fact changes everything. A third-party supplemental needs trust holds money that never belonged to the person with a disability, typically funds from parents or grandparents, and when the beneficiary dies, whatever remains passes to family. A first-party trust holds the beneficiary's own money, such as a lawsuit settlement or inheritance paid directly to them, and federal law requires that it repay Medicaid from anything left at death. Both keep the beneficiary eligible for SSI and Medicaid while they live.</p>",
+  "sections": [
+    {
+      "h2": "Third-Party Trusts: The Planning Tool For Families",
+      "html": "<p>A third-party supplemental needs trust is what parents on Long Island use when they want to leave an inheritance to a child with a disability without cutting off the child's SSI or Medicaid. The trust can be built into a will or living trust, or created now and funded by gifts, life insurance, or retirement beneficiary designations.</p><ul><li>Funded only with other people's money, never the beneficiary's own.</li><li>No Medicaid payback: leftover funds go to other children, grandchildren, or charity, as the creators choose.</li><li>No age limit on creating or funding it.</li><li>A trustee spends on extras that benefits do not cover, therapies, travel, equipment, comforts.</li></ul><p>The cardinal rule: never leave money outright to a loved one on means-tested benefits. Route it through the trust, and tell grandparents to do the same.</p>"
+    },
+    {
+      "h2": "First-Party Trusts: The Fix When The Money Is Already Theirs",
+      "html": "<p>Sometimes money lands directly in the hands of a person with a disability, a personal injury settlement, a divorce award, or an inheritance from a relative who never planned. Held in their own name, those funds blow past the resource limits for SSI and Medicaid.</p><p>A first-party supplemental needs trust, sometimes called a payback or self-settled trust, solves this. It must be funded before the beneficiary turns 65, established by the individual, a parent, grandparent, guardian, or court, and it must provide that at the beneficiary's death, remaining funds first reimburse Medicaid for benefits paid over their lifetime. Only what is left after that repayment reaches heirs. During life, though, it works like any supplemental needs trust: the money is uncounted and available for quality-of-life spending.</p>"
+    },
+    {
+      "h2": "Choosing Between Them, And The Pooled Trust Option",
+      "html": "<p>You rarely get to choose; the source of the funds decides. Family wealth belongs in a third-party trust, planned in advance. The beneficiary's own windfalls must use the first-party route with its payback. Getting this wrong is expensive: putting parental money into a first-party trust needlessly promises Medicaid a refund it was never entitled to.</p><p>A pooled trust, run by a nonprofit that manages many accounts under one master trust, is a practical variant of the first-party structure, often used for modest sums or by beneficiaries over 65, and it also shelters excess monthly income for New York community Medicaid. Many families end up with both types serving different purposes, coordinated in one plan.</p>"
+    }
+  ],
+  "takeaways": [
+    "Third-party trusts hold other people's money and owe Medicaid nothing at death.",
+    "First-party trusts hold the beneficiary's own money and must repay Medicaid from what remains.",
+    "First-party trusts must be funded before the beneficiary turns 65.",
+    "Both types preserve SSI and Medicaid eligibility during the beneficiary's life.",
+    "The source of the funds, not preference, dictates which trust you need."
+  ],
+  "faq_short": "A third-party supplemental needs trust is funded with someone else's money, usually parents providing for a child with a disability, and remaining funds pass to family at death. A first-party trust holds the beneficiary's own money, like a settlement, must be funded before age 65, and must repay Medicaid at death. Both protect SSI and Medicaid eligibility during life."
+}

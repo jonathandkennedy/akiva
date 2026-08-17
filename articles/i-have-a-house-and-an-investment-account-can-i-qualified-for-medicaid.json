@@ -1,0 +1,28 @@
+{
+  "slug": "i-have-a-house-and-an-investment-account-can-i-qualified-for-medicaid",
+  "h1_clean": "I Have A House And An Investment Account. Can I Qualify For Medicaid?",
+  "meta_desc": "Owning a home and investments does not automatically bar you from Medicaid in New York. Learn how each asset is counted and how planning can protect both.",
+  "direct_answer": "<p>Owning a house and an investment account does not automatically disqualify you from Medicaid in New York, but the two assets are treated very differently. Your primary residence is an exempt resource in many situations, especially if a spouse or certain relatives live there, though home equity limits apply for some coverage. An investment account, by contrast, is a countable resource, and its value will usually put you over Medicaid's strict limits unless you plan. With the right legal strategy, both assets can often be protected.</p>",
+  "sections": [
+    {
+      "h2": "How Medicaid Treats Your House",
+      "html": "<p>New York Medicaid does not count your primary residence as an available resource while a spouse, a minor child, or a blind or disabled child lives in it. Even when you live alone, the home can remain exempt for community Medicaid if you occupy it, and for nursing-home Medicaid if you express an intent to return, subject to an equity cap that adjusts over time.</p><p>Exempt does not mean safe forever. Medicaid can place a lien on the home in some circumstances and can seek estate recovery after your death, meaning the state may claim reimbursement from the house when it passes through your estate. Protecting the home usually means getting it out of your name the right way, often through a Medicaid asset protection trust, which is irrevocable, ideally five years before nursing-home care is needed.</p>"
+    },
+    {
+      "h2": "Why The Investment Account Is The Bigger Problem",
+      "html": "<p>Brokerage accounts, mutual funds, stocks, and most savings are countable resources. Medicaid has strict resource limits that change annually, and a typical investment account far exceeds them. Without planning, you would be expected to spend those funds down on your care before Medicaid pays.</p><ul><li>Retirement accounts like IRAs may be treated differently when they are in payout status, with the distributions counted as income instead of the balance counted as an asset.</li><li>A healthy spouse is allowed to keep a protected share of the couple's combined resources.</li><li>Spending down does not have to mean losing everything; funds can be used on exempt purchases, home repairs, or restructured with legal tools.</li></ul>"
+    },
+    {
+      "h2": "Planning Moves That Protect Both Assets",
+      "html": "<p>For families planning ahead, transferring the house and investments into a Medicaid asset protection trust starts the five-year look-back clock for nursing-home coverage. Once the look-back passes, those assets are protected. For those who need care sooner, options still exist: spousal transfers are exempt and unlimited, community Medicaid for home care can be secured while managing income with tools like pooled income trusts, and crisis strategies can often preserve a meaningful portion of savings even at the last minute.</p><p>The mix that fits you depends on your health, your family, and your timeline. The one universal rule is that earlier planning protects more.</p>"
+    }
+  ],
+  "takeaways": [
+    "A primary residence is often exempt, especially when a spouse or disabled child lives there.",
+    "Exempt homes can still face Medicaid liens and estate recovery after death.",
+    "Investment accounts are countable and usually exceed Medicaid's strict resource limits.",
+    "A Medicaid asset protection trust can shield both assets once the five-year look-back passes.",
+    "Even close to a nursing-home admission, crisis planning can preserve part of your savings."
+  ],
+  "faq_short": "Yes, potentially. In New York, your primary home is often an exempt resource, particularly if a spouse or disabled child lives there, though equity caps and estate recovery are concerns. An investment account is countable and usually exceeds Medicaid limits, so it must be spent down, restructured, or moved into an irrevocable trust ahead of the five-year look-back to be protected."
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "what-happens-in-a-lawsuit",
+  "h1_clean": "What Happens in a Lawsuit?",
+  "meta_desc": "A New York lawsuit moves through pleadings, discovery, motions, trial, and judgment. A plain-English walkthrough of what happens at every stage of a case.",
+  "direct_answer": "<p>A civil lawsuit moves through five broad stages: pleadings, where the complaint and answer define the dispute; discovery, where both sides exchange documents and sworn testimony; motions, where the court can narrow or end the case; trial, where a judge or jury decides it; and judgment, followed by collection or appeal. In New York, the process runs under the CPLR, the state's rules of civil procedure, and most cases settle somewhere along the way rather than reaching a verdict.</p>",
+  "sections": [
+    {
+      "h2": "Pleadings: The Lawsuit Takes Shape",
+      "html": "<p>A New York lawsuit typically begins when the plaintiff files a summons and complaint and has them formally delivered, or served, on the defendant. The complaint tells the court who is suing whom, what allegedly happened, and what relief is demanded.</p><p>The defendant then has a limited time to respond, generally twenty to thirty days depending on how service was made. The response is usually an answer, admitting or denying each allegation and raising defenses, and sometimes counterclaims against the plaintiff. Alternatively, the defendant can move to dismiss, arguing the case is defective at the threshold because of problems like improper service, an expired limitations period, or a complaint that fails to state a claim. If the defendant does nothing, the plaintiff can seek a default judgment, which is why the pleadings stage rewards speed.</p><p>Everything in the pleadings echoes later. Claims not raised may be lost, defenses not asserted may be waived, and the complaint's demands frame settlement conversations for the life of the case. A rushed answer that concedes too much, or a scattershot complaint that pleads too little, follows the parties all the way to trial.</p>"
+    },
+    {
+      "h2": "Discovery: Where Cases Are Won and Lost",
+      "html": "<p>Discovery is the long middle of a lawsuit and usually its decisive phase. Each side must disclose the evidence relevant to the dispute, using tools the CPLR provides: demands for documents and electronic records, written questions answered under oath, and depositions, in-person testimony under oath before trial, often called EBTs in New York practice.</p><p>The court supervises through conferences, starting with a preliminary conference that produces a scheduling order with deadlines. Disputes over what must be turned over are resolved by motion. Experts may be retained on technical issues, from property valuation to accounting.</p><p>Discovery is where theories meet paper. Strong claims get stronger, weak ones get exposed, and the vast majority of settlements trace directly to what discovery revealed.</p>"
+    },
+    {
+      "h2": "Motions, Trial, Judgment, and What Comes After",
+      "html": "<p>After discovery, either side may move for summary judgment, asking the court to rule that the material facts are undisputed and the law compels a result without a trial. These motions can end a case, trim it, or clarify what the trial will actually be about.</p><p>When the case is trial-ready, a note of issue places it on the trial calendar. At trial, a judge or jury hears openings, testimony, cross-examination, and closings, then delivers a verdict or decision, and the court enters judgment. Even then, the case may not be over: the loser can appeal to the Appellate Division, and a winner holding a money judgment must often use enforcement tools, such as liens, restraining notices, and income executions, to actually collect. And at every single stage, from before filing to the eve of verdict, the parties remain free to settle.</p><p>Pressure builds differently at each stage, which is why settlement talks cluster around the pivots: after a dismissal motion fails, after key depositions, after a summary judgment ruling, and on the eve of trial. Understanding the arc helps you read offers for what they are, responses to shifting odds.</p>"
+    }
+  ],
+  "takeaways": [
+    "Pleadings define the dispute; defendants generally have twenty to thirty days to respond.",
+    "Discovery, including document exchange and depositions, is usually the longest and most decisive phase.",
+    "Summary judgment motions can end or narrow a case without trial.",
+    "The note of issue moves a trial-ready case onto the trial calendar.",
+    "After judgment come enforcement or appeal, and settlement remains possible at every stage."
+  ],
+  "faq_short": "A New York lawsuit proceeds through pleadings, where the complaint is served and answered; discovery, where documents and deposition testimony are exchanged; motions that can narrow or end the case; and trial, ending in a judgment. Afterward, the loser may appeal and the winner may need enforcement tools to collect. Most cases settle before reaching a verdict."
+}

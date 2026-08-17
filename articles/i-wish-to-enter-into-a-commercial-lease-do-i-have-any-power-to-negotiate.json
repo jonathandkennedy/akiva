@@ -1,0 +1,28 @@
+{
+  "slug": "i-wish-to-enter-into-a-commercial-lease-do-i-have-any-power-to-negotiate",
+  "h1_clean": "I Wish to Enter Into a Commercial Lease. Do I Have Any Power to Negotiate?",
+  "meta_desc": "Commercial leases in New York are heavily negotiable. See which terms tenants can push back on, from rent escalations to personal guaranty limits.",
+  "direct_answer": "<p>Yes. Commercial leases in New York are among the most negotiable contracts you will ever sign. Unlike residential tenants, commercial tenants get very few statutory protections — the lease itself is essentially the entire deal — and landlords fully expect tenants to push back on the first draft. Nearly every major term, from the rent escalations to the personal guaranty, can be negotiated before you sign.</p>",
+  "sections": [
+    {
+      "h2": "Why the Lease Document Is Everything",
+      "html": "<p>New York law protects residential tenants in many ways. Commercial tenants get almost none of that. Courts treat a business signing a lease as a sophisticated party and will enforce the document as written — even the harsh parts, even the parts you never read.</p><p>The first draft is prepared by the landlord's attorney, and it is written to favor the landlord on every point: who pays for repairs, how expenses are passed through, what happens on default, and how little the landlord owes you if something goes wrong. That is not a reason to walk away. It is the opening position in a negotiation, and treating it that way is normal.</p><p>Read every page, including the rider — in New York deals the rider is often where the landlord's standard form gets modified, and where your negotiated protections must actually appear. Insurance, indemnity, and personal liability provisions buried late in the document routinely carry more risk than the rent terms on page one.</p>"
+    },
+    {
+      "h2": "Lease Terms New York Tenants Commonly Negotiate",
+      "html": "<p>Focus your negotiating effort where the money and the risk live:</p><ul><li><strong>Rent and escalations</strong> — the starting rent, how fast it climbs, and how real estate tax and operating expense pass-throughs are calculated.</li><li><strong>Term and renewal options</strong> — options to renew at defined rents protect the business you are about to build at that location.</li><li><strong>Free rent and buildout</strong> — landlords frequently concede rent-free periods and contributions toward constructing your space.</li><li><strong>The personal guaranty</strong> — often the single most dangerous clause. Many New York landlords will accept a good guy guaranty, which limits your personal exposure if you surrender the space properly, instead of a full guaranty of the entire term.</li><li><strong>Assignment and subletting</strong> — your exit strategy if the business changes or you sell it.</li><li><strong>Repairs, defaults, and cure periods</strong> — who fixes what, and how much notice you get before a misstep becomes a default.</li></ul><p>Small operators sometimes assume these concessions are reserved for anchor tenants. They are not — the tenants who get them are simply the ones who ask for them in writing before signing.</p>"
+    },
+    {
+      "h2": "How Much Leverage You Actually Have",
+      "html": "<p>Your leverage depends on the market and on you. High vacancy in the building, a long proposed term, strong financials, and a use that upgrades the property all strengthen your hand. Even small tenants routinely win meaningful concessions — landlords lose real money every month a space sits empty.</p><p>Timing matters most. Your leverage peaks before you sign anything, so negotiate the key business terms at the letter-of-intent stage and have the lease reviewed before signing, not after. A commercial lease often runs five, ten, or more years and can outlast the business itself — an unfavorable clause negotiated away today is worth far more than a lawsuit about it later.</p><p>Remember also that a commercial lease has no cooling-off period and no easy exit. If the business struggles, the lease obligations continue — which is exactly why the guaranty and assignment provisions deserve as much attention as the rent. Negotiating them while the landlord is courting you costs nothing; escaping them later can cost everything.</p>"
+    }
+  ],
+  "takeaways": [
+    "Commercial tenants in New York have few statutory protections — the lease controls everything.",
+    "The landlord's first draft is an opening position, not a final offer.",
+    "Rent escalations, renewal options, buildout money, and cure periods are all negotiable.",
+    "Push to replace a full personal guaranty with a limited good guy guaranty.",
+    "Negotiate hardest before signing — courts hold businesses to the lease as written."
+  ],
+  "faq_short": "Yes. New York commercial leases are heavily negotiable because commercial tenants get few statutory protections — the lease is the entire deal. Tenants routinely negotiate rent and escalations, renewal options, free rent and buildout contributions, repair obligations, assignment rights, cure periods, and the personal guaranty, often replacing a full guaranty with a limited good guy guaranty. Leverage is highest before anything is signed."
+}

@@ -1,0 +1,32 @@
+{
+ "slug": "the-trustee-of-my-trust-is-acting-improper-can-i-have-them-removed",
+ "h1_clean": "The Trustee of My Trust Is Acting Improperly. Can I Have Them Removed?",
+ "meta_desc": "Yes — New York courts can remove a trustee for misconduct, waste, or unfitness, and some trusts allow removal without court. Learn how the process works.",
+ "direct_answer": "<p>Yes. New York courts can remove a trustee who is acting improperly, and the trust document itself may give beneficiaries or others the power to replace a trustee without going to court at all. Removal requires real grounds — dishonesty, self-dealing, waste of trust assets, refusal to account, or unfitness for the role — backed by evidence, not just friction or personality conflict.</p>",
+ "sections": [
+  {
+   "h2": "Grounds for Removal in New York",
+   "html": "<p>Courts take trustee removal seriously, because the trust's creator chose that trustee for a reason. Judges look for conduct that endangers the trust or shows the trustee cannot faithfully do the job:</p><ul><li>Dishonesty, misappropriation, or unexplained missing funds</li><li>Self-dealing — using trust assets or opportunities for personal benefit</li><li>Wasting or mismanaging trust property, or reckless investing</li><li>Refusing to provide information or account to beneficiaries</li><li>Failing to follow the trust's terms on distributions</li><li>Incapacity, unfitness, or a disabling conflict of interest</li><li>In some cases, hostility so severe it prevents proper administration</li></ul><p>Ordinary disagreement is not enough. A trustee who communicates poorly but manages honestly usually keeps the job; one who cannot document where the money went usually does not.</p><p>Timing shapes the analysis too. A single late accounting looks different from years of silence, and one questionable transaction looks different from a pattern. Courts weigh the whole course of conduct, which is why a documented history matters more than any single incident.</p>"
+  },
+  {
+   "h2": "Check the Trust Document First",
+   "html": "<p>Before filing anything, read the trust. Modern trusts often name a trust protector, or give beneficiaries the power to remove and replace trustees — sometimes limited to appointing a bank or trust company as the successor. If such a clause exists, removal may be accomplished with a letter rather than a lawsuit.</p><p>The document also tells you who serves next. Courts want assurance that a qualified successor is ready to take over, and identifying that person or institution in advance strengthens any petition you do end up filing. If the trust is silent on removal, that silence is itself an answer: the court route is the only one available.</p>"
+  },
+  {
+   "h2": "How a Removal Proceeding Works",
+   "html": "<p>A beneficiary or co-trustee petitions the court — typically Surrogate's Court, or Supreme Court for a lifetime trust — describing the misconduct and the relief requested. Removal is often paired with a demand for a judicial accounting, since the accounting forces the trustee to document everything under oath and frequently supplies the very proof the removal case needs.</p><p>Where assets are at risk, courts can act quickly: suspending the trustee's powers, restraining trust accounts, or appointing a temporary fiduciary while the case proceeds. If removal is granted, the court appoints the successor and can also surcharge the outgoing trustee — personal liability — for losses their misconduct caused.</p>"
+  },
+  {
+   "h2": "Building a Case That Holds Up",
+   "html": "<p>Removal cases are won on records. Start assembling account statements, correspondence, and a dated timeline of what was asked for and what was refused. Put requests in writing from now on, and keep your own conduct even-tempered — judges weigh the credibility of both sides.</p><p>Move promptly. The longer improper conduct runs, the more damage accumulates and the harder it becomes to trace assets. Early action protects the trust itself, which is ultimately what the court cares about most.</p><p>Think about the endgame before you file, too. Removal changes who manages the trust; it does not by itself return missing money. Pairing removal with surcharge claims and a demand for the trustee's records gives the court a complete package — and gives the trust a real path back to health.</p>"
+  }
+ ],
+ "takeaways": [
+  "Courts can remove trustees for dishonesty, self-dealing, waste, or refusal to account.",
+  "Many trusts allow beneficiaries or a trust protector to replace a trustee without court.",
+  "Removal petitions are usually paired with a compelled accounting.",
+  "Courts can suspend a trustee immediately if assets are at risk.",
+  "Personality conflict alone is not enough — build a documented record."
+ ],
+ "faq_short": "Yes. New York courts can remove a trustee for dishonesty, self-dealing, waste, refusal to account, unfitness, or serious violations of the trust's terms. Check the trust document first — many allow beneficiaries or a trust protector to replace a trustee without court involvement. Otherwise, a beneficiary petitions the court, often alongside a compelled accounting, and the court can suspend the trustee while the case proceeds."
+}

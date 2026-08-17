@@ -1,0 +1,23 @@
+# Internal agency working files — intentionally NOT published to this public repo.
+# (Kept locally in the project folder.)
+ASSESSMENT.md
+SEO-STRATEGY.md
+baseline.csv
+scrape/
+scrape.sh
+scrape-log.txt
+sub-sitemaps.txt
+all-urls.txt
+batch_*.tsv
+robots.txt
+/sitemap.xml
+# scrape-pipeline scripts (depend on the excluded scrape/ snapshot)
+extract_pages.py
+build_baseline.py
+plan_site.py
+
+# OS / editor noise
+.DS_Store
+*.swp
+__pycache__/
+*.pyc

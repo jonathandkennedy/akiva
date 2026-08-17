@@ -1,0 +1,28 @@
+{
+  "slug": "what-exactly-is-estate-planning",
+  "h1_clean": "What Exactly Is Estate Planning?",
+  "meta_desc": "Estate planning is deciding who manages and inherits what you own, and who speaks for you if you cannot. What it covers in New York and why it matters.",
+  "direct_answer": "<p>Estate planning is the process of legally deciding three things in advance: who receives what you own when you die, who manages your money and property if you become unable to, and who makes medical decisions for you when you cannot speak for yourself. In New York, those decisions are captured in a coordinated set of documents — typically a will, a durable power of attorney, health care documents, and often a trust.</p>",
+  "sections": [
+    {
+      "h2": "More Than a Will: The Two Halves of Estate Planning",
+      "html": "<p>Most people equate estate planning with writing a will, but the will is only half the picture. The death side of a plan directs your property to the right people, names the executor in charge, nominates guardians for minor children, and can reduce court involvement and taxes along the way.</p><p>The lifetime side is used far more often than people expect. A durable power of attorney lets someone you trust handle your finances if illness or injury sidelines you. A health care proxy and living will put your medical decisions in chosen hands, guided by your stated wishes. These incapacity documents frequently matter earlier — and more urgently — than anything that happens after death.</p>"
+    },
+    {
+      "h2": "What Happens in New York if You Do Nothing",
+      "html": "<p>Without a plan, New York supplies one for you — and it may look nothing like what you would have chosen. If you die without a will, the intestacy statute distributes your property by a fixed formula to your closest relatives. A spouse and children share the estate in set proportions; unmarried partners, stepchildren, close friends, and charities receive nothing, no matter what you intended. The court appoints the administrator, and a judge decides who raises your minor children without your input.</p><p>Incapacity without documents is often worse. If you cannot manage your affairs and never signed a power of attorney or health care proxy, your family may need to bring a guardianship proceeding — a public, court-supervised process that is slower, costlier, and more intrusive than the paperwork that would have avoided it.</p><p>None of this is hypothetical on Long Island, where a home alone can put a family well into the range where planning pays for itself. The default rules are not villains — they are simply generic, and your family is not.</p>"
+    },
+    {
+      "h2": "Who Actually Needs Estate Planning",
+      "html": "<p>Not just the wealthy — that is the most stubborn myth in this field. If you own a home on Long Island, have children, run a business, are part of a blended family, or are in a committed relationship without being married, you have estate planning decisions that New York's default rules will get wrong.</p><p>Estate planning also stretches beyond distributing property. It includes planning for long-term care and Medicaid eligibility, protecting assets from creditors and lawsuits, providing for a family member with special needs without disrupting their benefits, and arranging an orderly handoff of a family business. The common thread is simple: you make the decisions deliberately, in advance, instead of leaving them to a statute and a stranger in a courtroom.</p><p>Estate planning is also not a one-time event. The plan that fits you at forty rarely fits at seventy, and New York's tax and document rules evolve. A good plan gets reviewed every few years and after every major life change — often with your attorney, accountant, and financial advisor working from the same page, because the plan touches all three disciplines at once. Think of it less as a transaction and more as a standing arrangement that keeps pace with your life.</p>"
+    }
+  ],
+  "takeaways": [
+    "Estate planning covers death and incapacity: inheritance, finances, and medical decisions.",
+    "The lifetime documents — power of attorney and health care proxy — are used more often than the will.",
+    "Without a will, New York's intestacy formula decides who inherits, and it excludes unmarried partners.",
+    "Without incapacity documents, families often face a court guardianship proceeding.",
+    "Homeowners, parents, business owners, and unmarried couples all have decisions worth making deliberately."
+  ],
+  "faq_short": "Estate planning is legally deciding, in advance, who inherits your property, who manages your finances if you become incapacitated, and who makes your medical decisions. In New York it typically involves a will, durable power of attorney, health care proxy, living will, and often a trust. Without a plan, state intestacy rules and court proceedings decide these questions for your family."
+}

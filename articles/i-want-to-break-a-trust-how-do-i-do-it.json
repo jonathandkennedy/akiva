@@ -1,0 +1,32 @@
+{
+ "slug": "i-want-to-break-a-trust-how-do-i-do-it",
+ "h1_clean": "I Want to Break a Trust. How Do I Do It?",
+ "meta_desc": "Breaking a trust in New York depends on its type: revoke a revocable trust, end an irrevocable one by unanimous consent, or challenge it in court.",
+ "direct_answer": "<p>How you break a trust depends on what kind it is and what your role is. If you created a revocable trust, you can revoke it by following the method the trust itself spells out. An irrevocable trust is harder, but New York law still leaves paths: revocation by unanimous written consent of the creator and everyone beneficially interested, a court challenge to the trust's validity, or judicial termination in limited circumstances.</p>",
+ "sections": [
+  {
+   "h2": "Revoking a Revocable Trust",
+   "html": "<p>If you are the creator of a revocable trust, ending it is your right. Follow the revocation procedure written into the document — typically a signed writing delivered to the trustee, executed with the formalities New York requires for lifetime trusts. Then complete the unglamorous step people forget: retitling the assets out of the trust and back into your name. A revoked trust with assets still titled to it creates exactly the kind of confusion the revocation was meant to end.</p><p>Update the surrounding plan at the same time. If your will pours assets into the now-revoked trust, or your life insurance names it as beneficiary, those documents need attention too, or parts of your plan will point at a trust that no longer exists. If the trust owned real estate, record the new deed promptly so the chain of title stays clean.</p>"
+  },
+  {
+   "h2": "Ending an Irrevocable Trust by Consent",
+   "html": "<p>New York has a distinctive rule: even an irrevocable trust can be amended or revoked if the creator is alive and every person beneficially interested in the trust consents in writing. With unanimous agreement, the trust can be undone without asking a judge for permission.</p><p>The catch is the word every. Trusts often name contingent and remainder beneficiaries, and the interests of minors generally cannot be consented away, so a trust with young or unborn beneficiaries may be impossible to unwind this way. Whether consent revocation is realistic usually comes down to a careful reading of exactly who holds an interest under the document.</p>"
+  },
+  {
+   "h2": "Court Options: Challenge, Termination, and Decanting",
+   "html": "<p>If you believe the trust never should have existed, you can challenge its validity: lack of mental capacity when it was signed, undue influence by someone who benefited, fraud, or failure to follow New York's execution formalities. These cases resemble will contests and turn on medical records, witnesses, and the circumstances surrounding the signing.</p><p>Separately, courts can terminate a trust whose continuation has become economically impractical — where administration costs are devouring a small fund. And trustees with discretion over principal can sometimes decant: pouring trust assets into a new trust with better terms, a statutory tool that fixes broken trusts without destroying them entirely.</p><p>Each court route has its own proof, parties, and price tag. Validity challenges are fact-heavy and can strain families; terminations and decanting are more technical and often consensual. Which door makes sense depends on what you can prove and who will resist you.</p>"
+  },
+  {
+   "h2": "Match the Tool to the Real Problem",
+   "html": "<p>Wanting to break a trust is usually a symptom of something more specific. If the real problem is a bad trustee, removal is faster than destruction. If the terms are outdated, decanting or consent modification may fix them. If you were wronged when the trust was created, a validity challenge is the honest route — but it carries time limits, so delay is costly.</p><p>Naming the actual problem first usually reveals the cheapest, fastest tool — and sometimes preserves a structure that is still doing valuable work for the people it protects.</p>"
+  }
+ ],
+ "takeaways": [
+  "Revocable trusts can be revoked by following the method in the document itself.",
+  "New York allows revoking an irrevocable trust with the creator's and all beneficiaries' written consent.",
+  "Validity challenges cover incapacity, undue influence, fraud, and improper execution.",
+  "Courts can end uneconomical trusts, and trustees can sometimes decant into better terms.",
+  "Identify the real problem first — removal or modification may beat destruction."
+ ],
+ "faq_short": "It depends on the trust. The creator of a revocable trust can revoke it by following the document's procedure and retitling the assets. An irrevocable trust can be revoked in New York with the written consent of the living creator and everyone beneficially interested. Otherwise, options include challenging the trust's validity in court, judicial termination of uneconomical trusts, or decanting into a better trust."
+}

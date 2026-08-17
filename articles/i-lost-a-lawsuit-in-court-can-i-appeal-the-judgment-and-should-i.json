@@ -1,0 +1,28 @@
+{
+  "slug": "i-lost-a-lawsuit-in-court-can-i-appeal-the-judgment-and-should-i",
+  "h1_clean": "I Lost a Lawsuit in Court. Can I Appeal the Judgment, and Should I?",
+  "meta_desc": "You generally have thirty days to appeal a New York judgment. Learn how appeals work, what they can actually fix, and how to decide whether it is worth it.",
+  "direct_answer": "<p>Yes, in New York you generally have the right to appeal a final judgment to the Appellate Division, but the deadline is short: usually thirty days after you are served with the judgment and written notice of its entry. Whether you should appeal is a separate question. An appeal reviews the existing record for error rather than retrying the case, it adds a year or more of time and real expense, and it does not automatically stop the winner from collecting in the meantime.</p>",
+  "sections": [
+    {
+      "h2": "Your Right to Appeal and the Deadline That Controls It",
+      "html": "<p>Most final judgments of the New York Supreme Court and other trial courts can be appealed as of right, meaning you do not need anyone's permission to take the first appeal. For cases from Nassau and Suffolk Counties, that appeal goes to the Appellate Division, Second Department.</p><p>The trigger is service of the judgment or order with notice of entry, which generally starts a thirty-day window to file and serve a notice of appeal. The notice itself is a short document, but the deadline is strictly enforced and missing it almost always kills the appeal. Filing the notice is only step one; you then must perfect the appeal by assembling the record and filing a brief within the court's time limits, or the appeal will be dismissed as abandoned. If you are even considering an appeal, the time to decide is immediately after the judgment, not after reflection over several months.</p>"
+    },
+    {
+      "h2": "What an Appeal Can and Cannot Do",
+      "html": "<p>An appeal is not a second trial. There are no new witnesses, no new evidence, and no jury. The appellate court reads the record made in the trial court, along with each side's briefs, and decides whether the law was correctly applied. Arguments never raised below are generally lost.</p><p>Some rulings are easier to challenge than others. Pure questions of law get a fresh look from the appellate court, while discretionary calls and credibility findings are much harder to disturb, although the Appellate Division does have broader power than most appellate courts to review facts in civil cases.</p><p>The possible outcomes are affirmance, reversal, modification, or a remand sending the case back for further proceedings, which can include a new trial. Winning the appeal, in other words, sometimes means winning the chance to litigate again.</p><p>Timing interacts with strategy as well. Post-trial motions in the trial court can sometimes address errors faster than an appeal, and the deadlines for motions and appeals interlock, so the routes must be mapped together at the outset, before the calendar closes any of them. Choosing the wrong route can quietly foreclose the right one.</p>"
+    },
+    {
+      "h2": "Should You Appeal? A Practical Checklist",
+      "html": "<p>Appealing out of frustration is a poor investment; appealing a genuine legal error can be a sound one. Work through these questions honestly:</p><ul><li>Is there an identifiable legal error that likely changed the outcome, or are you asking the court to reweigh facts?</li><li>What is the realistic value of winning, measured against appellate fees, transcript and record costs, and a year or more of delay?</li><li>Can you handle enforcement in the meantime? A money judgment is not automatically stayed on appeal; stopping collection generally requires posting an undertaking, a bond securing the judgment.</li><li>Could an appeal invite a cross-appeal that puts issues you won back in play?</li><li>Would the pending appeal create leverage for a reasonable settlement instead?</li></ul><p>An appellate attorney's review of the record is the fastest way to separate a viable appeal from an expensive exercise in disappointment.</p>"
+    }
+  ],
+  "takeaways": [
+    "Most final New York judgments can be appealed as of right to the Appellate Division.",
+    "The notice of appeal is generally due thirty days after service with notice of entry.",
+    "Appeals review the existing record for legal error; there is no new evidence.",
+    "Collection is not automatically paused; a stay generally requires posting an undertaking.",
+    "Appeal when there is a real legal error worth the time and cost, not out of frustration."
+  ],
+  "faq_short": "Yes. Most final New York judgments can be appealed to the Appellate Division, and the notice of appeal is generally due within thirty days after service of the judgment with notice of entry. An appeal reviews the trial record for legal error rather than retrying the case. Whether to appeal depends on the strength of the error, the costs, and whether you can manage enforcement meanwhile."
+}

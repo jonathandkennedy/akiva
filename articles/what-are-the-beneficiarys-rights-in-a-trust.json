@@ -1,0 +1,32 @@
+{
+ "slug": "what-are-the-beneficiarys-rights-in-a-trust",
+ "h1_clean": "What Are the Beneficiary's Rights in a Trust?",
+ "meta_desc": "A clear guide to trust beneficiary rights in New York: information, accountings, loyal and prudent management, distributions, and court enforcement.",
+ "direct_answer": "<p>A trust beneficiary in New York holds a bundle of enforceable rights: to be kept reasonably informed about the trust, to receive an accounting of the trustee's handling of assets, to loyal and prudent management, to impartial treatment among beneficiaries, and to the distributions the trust's terms require. These rights exist whether you receive money today or stand to inherit later, and the courts will enforce every one of them.</p>",
+ "sections": [
+  {
+   "h2": "Who Counts as a Beneficiary",
+   "html": "<p>Trusts typically have two layers of beneficiaries. Current beneficiaries are entitled to income or eligible for distributions right now. Remainder beneficiaries take whatever is left when the trust ends — when the current beneficiary dies, or a set date arrives.</p><p>Both layers have rights. A remainder beneficiary cannot demand money today, but they can insist the trust be managed so something remains to inherit. That is why New York imposes a duty of impartiality: the trustee may not chase income for the current beneficiary at the remainder's expense, or hoard principal in a way that starves the current beneficiary, unless the trust itself says otherwise.</p><p>New York's accounting practice reflects these layers: both current and remainder beneficiaries are typically entitled to notice of an accounting and a chance to object, because both stand to lose from bad management.</p>"
+  },
+  {
+   "h2": "The Core Rights, One by One",
+   "html": "<p>Across trust types, New York beneficiaries can rely on a consistent set of protections:</p><ul><li>Information — knowing who the trustee is, what the trust holds, and the terms affecting your interest.</li><li>Accounting — an itemized report of assets, income, expenses, investments, and distributions; informally on request, and by court order if refused.</li><li>Loyalty — the trustee must act solely for the beneficiaries, with self-dealing essentially forbidden.</li><li>Prudence — investments must meet New York's prudent investor standard: diversified, risk-aware, and suited to the trust's purposes.</li><li>Distributions — whatever the trust mandates, you can enforce; discretionary distributions must be considered in good faith, not ignored.</li><li>Enforcement — access to the courts to compel, correct, surcharge, or remove the trustee.</li></ul><p>These rights come from the trust instrument, from New York statutes, and from generations of fiduciary case law — which means they apply even when the trust document itself says little about them.</p>"
+  },
+  {
+   "h2": "What Beneficiary Rights Do Not Include",
+   "html": "<p>Beneficiaries are protected, not in charge. You generally cannot direct investments, veto a sale, choose the trustee's professionals, or demand distributions the trust does not provide. A discretionary beneficiary has a right to fair, good-faith consideration — not a right to yes.</p><p>Knowing where the boundary sits helps you pick real fights. Complaints that a trustee declined a discretionary request rarely go anywhere; complaints that a trustee will not account, invested recklessly, or paid themselves generously go far.</p>"
+  },
+  {
+   "h2": "Enforcing Beneficiary Rights in Court",
+   "html": "<p>New York beneficiaries enforce trust rights primarily in Surrogate's Court, or in Supreme Court for lifetime trusts. The workhorse proceeding is the compelled accounting, which brings everything into the open under oath. From there, remedies scale to the problem: objections and surcharge for losses, denial of the trustee's commissions, suspension, removal, and restraints on trust assets while the dispute is decided.</p><p>Rights are only as good as your willingness to assert them. Written questions, kept copies, and prompt action when the answers stop coming are what turn paper rights into real protection.</p><p>Time limits deserve respect as well. Receiving and approving an accounting can start clocks running, and a signed release can waive claims entirely. Reading before signing — and asking questions in writing when something is unclear — preserves rights that casual signatures give away.</p>"
+  }
+ ],
+ "takeaways": [
+  "Both current and remainder beneficiaries hold enforceable rights.",
+  "Core rights: information, accountings, loyalty, prudence, and distributions per the terms.",
+  "Trustees must treat income and remainder interests impartially.",
+  "Beneficiaries cannot direct investments or demand what the trust does not give.",
+  "The compelled accounting is the workhorse enforcement tool in New York."
+ ],
+ "faq_short": "Trust beneficiaries in New York have the right to be reasonably informed, to receive accountings, to loyal and prudent management, to impartial treatment, and to the distributions the trust requires. Remainder beneficiaries have rights too, including protection of what they will eventually inherit. Beneficiaries cannot direct investments, but they can enforce every fiduciary duty in Surrogate's Court or Supreme Court."
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "how-long-is-it-take-for-an-appeal-to-be-decided",
+  "h1_clean": "How Long Does It Take for an Appeal to Be Decided?",
+  "meta_desc": "Appeals in New York often take a year or more from notice of appeal to decision. See each step of the Appellate Division timeline and what can speed it up.",
+  "direct_answer": "<p>In New York, expect roughly a year or more from filing a notice of appeal to receiving a decision from the Appellate Division, and hard-fought appeals can take longer. The timeline is built from a series of steps: perfecting the appeal, which can take up to six months by itself, the respondent's briefing, the wait for an argument date, and finally the court's decision, which typically arrives weeks to a few months after argument.</p>",
+  "sections": [
+    {
+      "h2": "The New York Appellate Timeline, Step by Step",
+      "html": "<p>An appeal starts with a notice of appeal, which generally must be filed within thirty days after you are served with the judgment or order along with written notice of its entry. That short deadline is unforgiving, and missing it usually ends the appeal before it begins.</p><p>Filing the notice starts the clock but not the review. The appellant must then perfect the appeal by assembling the record or appendix, ordering transcripts, and filing a full written brief. The statewide Appellate Division rules generally allow up to six months for this, and extensions are sometimes granted. The respondent then files an opposing brief, the appellant may reply, and the case waits for a spot on the argument calendar. After oral argument or submission, the panel deliberates and issues a written decision, often within weeks to a few months.</p><p>Cross-appeals stretch the map further. When both sides believe the trial court got something wrong, each files its own notice of appeal, briefing multiplies, and the court decides everything together. The practical lesson: appellate time is mostly briefing and queue time, not argument time. The hearing itself usually lasts minutes, while the file spends months maturing toward it.</p>"
+    },
+    {
+      "h2": "Why Second Department Appeals Take Time",
+      "html": "<p>Appeals from Nassau and Suffolk County cases go to the Appellate Division, Second Department, which serves a huge swath of downstate New York and carries one of the heaviest appellate caseloads in the country. Volume alone builds waiting time into every stage, particularly the stretch between full briefing and oral argument.</p><p>Side disputes add more. Motions over the contents of the record, requests for extensions, and applications for a stay of enforcement while the appeal is pending each get briefed and decided on their own track. A money judgment is not automatically paused by an appeal, so appellants often need to post an undertaking, a form of bond, to stop collection in the meantime, and arranging that takes time as well.</p>"
+    },
+    {
+      "h2": "Ways to Shorten the Wait",
+      "html": "<p>You cannot rush an appellate panel, but you can stop feeding the delay. The single biggest lever is perfecting early rather than using the full window; the sooner the appeal is fully briefed, the sooner it enters the queue. Stipulating with your adversary to the record's contents avoids motion practice, and declining to request extensions keeps the schedule intact.</p><p>Certain categories of cases are entitled by law or court rule to calendar preference, meaning they can move ahead of the line, and in urgent situations a party can ask the court to expedite. Those paths are the exception, not the rule.</p><p>Finally, remember that an appeal is not the only exit. Cases settle during the appellate process too, sometimes precisely because both sides understand how long the wait will be.</p><p>Leverage runs in both directions during the wait. A respondent holding a money judgment earns statutory interest while the appeal pends, and an appellant with a strong brief may find the other side newly willing to talk rather than risk reversal.</p>"
+    }
+  ],
+  "takeaways": [
+    "A year or more from notice of appeal to decision is a realistic expectation in New York.",
+    "The notice of appeal generally must be filed within thirty days of service with notice of entry.",
+    "Perfecting the appeal, with the record and brief, can take up to six months.",
+    "Nassau and Suffolk appeals go to the busy Second Department, which adds calendar wait.",
+    "Decisions usually arrive weeks to a few months after oral argument."
+  ],
+  "faq_short": "Most New York appeals take a year or more from the notice of appeal to a decision. The appellant generally has up to six months to perfect the appeal with the record and brief, the respondent then files opposition, and the case waits for argument before the Appellate Division. Decisions typically follow within weeks to a few months after argument."
+}

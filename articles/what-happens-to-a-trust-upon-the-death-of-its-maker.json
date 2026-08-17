@@ -1,0 +1,32 @@
+{
+ "slug": "what-happens-to-a-trust-upon-the-death-of-its-maker",
+ "h1_clean": "What Happens to a Trust Upon the Death of Its Maker?",
+ "meta_desc": "When a trust's creator dies, it becomes irrevocable and the successor trustee takes over. See how New York trust administration unfolds, step by step.",
+ "direct_answer": "<p>When the person who created a trust dies, a revocable trust becomes irrevocable — its terms lock in — and the successor trustee named in the document takes over. From there, the trustee administers the trust: collecting assets, paying debts, expenses, and taxes, and then distributing what remains exactly as the trust directs, either outright or in continuing trusts. Assets properly funded into the trust skip probate entirely.</p>",
+ "sections": [
+  {
+   "h2": "The Handoff: From Creator to Successor Trustee",
+   "html": "<p>Most people serve as trustee of their own revocable trust while alive. At death, the successor trustee named in the document steps in automatically — no court appointment needed, which is the great structural advantage over a will. The successor typically presents the trust document, or a certification of it, along with a death certificate to banks and financial institutions to take control of accounts.</p><p>Death also freezes the rules. No one can amend a trust that has become irrevocable, so whatever the document says on the date of death is what governs — one reason keeping a trust updated during life matters so much.</p><p>If the trust was irrevocable from the start — a Medicaid asset protection trust, for example — the mechanics are similar: death triggers whatever the document says happens next, and the trustee shifts from managing for the creator's benefit to winding up or continuing the trust for the beneficiaries.</p>"
+  },
+  {
+   "h2": "The Administration Checklist",
+   "html": "<p>The successor trustee's core tasks follow a consistent sequence:</p><ul><li>Secure and inventory trust assets, and obtain date-of-death values.</li><li>Notify beneficiaries and provide the terms affecting their interests.</li><li>Pay legitimate debts, final expenses, and administration costs.</li><li>File the decedent's final income tax return, the trust's income tax returns, and any required estate tax returns.</li><li>Keep meticulous records for the accounting beneficiaries are entitled to receive.</li><li>Distribute — outright, or by setting up and funding the continuing trusts the document creates.</li></ul><p>Trustees who rush distributions before debts and taxes are settled can end up personally liable for shortfalls, so careful sequencing is part of the job, not an optional courtesy.</p>"
+  },
+  {
+   "h2": "Distribution: Outright or in Further Trust",
+   "html": "<p>Trusts rarely just dump assets out at death. Common designs include staged distributions at set ages, lifetime trusts protecting a beneficiary's inheritance from divorce or creditors, supplemental needs trusts preserving a disabled beneficiary's government benefits, and arrangements holding a home so a surviving spouse can live there. The successor trustee must establish these structures properly, not merely write checks.</p><p>Anything the creator never transferred into the trust is a different story: those assets pass under the will — often a pour-over will that sends them into the trust, but only after a Surrogate's Court probate proceeding. How thoroughly the trust was funded during life largely determines how smooth administration is at death.</p>"
+  },
+  {
+   "h2": "What Beneficiaries Should Expect",
+   "html": "<p>Expect communication within a reasonable time: what the trust provides for you, a general picture of assets and obligations, and a projected timeline. Simple administrations can conclude in months; those involving real estate sales, tax returns, or disagreements take longer.</p><p>If information never comes, New York law lets beneficiaries compel an accounting through the courts. In most families, though, the process is orderly, private, and far faster than probate would have been — which is exactly why the trust was created.</p><p>If you are the successor trustee, remember that beneficiaries' patience tracks their information. Early, plain updates — even when the news is simply that valuations are pending — buy the goodwill that keeps administrations out of court.</p>"
+  }
+ ],
+ "takeaways": [
+  "A revocable trust becomes irrevocable the moment its creator dies.",
+  "The successor trustee takes over without any court appointment.",
+  "Debts, expenses, and taxes come before distributions.",
+  "Assets never funded into the trust pass through the will — and probate.",
+  "Beneficiaries are entitled to information and, ultimately, an accounting."
+ ],
+ "faq_short": "At the creator's death, a revocable trust becomes irrevocable and the named successor trustee takes control without court involvement. The trustee gathers and values assets, notifies beneficiaries, pays debts, expenses, and taxes, keeps records, and then distributes property as the trust directs — outright or in continuing trusts. Assets never transferred into the trust pass under the will instead, through probate."
+}

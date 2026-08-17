@@ -1,0 +1,32 @@
+{
+ "slug": "does-a-trust-always-have-assets-in-it",
+ "h1_clean": "Does a Trust Always Have Assets in It?",
+ "meta_desc": "No — a trust only controls assets actually transferred into it. Learn why unfunded trusts are a common New York planning failure and how to fix yours.",
+ "direct_answer": "<p>No. A trust only controls the assets actually transferred into it — a step called funding — and plenty of trusts sit partly or completely empty. Under New York law, a lifetime trust is valid only as to the assets actually moved into it. Some trusts are designed to start empty, but an accidentally unfunded trust is a set of instructions with nothing to govern, and it is one of the most common estate planning failures.</p>",
+ "sections": [
+  {
+   "h2": "Funding: The Step That Makes a Trust Real",
+   "html": "<p>Signing a trust does not move anything into it. Funding means retitling each asset in the name of the trust or its trustee: a new deed for the house, new registrations for bank and brokerage accounts, assignments for business interests. For life insurance and retirement accounts, funding usually happens indirectly, through beneficiary designations that name the trust.</p><p>New York's Estates, Powers and Trusts Law makes the point directly — a lifetime trust is valid as to assets that have been transferred to it. Assets left in your individual name stay outside the trust no matter what the document says about them, and no matter how carefully the trust was drafted.</p>"
+  },
+  {
+   "h2": "Trusts That Are Designed to Start Empty",
+   "html": "<p>Not every empty trust is a mistake. Several kinds are meant to hold little or nothing at first:</p><ul><li>Testamentary trusts are written inside a will and hold nothing until the will is probated and assets pour into them after death.</li><li>Standby trusts are created during life with minimal funding, ready to receive assets later — often through a pour-over will or beneficiary designations.</li><li>Life insurance trusts may hold only a policy, with real money arriving only when the insurance pays out at death.</li></ul><p>The key difference is intent: these trusts are empty on purpose, with a defined mechanism that fills them at the right moment. An unfunded living trust has no such mechanism working for it during your lifetime.</p>"
+  },
+  {
+   "h2": "The Cost of an Accidentally Unfunded Trust",
+   "html": "<p>An accidentally unfunded revocable trust quietly defeats its own purpose. The main reason New Yorkers create these trusts is to keep assets out of Surrogate's Court probate. If the house and accounts were never retitled, they pass under your will — through the very probate process the trust was supposed to avoid. A pour-over will eventually delivers those assets to the trust, but only after probate's delay and expense.</p><p>Incapacity planning suffers the same way. A successor trustee can only manage what the trust owns; everything outside it may require a court-appointed guardian if you become unable to manage your own affairs. The family ends up in exactly the proceedings the plan was built to prevent.</p>"
+  },
+  {
+   "h2": "How to Check — and Fix — Your Trust's Funding",
+   "html": "<p>Pull the deed to your home and see whose name is on it. Check the registration on each bank and brokerage account, and the beneficiary designation on each life insurance policy and retirement account. If assets sit outside the trust, retitling them is usually straightforward while you are alive and well — a new deed, a visit to the bank, updated designation forms.</p><p>Then make funding a habit: every refinance, new account, inheritance, and major purchase is a chance for an asset to drift back outside the plan. A quick titling review every few years keeps the trust doing the job you built it for.</p><p>If the person who created the trust has already died, funding gaps no longer fix themselves — the unfunded assets typically pass through the will and Surrogate's Court instead. Identifying what sits inside and outside the trust becomes the first task of administration, so gather deeds, statements, and beneficiary designations early.</p>"
+  }
+ ],
+ "takeaways": [
+  "A trust only controls assets actually retitled into it — signing is not funding.",
+  "Testamentary and standby trusts are designed to start empty.",
+  "An accidentally unfunded living trust sends assets through the probate it was meant to avoid.",
+  "Check deeds, account registrations, and beneficiary designations against the trust.",
+  "Re-check funding after refinances, new accounts, and major purchases."
+ ],
+ "faq_short": "No. A trust only holds and controls the assets actually transferred into it, a step called funding. Some trusts, like testamentary trusts written inside wills, are designed to stay empty until death. But an accidentally unfunded living trust is a common New York planning failure — the assets pass through probate anyway. Checking deeds, account titles, and beneficiary designations confirms whether a trust is funded."
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "what-is-medicaid-who-is-it-used-for",
+  "h1_clean": "What Is Medicaid? Who Is It Used For?",
+  "meta_desc": "Medicaid is the government health program that pays for long-term care most seniors eventually need. Learn who uses it in New York and how eligibility works.",
+  "direct_answer": "<p>Medicaid is a joint federal and state health insurance program for people with limited income and resources. In New York, it covers everything from doctor visits to prescriptions, but its most important role for seniors is paying for long-term care: home health aides, assisted living programs, and nursing homes, costs that Medicare and private insurance largely do not cover. It is used by low-income families and children, people with disabilities, and, increasingly, middle-class seniors who plan ahead so that catastrophic care costs do not consume everything they own.</p>",
+  "sections": [
+    {
+      "h2": "Medicaid Versus Medicare: The Distinction That Costs Families",
+      "html": "<p>The two programs sound alike and are constantly confused. Medicare is the federal health insurance you earn through work and receive at 65; it pays for hospitals, doctors, and only short-term rehabilitation, generally capped at a limited number of days after a hospital stay. It does not pay for ongoing custodial care, the help with bathing, dressing, and daily living that most elderly people eventually need.</p><p>Medicaid is the program that pays for that care, potentially for years. On Long Island, nursing homes routinely cost more than most families can sustain out of pocket, which is why Medicaid, not Medicare, is the center of every serious long-term care plan.</p>"
+    },
+    {
+      "h2": "Who Uses Medicaid In New York",
+      "html": "<p>Medicaid serves a far broader population than many people assume:</p><ul><li><strong>Children and families</strong> with limited income, including through Child Health Plus.</li><li><strong>Pregnant women</strong> and new mothers.</li><li><strong>People with disabilities</strong>, for whom Medicaid often funds services no private insurance offers.</li><li><strong>Seniors needing long-term care</strong>, the group elder law attorneys work with most, from home care recipients to nursing-home residents.</li></ul><p>For seniors, New York offers two tracks: community Medicaid, which pays for care at home, and institutional or chronic-care Medicaid, which pays for nursing-home care. The rules, and especially the transfer-of-asset rules, differ sharply between them.</p>"
+    },
+    {
+      "h2": "How Eligibility Works, In Plain Terms",
+      "html": "<p>Medicaid is means-tested. New York sets income and resource limits that change annually, and applicants must document their finances, with nursing-home applicants facing a five-year look-back on asset transfers. Gifts made during that window can trigger a penalty period during which Medicaid will not pay for institutional care.</p><p>Being over the limits today does not mean Medicaid is out of reach. Certain assets, like a home in many circumstances, are exempt; spouses have special protections; excess income can be sheltered through a pooled income trust; and assets moved into a Medicaid asset protection trust are safe once the look-back passes. Legal planning is how middle-class New Yorkers use the program the way the rules allow, without impoverishing the healthy spouse or losing the family home.</p>"
+    }
+  ],
+  "takeaways": [
+    "Medicaid is the primary payer of long-term care; Medicare covers only short-term rehab.",
+    "It serves children, families, people with disabilities, and seniors needing care.",
+    "New York has community Medicaid for home care and institutional Medicaid for nursing homes.",
+    "Nursing-home Medicaid carries a five-year look-back on asset transfers.",
+    "Trusts and spousal protections let middle-class families qualify without losing everything."
+  ],
+  "faq_short": "Medicaid is a government health program for people with limited income and resources, run jointly by the federal government and New York State. It covers medical care broadly, but its critical role is paying for long-term care, home aides and nursing homes, which Medicare does not cover. It serves low-income families, people with disabilities, and seniors who plan ahead to qualify."
+}

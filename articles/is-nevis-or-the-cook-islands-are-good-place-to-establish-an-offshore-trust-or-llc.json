@@ -1,0 +1,32 @@
+{
+ "slug": "is-nevis-or-the-cook-islands-are-good-place-to-establish-an-offshore-trust-or-llc",
+ "h1_clean": "Is Nevis or the Cook Islands a Good Place to Establish an Offshore Trust or LLC?",
+ "meta_desc": "The Cook Islands and Nevis top most offshore asset protection lists for trusts and LLCs. A New York look at what each offers and the real trade-offs.",
+ "direct_answer": "<p>Yes — Nevis and the Cook Islands are widely considered the two strongest jurisdictions in the world for offshore asset protection trusts and LLCs. The Cook Islands pioneered the modern asset protection trust, and Nevis is best known for its debtor-friendly LLC statute. Both force creditors to fight on unfavorable ground. The honest caveat: strong laws abroad do not neutralize a United States court's power over you personally.</p>",
+ "sections": [
+  {
+   "h2": "Why the Cook Islands Sets the Standard for Trusts",
+   "html": "<p>The Cook Islands built its reputation on a trust statute designed to make creditor claims impractical. A creditor generally cannot enforce an American judgment there; they must start over and litigate in Cook Islands courts. Claims that a transfer defrauded creditors face an unusually demanding standard of proof and short windows in which to sue — and once those windows close, the challenge is barred.</p><p>The islands also have a mature, regulated trustee industry accustomed to serving American clients, which matters more than people expect: an offshore trust is only as good as the professionals administering it. Decades of case law have tested the statute, so its behavior is relatively predictable — a rare quality in this corner of planning.</p>"
+  },
+  {
+   "h2": "What Nevis Offers — Especially for LLCs",
+   "html": "<p>Nevis competes closely on trusts and leads on LLCs. Under the Nevis LLC ordinance, a creditor's remedy against a member's interest is essentially limited to a charging order — a lien on distributions — rather than seizing the company or its underlying assets. Creditors may also be required to post a substantial bond before bringing claims, which screens out all but the most committed pursuers.</p><p>Formation and maintenance in Nevis tend to cost less than the Cook Islands, which is why planners often pair the two: a Cook Islands trust owning a Nevis LLC, with the LLC holding the actual investments under your day-to-day management and the trust providing the outer shield if serious trouble ever arrives.</p>"
+  },
+  {
+   "h2": "The Trade-Offs You Should Not Skip",
+   "html": "<p>Neither jurisdiction erases United States law. You remain personally subject to American courts, which can order you to repatriate assets and hold you in contempt if you refuse — a scenario that has landed some trust creators in jail. Transfers made after a claim already exists can still be attacked as voidable under New York law, so these structures protect against future risks, not current creditors.</p><p>The costs are real: meaningful setup fees, annual trustee and registered agent charges, and rigorous federal reporting for foreign trusts and accounts, with severe penalties for noncompliance. There are no income tax savings — United States citizens are taxed on worldwide income wherever it sits. For many New Yorkers, the honest question is whether their risk profile justifies the expense, or whether domestic irrevocable trusts, entity planning, and umbrella insurance accomplish enough at a fraction of the cost.</p>"
+  },
+  {
+   "h2": "Choosing Between Them — or Combining Them",
+   "html": "<p>For most people the choice is not either-or. If the plan centers on a trust holding liquid investments and you want the strongest possible statute behind it, the Cook Islands is the conventional answer. If cost matters, or the assets sit inside an operating company, Nevis carries more of the load. The paired structure — a Cook Islands trust over a Nevis LLC — captures both strengths and is the most common design in serious plans.</p><p>Whatever the mix, the plan must be built before trouble exists, funded with assets you can genuinely place beyond easy reach, and reported to the federal government every year without exception. Done that way, these jurisdictions deliver what they actually promise: not invisibility, but leverage.</p>"
+  }
+ ],
+ "takeaways": [
+  "The Cook Islands pioneered the modern asset protection trust and remains the benchmark.",
+  "Nevis leads for LLCs, limiting creditors to charging orders and often requiring bonds to sue.",
+  "Creditors generally must relitigate locally under demanding standards.",
+  "United States courts can still order repatriation and use contempt powers against you.",
+  "Expect real costs, strict federal reporting, and zero income tax savings."
+ ],
+ "faq_short": "Yes — the Cook Islands and Nevis are generally considered the two strongest offshore jurisdictions. The Cook Islands pioneered asset protection trusts and forces creditors to relitigate locally under demanding standards; Nevis is known for LLC protections and lower costs. Neither erases United States court power over you personally, and both require strict federal tax reporting, so they suit a narrow group of clients."
+}

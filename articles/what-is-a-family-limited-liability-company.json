@@ -1,0 +1,28 @@
+{
+  "slug": "what-is-a-family-limited-liability-company",
+  "h1_clean": "What Is a Family Limited Liability Company?",
+  "meta_desc": "A family LLC lets New York families hold real estate and investments under one roof, centralize control, protect assets, and pass wealth to children.",
+  "direct_answer": "<p>A family limited liability company is an LLC owned by members of a single family and used to hold and manage family assets — most often rental real estate, investment holdings, or a family business. Parents typically keep control as the managing members while gradually transferring ownership interests to children, which makes the family LLC a popular New York tool for centralizing management, protecting assets, and passing wealth to the next generation in an orderly way.</p>",
+  "sections": [
+    {
+      "h2": "How a Family LLC Works",
+      "html": "<p>Legally, a family LLC is formed like any other New York limited liability company. What makes it a family LLC is who owns it and why. The operating agreement — the contract among the members, which New York requires LLC members to adopt in writing — is where the family's rules live: who manages, how decisions are made, who can own interests, and what happens when a member dies, divorces, or wants out.</p><p>The classic structure puts parents in charge as managing members while children hold non-managing interests. The parents keep full control over the property or portfolio — buying, selling, distributing income — even after most of the ownership has shifted to the next generation. Transfer restrictions in the operating agreement keep interests inside the family, out of the hands of in-laws, creditors, or strangers.</p>"
+    },
+    {
+      "h2": "Why New York Families Use Them",
+      "html": "<p>A well-built family LLC can accomplish several goals at once:</p><ul><li><strong>Control while gifting.</strong> Parents can transfer real value to children over time without surrendering management of the underlying assets.</li><li><strong>Liability protection.</strong> Claims arising from LLC property, like a slip-and-fall at a rental building, are generally contained inside the company rather than reaching the family's personal assets — and a member's personal creditors face significant hurdles reaching assets inside the LLC.</li><li><strong>Succession without disruption.</strong> When a parent dies, the LLC keeps operating under its agreement; heirs inherit interests in a functioning entity instead of fractional deeds to scattered properties.</li><li><strong>Simplified estate administration.</strong> Membership interests are easier to transfer, divide, and value than individual parcels of real estate.</li><li><strong>Potential tax planning advantages.</strong> Transfers of minority, non-controlling interests may support valuation discounts for gift and estate tax purposes — an area with real benefits but close IRS scrutiny, so professional tax guidance is essential.</li></ul>"
+    },
+    {
+      "h2": "New York Wrinkles and Common Mistakes",
+      "html": "<p>New York adds a few of its own requirements, including the publication rule: newly formed LLCs must publish notice of their formation in designated newspapers and file proof of it. It is a formality, but skipping it can limit the company's ability to use the courts until cured.</p><p>The bigger dangers are self-inflicted. A family LLC only delivers its benefits if the family respects it as a real company — separate bank accounts, no commingling of personal and company funds, actual observance of the operating agreement, and a genuine business purpose behind it. Courts and the IRS can look straight through an LLC that is family fiction rather than functioning entity. And a family LLC is a component of an estate plan, not a substitute for one: it works best alongside a will, trusts, and the rest of a coordinated New York plan.</p><p>Families weighing this structure sometimes ask about the family limited partnership, an older vehicle used for similar goals. Both can work, but the LLC's flexibility and liability protection for every member have made it the more common modern choice. Whether either entity fits — and whether the benefits justify the upkeep — depends on the assets involved, the family's dynamics, and the tax picture, which is why the family LLC decision is best made inside a broader estate planning conversation.</p>"
+    }
+  ],
+  "takeaways": [
+    "A family LLC holds family assets — often real estate — with parents managing and children owning interests.",
+    "The operating agreement sets the family's rules and keeps ownership inside the family.",
+    "It contains liability from LLC property and hinders members' personal creditors.",
+    "Gifting minority interests may carry tax valuation advantages, under close IRS scrutiny.",
+    "New York requires a written operating agreement and newspaper publication at formation."
+  ],
+  "faq_short": "A family limited liability company is an LLC owned by one family and used to hold assets such as rental real estate or investments. Parents typically manage it while transferring ownership interests to children over time, keeping control while moving wealth. Benefits include liability protection, smoother succession, and potential tax planning advantages. New York requires a written operating agreement and post-formation newspaper publication."
+}

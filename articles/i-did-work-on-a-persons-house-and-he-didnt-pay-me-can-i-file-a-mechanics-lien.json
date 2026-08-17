@@ -1,0 +1,28 @@
+{
+  "slug": "i-did-work-on-a-persons-house-and-he-didnt-pay-me-can-i-file-a-mechanics-lien",
+  "h1_clean": "I Did Work on a Person's House and He Didn't Pay Me. Can I File a Mechanic's Lien?",
+  "meta_desc": "Unpaid for work on a Long Island home? Learn who can file a New York mechanic's lien, the strict deadlines involved, and the mistakes that sink liens.",
+  "direct_answer": "<p>Yes — if you supplied labor or materials that improved someone's real property with the owner's consent and you have not been paid, New York's Lien Law generally lets you file a mechanic's lien against that property. But the deadlines are strict and much shorter for single-family homes than for commercial projects, and mistakes in the lien — or a missing home improvement license — can sink your claim entirely.</p>",
+  "sections": [
+    {
+      "h2": "Who Can File a Mechanic's Lien in New York",
+      "html": "<p>General contractors, subcontractors, suppliers, and laborers can all file mechanic's liens in New York when they improve real property and go unpaid. The work must have been performed with the consent of the owner — which is why subcontractors hired by a general contractor can usually still lien the property even though the owner never signed their contract.</p><p>The lien attaches to the property itself. It clouds the title, which means the owner will have trouble selling or refinancing until it is resolved. That pressure is the lien's real power: most lien claims are paid or settled without a courtroom, because the owner needs clear title more than they need the fight.</p><p>Consent has a specific meaning here. For work on a home, the owner or their agent must have consented to the improvement itself — a job arranged with a tenant, without the owner's involvement, may not support a lien against the owner's property. Nail down who hired you and whose property it is before you file.</p>"
+    },
+    {
+      "h2": "The Rules That Trip Contractors Up",
+      "html": "<p>New York's Lien Law is unforgiving about procedure, and residential work carries extra traps:</p><ul><li><strong>Deadlines.</strong> The lien must be filed within a strict window measured from when you last performed work or furnished materials — and the window for single-family homes is far shorter than for commercial projects. Miss it and the lien right is gone.</li><li><strong>Licensing.</strong> Home improvement contractors must be licensed in Nassau County, Suffolk County, and New York City. Courts generally will not enforce a home improvement contract or a mechanic's lien for an unlicensed contractor, no matter how good the work was.</li><li><strong>Accuracy.</strong> Claim only what you are owed. A willfully exaggerated lien can be voided entirely and expose you to damages.</li><li><strong>Service.</strong> After filing with the county clerk, the lien must be properly served on the owner, with proof filed. Procedural missteps can invalidate an otherwise good lien.</li></ul><p>If any of these rules are in doubt on your job — especially the deadline — treat the question as urgent. Lien rights are lost by the calendar, not by the merits.</p>"
+    },
+    {
+      "h2": "What Happens After You File",
+      "html": "<p>A New York mechanic's lien generally lasts one year. Before that year runs out, you must either extend the lien — which for a single-family home requires a court order — or start a foreclosure lawsuit asking the court to sell the property to pay your claim. A lien that just sits there expires.</p><p>The lien is also not your only remedy. You can sue on the contract itself, and pursuing both tracks is common. Keep every record: the contract, change orders, invoices, delivery tickets, photographs of the work, and all texts and emails with the homeowner. Payment disputes usually come down to whose paperwork tells the clearer story.</p><p>Going forward, protect yourself on every job: use a signed written contract, keep your home improvement license current, invoice promptly, and send a clear final demand before filing. A lien built on a clean paper trail gets paid faster — and survives a court challenge if it comes to that.</p>"
+    }
+  ],
+  "takeaways": [
+    "Contractors, subs, suppliers, and laborers can lien property they improved but were not paid for.",
+    "Filing deadlines are strict — and far shorter for single-family homes than commercial jobs.",
+    "Unlicensed home improvement contractors generally cannot enforce liens in Nassau or Suffolk County.",
+    "Never inflate the lien amount — willful exaggeration voids the lien and risks damages.",
+    "A lien generally lasts one year; extend it or sue to foreclose before it expires."
+  ],
+  "faq_short": "Yes. In New York, anyone who furnishes labor or materials improving real property with the owner's consent can generally file a mechanic's lien for unpaid work. Deadlines are strict and much shorter for single-family homes than commercial projects. On Long Island, home improvement contractors must also be licensed — unlicensed contractors generally cannot enforce a lien — and the lien must be enforced or extended before it expires."
+}

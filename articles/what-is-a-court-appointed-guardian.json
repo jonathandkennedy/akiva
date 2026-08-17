@@ -1,0 +1,28 @@
+{
+  "slug": "what-is-a-court-appointed-guardian",
+  "h1_clean": "What Is A Court-Appointed Guardian?",
+  "meta_desc": "A court-appointed guardian is a person given legal authority by a New York judge to make decisions for someone who cannot. Learn how Article 81 appointment works.",
+  "direct_answer": "<p>A court-appointed guardian is a person, or sometimes an agency, given legal authority by a judge to make decisions for someone who cannot make them personally. For adults in New York, the appointment happens under Article 81 of the Mental Hygiene Law in Supreme Court after a hearing where the judge finds the person is incapacitated and likely to suffer harm without help. The guardian's powers are tailored to the individual, may cover personal needs, property management, or both, and remain supervised by the court through required reports.</p>",
+  "sections": [
+    {
+      "h2": "How Someone Becomes A Court-Appointed Guardian",
+      "html": "<p>Guardianship is not automatic, even for a spouse or adult child. A family member, friend, hospital, nursing home, or local agency files a petition in Supreme Court describing why the person cannot manage their affairs. The court then notifies the person and their close relatives, appoints a court evaluator, a neutral investigator who interviews everyone and reports to the judge, and holds a hearing.</p><p>The petitioner must prove incapacity by clear and convincing evidence, a high standard, and must show that no lesser alternative, like an existing power of attorney, would solve the problem. Only then does the judge sign an order naming the guardian, who typically completes training and may post a bond before receiving a commission, the document that banks and hospitals accept as proof of authority.</p>"
+    },
+    {
+      "h2": "What Powers A Court-Appointed Guardian Holds",
+      "html": "<p>New York deliberately rejects one-size-fits-all guardianship. The order lists the specific powers granted, which can include:</p><ul><li><strong>Personal needs powers:</strong> deciding where the person lives, arranging home care, and making certain medical decisions.</li><li><strong>Property management powers:</strong> paying bills, managing bank accounts and investments, handling real estate, pursuing benefits like Medicaid, and, with court approval, doing asset protection planning.</li></ul><p>The person under guardianship keeps every right the order does not remove. A guardian must use the least restrictive approach, consider the person's wishes, and involve them in decisions as much as possible.</p>"
+    },
+    {
+      "h2": "Who Gets Chosen, And How They Are Watched",
+      "html": "<p>Courts prefer a trusted family member when one is suitable and willing, and they give weight to anyone the incapacitated person previously nominated. When relatives are in conflict or none is appropriate, the judge can appoint a neutral professional, often an attorney from a court-maintained list, or a public or nonprofit guardian.</p><p>A guardianship does not end court involvement; it begins it. Guardians file an initial report and annual accountings of the person's finances and well-being, and a court examiner reviews them. Guardians who neglect their duties or misuse funds can be removed, surcharged, and ordered to repay losses. The role is a serious fiduciary responsibility, not an honor.</p>"
+    }
+  ],
+  "takeaways": [
+    "A court-appointed guardian gets authority from a judge, not from family agreement.",
+    "New York adult guardianships proceed under Article 81 in Supreme Court.",
+    "Incapacity must be proven by clear and convincing evidence at a hearing.",
+    "Powers are customized, covering personal needs, property, or both.",
+    "Guardians are supervised through annual reports and can be removed for misconduct."
+  ],
+  "faq_short": "A court-appointed guardian is someone a judge authorizes to make personal or financial decisions for a person found legally incapacitated. In New York, adult appointments happen under Article 81 of the Mental Hygiene Law after a Supreme Court hearing with a court evaluator's investigation. The guardian receives only the specific powers the person needs and files annual reports with the court."
+}
