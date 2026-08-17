@@ -100,16 +100,48 @@ img{max-width:100%;height:auto;display:block}
 a{color:var(--navy-soft);text-decoration:none;transition:color .15s var(--ease)}
 .wrap{max-width:var(--maxw);margin:0 auto;padding:0 22px}
 h1,h2,h3,.serif{font-family:var(--serif);font-weight:600;line-height:1.16;color:var(--navy);letter-spacing:.005em;text-wrap:balance}
-h1{font-size:clamp(1.9rem,4.2vw,3.05rem)}
-h2{font-size:clamp(1.45rem,3vw,2.1rem)}
-h3{font-size:1.22rem}
+h1{font-size:clamp(2.5rem,6vw,4.6rem)}
+h2{font-size:clamp(1.8rem,3.8vw,2.9rem)}
+h3{font-size:1.28rem}
 @media(prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important}html{scroll-behavior:auto}}
+/* ---- motion system ---- */
+@media(prefers-reduced-motion:no-preference){
+ .js .reveal{opacity:0;transform:translateY(26px);transition:opacity .8s var(--ease),transform .8s var(--ease);transition-delay:var(--d,0s)}
+ .js .reveal.in{opacity:1;transform:none}
+ .hero .kicker,.hero h1,.hero .lead,.hero .hero-ctas,.hero .chips,
+ .page-hero .kicker,.page-hero h1,.page-hero .lead,.page-hero .hero-ctas{animation:rise .85s var(--ease) both}
+ .hero h1,.page-hero h1{animation-delay:.12s}
+ .hero .lead,.page-hero .lead{animation-delay:.26s}
+ .hero .hero-ctas,.page-hero .hero-ctas{animation-delay:.4s}
+ .hero .chips{animation-delay:.52s}
+ .hero-photo{animation:photoIn 1.1s var(--ease) both .2s}
+ .hero-photo img{animation:kenburns 14s var(--ease) both .2s}
+ .hero-badge{animation:rise .8s var(--ease) both .9s}
+ @keyframes rise{from{opacity:0;transform:translateY(30px)}to{opacity:1;transform:none}}
+ @keyframes photoIn{from{opacity:0;clip-path:inset(6% 6% 6% 6% round 14px)}to{opacity:1;clip-path:inset(0 0 0 0 round 14px)}}
+ @keyframes kenburns{from{transform:scale(1.07)}to{transform:scale(1)}}
+}
+/* marquee ticker */
+.ticker{background:var(--navy-deep);border-block:1px solid rgba(228,203,142,.18);overflow:hidden;padding:.95em 0}
+.ticker-track{display:flex;gap:0;width:max-content;animation:tick 38s linear infinite}
+.ticker span{font-family:var(--serif);font-style:italic;color:var(--gold-soft);font-size:1.02rem;white-space:nowrap;padding:0 1.4em;display:flex;align-items:center;gap:2.8em}
+.ticker i{font-style:normal;color:rgba(228,203,142,.45);font-size:.7em}
+@keyframes tick{to{transform:translateX(-50%)}}
+@media(prefers-reduced-motion:reduce){.ticker-track{animation:none}}
+/* stats band */
+.stats{background:var(--paper);border-block:1px solid var(--line)}
+.stats .wrap{display:grid;grid-template-columns:repeat(4,1fr);gap:32px;padding-block:64px}
+.stat{text-align:center}
+.stat .num{font-family:var(--serif);font-weight:700;font-size:clamp(2.6rem,5vw,4rem);color:var(--navy);line-height:1;font-variant-numeric:tabular-nums}
+.stat .num em{font-style:normal;color:var(--gold)}
+.stat .lbl{margin-top:.55em;font-size:.86rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+@media(max-width:1000px){.stats .wrap{grid-template-columns:repeat(2,1fr);gap:36px 20px;padding-block:48px}}
 .kicker{font-family:var(--sans);font-size:.78rem;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:var(--gold);margin-bottom:.7rem}
-.lead{font-size:1.12rem;color:var(--muted);max-width:46em}
-section{padding:72px 0}
+.lead{font-size:clamp(1.12rem,1.6vw,1.3rem);color:var(--muted);max-width:44em;line-height:1.75}
+section{padding:clamp(76px,9vw,118px) 0}
 .center{text-align:center}.center .lead{margin-inline:auto}
 /* buttons */
-.btn{display:inline-flex;align-items:center;gap:.55em;font-weight:700;font-size:.98rem;letter-spacing:.015em;padding:.9em 1.6em;border-radius:10px;transition:all .18s var(--ease);cursor:pointer;border:2px solid transparent}
+.btn{display:inline-flex;align-items:center;gap:.55em;font-weight:700;font-size:1.02rem;letter-spacing:.02em;padding:1.02em 1.85em;border-radius:10px;transition:all .18s var(--ease);cursor:pointer;border:2px solid transparent}
 .btn-gold{background:var(--gold);color:var(--navy-deep)}
 .btn-gold:hover{background:var(--gold-soft);transform:translateY(-1px)}
 .btn-outline{border-color:rgba(255,255,255,.55);color:#fff}
@@ -144,11 +176,11 @@ nav.main>div:hover .drop,nav.main>div:focus-within .drop{display:block}
 .burger{display:none;background:none;border:0;width:44px;height:44px;cursor:pointer;position:relative}
 .burger span{display:block;height:2px;background:var(--navy);margin:5px 8px;transition:.2s}
 /* hero */
-.hero{background:radial-gradient(1100px 520px at 78% -10%,rgba(199,164,88,.16),transparent 60%),linear-gradient(160deg,var(--navy-deep),var(--navy) 55%,var(--navy-soft));color:#fff;padding:84px 0 92px}
+.hero{background:radial-gradient(1100px 520px at 78% -10%,rgba(199,164,88,.16),transparent 60%),linear-gradient(160deg,var(--navy-deep),var(--navy) 55%,var(--navy-soft));color:#fff;padding:clamp(88px,11vw,150px) 0 clamp(96px,11vw,150px);overflow:hidden}
 .hero-grid{display:grid;grid-template-columns:1.25fr .75fr;gap:56px;align-items:center}
 .hero h1{color:#fff;margin:.35em 0 .45em}
 .hero h1 em{font-style:normal;color:var(--gold-soft)}
-.hero .lead{color:#C8D2E4;font-size:1.16rem}
+.hero .lead{color:#C8D2E4;font-size:clamp(1.15rem,1.7vw,1.34rem)}
 .hero-ctas{display:flex;gap:14px;flex-wrap:wrap;margin:1.7em 0 1.3em}
 .chips{display:flex;flex-wrap:wrap;gap:.6em;padding:0;list-style:none;font-size:.86rem}
 .chips li{border:1px solid rgba(228,203,142,.4);color:var(--gold-soft);padding:.35em .85em;border-radius:99px}
@@ -160,9 +192,11 @@ nav.main>div:hover .drop,nav.main>div:focus-within .drop{display:block}
 /* pillars */
 .pillars{background:var(--white)}
 .pillar-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:26px;margin-top:44px}
-.pillar{background:#fff;border:1px solid var(--line);border-top:3px solid var(--gold);border-radius:var(--r);padding:30px 28px;box-shadow:0 4px 18px rgba(10,22,40,.05);transition:transform .22s var(--ease),box-shadow .22s var(--ease)}
+.pillar{background:#fff;border:1px solid var(--line);border-top:3px solid var(--gold);border-radius:var(--r);padding:40px 34px;box-shadow:0 4px 18px rgba(10,22,40,.05);transition:transform .22s var(--ease),box-shadow .22s var(--ease)}
 .pillar:hover{transform:translateY(-4px);box-shadow:var(--shadow)}
-.pillar h3{font-size:1.45rem;margin-bottom:.2em}
+.pillar{position:relative;overflow:hidden}
+.pillar::before{content:attr(data-n);position:absolute;top:-6px;right:14px;font-family:var(--serif);font-weight:700;font-size:5.4rem;color:var(--navy);opacity:.055;line-height:1;pointer-events:none}
+.pillar h3{font-size:1.8rem;margin-bottom:.2em}
 .pillar .tag{font-size:.8rem;color:var(--muted);margin-bottom:1em;display:block}
 .pillar ul{list-style:none;margin:.9em 0 1.1em}
 .pillar li{padding:.34em 0;border-bottom:1px dashed var(--line);font-size:.95rem}
@@ -186,9 +220,9 @@ blockquote.pull{font-family:var(--serif);font-style:italic;font-size:1.35rem;lin
 .hero-badge .stars{font-size:.9rem}
 /* testimonials */
 .t-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:26px;margin-top:44px}
-.t-card{background:#fff;border:1px solid var(--line);border-radius:var(--r);padding:28px;box-shadow:0 4px 18px rgba(10,22,40,.05);display:flex;flex-direction:column}
+.t-card{background:#fff;border:1px solid var(--line);border-radius:var(--r);padding:34px;box-shadow:0 4px 18px rgba(10,22,40,.05);display:flex;flex-direction:column}
 .t-card .stars{color:var(--gold);letter-spacing:.15em;font-size:.95rem;margin-bottom:.8em}
-.t-card p{font-size:.97rem;flex:1}
+.t-card p{font-family:var(--serif);font-style:italic;font-size:1.06rem;line-height:1.65;flex:1;color:#2A3342}
 .t-card footer{margin-top:1.2em;font-size:.86rem;color:var(--muted)}
 .t-card footer b{color:var(--ink);display:block;font-size:.92rem}
 /* faq teaser + article lists */
@@ -266,8 +300,8 @@ article.body tbody tr:nth-child(even),.content-main tbody tr:nth-child(even){bac
 .related{background:var(--paper);padding:56px 0 72px}
 .rel-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:14px;margin-top:26px}
 /* practice pages */
-.page-hero{background:linear-gradient(160deg,var(--navy-deep),var(--navy) 60%,var(--navy-soft));color:#fff;padding:64px 0}
-.page-hero h1{color:#fff;max-width:18em}
+.page-hero{background:linear-gradient(160deg,var(--navy-deep),var(--navy) 60%,var(--navy-soft));color:#fff;padding:clamp(72px,9vw,116px) 0}
+.page-hero h1{color:#fff;max-width:16em;font-size:clamp(2.2rem,4.8vw,3.6rem)}
 .page-hero .lead{color:#C8D2E4}
 .page-hero .hero-ctas{margin:1.6em 0 0}
 .content-grid{display:grid;grid-template-columns:1fr 340px;gap:56px;padding:56px 0;align-items:start}
@@ -372,6 +406,28 @@ document.addEventListener('DOMContentLoaded',function(){
     a.addEventListener('click',function(){track('email_click',{});});});
   var cf=document.querySelector('.contact-form');
   if(cf){cf.addEventListener('submit',function(){track('generate_lead',{form:'contact'});});}
+  // scroll reveals
+  if('IntersectionObserver' in window){
+    var io=new IntersectionObserver(function(es){es.forEach(function(e){
+      if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target);}
+    });},{threshold:.14,rootMargin:'0px 0px -6% 0px'});
+    document.querySelectorAll('.reveal').forEach(function(el){io.observe(el);});
+    // count-up stats
+    var co=new IntersectionObserver(function(es){es.forEach(function(e){
+      if(!e.isIntersecting)return;co.unobserve(e.target);
+      var el=e.target,to=parseFloat(el.dataset.to||'0'),dec=parseInt(el.dataset.dec||'0',10),
+          suf=el.dataset.suffix||'',t0=null,dur=1400;
+      if(matchMedia('(prefers-reduced-motion: reduce)').matches){el.textContent=to.toFixed(dec)+suf;return;}
+      requestAnimationFrame(function step(t){
+        if(!t0)t0=t;var p=Math.min(1,(t-t0)/dur);p=1-Math.pow(1-p,3);
+        el.textContent=(to*p).toFixed(dec)+suf;
+        if(p<1)requestAnimationFrame(step);
+      });
+    });},{threshold:.5});
+    document.querySelectorAll('.stat .num [data-to]').forEach(function(el){co.observe(el);});
+  }else{
+    document.querySelectorAll('.reveal').forEach(function(el){el.classList.add('in');});
+  }
 });
 """
 
@@ -580,6 +636,7 @@ def head_html(title, desc, path, schema_extra=None, noindex=False, og_image=None
 <meta property="og:image" content="{og}">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="/img/favicon.png">
+<script>document.documentElement.classList.add('js')</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,500;0,600;0,700;1,500;1,600&family=Lato:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
@@ -1144,14 +1201,26 @@ def home_page():
   </div>
 </div></div>
 
+<div class="ticker" aria-hidden="true"><div class="ticker-track">
+  <span>Estate Planning <i>✦</i> Wills &amp; Trusts <i>✦</i> Probate <i>✦</i> Medicaid Planning <i>✦</i> Guardianships <i>✦</i> Estate Litigation <i>✦</i> Civil Litigation <i>✦</i> Business Counsel <i>✦</i> Appeals <i>✦</i> Asset Protection <i>✦</i></span>
+  <span>Estate Planning <i>✦</i> Wills &amp; Trusts <i>✦</i> Probate <i>✦</i> Medicaid Planning <i>✦</i> Guardianships <i>✦</i> Estate Litigation <i>✦</i> Civil Litigation <i>✦</i> Business Counsel <i>✦</i> Appeals <i>✦</i> Asset Protection <i>✦</i></span>
+</div></div>
+
+<div class="stats"><div class="wrap">
+  <div class="stat reveal"><div class="num"><span data-to="5.0" data-dec="1">0</span></div><div class="lbl">Google Rating</div></div>
+  <div class="stat reveal" style="--d:.08s"><div class="num"><span data-to="34">0</span></div><div class="lbl">Five-Star Reviews</div></div>
+  <div class="stat reveal" style="--d:.16s"><div class="num"><span data-to="100" data-suffix="+">0</span></div><div class="lbl">Legal Answers Published</div></div>
+  <div class="stat reveal" style="--d:.24s"><div class="num"><span data-to="30" data-suffix="+">0</span></div><div class="lbl">Years Business Experience</div></div>
+</div></div>
+
 <section class="pillars"><div class="wrap">
-  <div class="center">
+  <div class="center reveal">
     <div class="kicker">How We Help</div>
     <h2>Every Legal Chapter of Your Life, One Attorney</h2>
     <p class="lead">Like a family physician for your legal health — Akiva knows your whole picture, so every solution fits the life you're actually living.</p>
   </div>
   <div class="pillar-grid">
-    <div class="pillar">
+    <div class="pillar reveal" data-n="01">
       <h3>Life</h3><span class="tag">Protect what you're building</span>
       <ul>
         <li><a href="/lawsuits-civil-litigation/">Lawsuits &amp; Civil Litigation</a></li>
@@ -1162,7 +1231,7 @@ def home_page():
       </ul>
       <a class="all" href="/life/">All Life services</a>
     </div>
-    <div class="pillar">
+    <div class="pillar reveal" data-n="02" style="--d:.1s">
       <h3>Business</h3><span class="tag">Counsel that speaks CEO</span>
       <ul>
         <li><a href="/commercial-litigation/">Commercial Litigation</a></li>
@@ -1173,7 +1242,7 @@ def home_page():
       </ul>
       <a class="all" href="/business/">All Business services</a>
     </div>
-    <div class="pillar">
+    <div class="pillar reveal" data-n="03" style="--d:.2s">
       <h3>Legacy</h3><span class="tag">Pass it on, protected</span>
       <ul>
         <li><a href="/estate-planning/">Estate Planning</a></li>
@@ -1188,37 +1257,37 @@ def home_page():
 </div></section>
 
 <section class="band"><div class="wrap split">
-  <div>
+  <div class="reveal">
     <div class="kicker">A Different Kind of Practice</div>
     <h2>Your Personal Attorney — Like a Personal Physician for Your Legal Health</h2>
     <p>Most people only call a lawyer when something is on fire. But your legal life — your home, your family, your business, your estate — is connected. Decisions in one area ripple into the others.</p>
     <blockquote class="pull">Akiva looks at your legal life holistically, and crafts solutions that solve today's problem within the context of your whole picture.</blockquote>
     <p>That means the trust that protects your house also fits your Medicaid plan. The lease you sign doesn't undermine your asset protection. And the person advising you already knows your story — because he's the one who has handled it from the start.</p>
   </div>
-  <div class="photo"><picture>
+  <div class="photo reveal" style="--d:.12s"><picture>
     <source type="image/webp" srcset="/img/office-conference.webp">
     <img src="/img/office-conference.jpg" alt="Conference room at Akiva Shapiro Law in Old Bethpage, New York, with the firm's framed credentials" loading="lazy" width="1200" height="800" decoding="async">
   </picture></div>
 </div></section>
 
 <section><div class="wrap">
-  <div class="center">
+  <div class="center reveal">
     <div class="kicker">Results People Talk About</div>
     <h2>Trusted by Clients — and by Other Attorneys</h2>
     {rating_strip()}
   </div>
-  <div class="t-grid">{t_html}</div>
+  <div class="t-grid reveal" style="--d:.1s">{t_html}</div>
   <p class="center" style="margin-top:2em"><a class="btn btn-line" href="/testimonials/">Read all testimonials</a></p>
 </div></section>
 
 <section class="band"><div class="wrap split">
-  <div class="photo"><picture>
+  <div class="photo reveal"><picture>
     <source type="image/webp" srcset="/img/akiva-portrait.webp 1x, /img/akiva-portrait@2x.webp 2x">
     <img src="/img/akiva-portrait.jpg" srcset="/img/akiva-portrait.jpg 1x, /img/akiva-portrait@2x.jpg 2x"
          alt="Akiva Shapiro, Esq., Long Island estate planning attorney" loading="lazy"
          width="720" height="900" style="max-width:420px" decoding="async">
   </picture></div>
-  <div>
+  <div class="reveal" style="--d:.12s">
     <div class="kicker">Meet Your Attorney</div>
     <h2>Akiva Shapiro, Esq.</h2>
     <p>Before law, Akiva spent nearly three decades building and running business operations — so he reads contracts, balance sheets, and family dynamics with equal fluency. He holds a J.D. from St. John's University School of Law, an Executive MBA from Duke University, and wrote the book on minimizing e-discovery costs in New York litigation.</p>
@@ -1231,17 +1300,17 @@ def home_page():
 </div></section>
 
 <section><div class="wrap">
-  <div class="center">
+  <div class="center reveal">
     <div class="kicker">Ask Akiva · Legal Answers Library</div>
     <h2>Your Question Has Probably Already Been Answered</h2>
     <p class="lead">100+ plain-English answers to the questions New Yorkers actually ask — many with Akiva on video.</p>
   </div>
-  <div class="q-list">{q_html}</div>
+  <div class="q-list reveal" style="--d:.08s">{q_html}</div>
   <p class="center" style="margin-top:2em"><a class="btn btn-navy" href="/faq/">Browse the full library</a></p>
 </div></section>
 
 <section class="band"><div class="wrap local-grid">
-  <div>
+  <div class="reveal">
     <div class="kicker">Mid-Island, Easy to Reach</div>
     <h2>Serving All of Long Island From Old Bethpage</h2>
     <p class="lead" style="margin-bottom:1em">Conveniently located mid-island, minutes off the Seaford–Oyster Bay Expressway — serving Nassau County, Suffolk County, Queens, and greater New York.</p>
