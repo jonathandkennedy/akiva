@@ -88,24 +88,28 @@ def title_for_article(h1):
 CSS = r"""
 :root{--navy:#0E1E3A;--navy-deep:#0A1628;--navy-soft:#16305C;--gold:#C7A458;--gold-soft:#E4CB8E;
 --paper:#F7F4EE;--ink:#1B2432;--muted:#5A6578;--line:#E6E1D6;--white:#fff;
---serif:"Fraunces",Georgia,serif;--sans:"Inter",-apple-system,"Segoe UI",sans-serif;
---maxw:1140px;--r:14px;--shadow:0 10px 30px rgba(10,22,40,.10)}
+--serif:"Playfair Display",Georgia,"Times New Roman",serif;--sans:"Lato",-apple-system,"Segoe UI",sans-serif;
+--maxw:1140px;--r:14px;--shadow:0 10px 30px rgba(10,22,40,.10);
+--ease:cubic-bezier(.22,.61,.36,1)}
 *{margin:0;padding:0;box-sizing:border-box}
-html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
-body{font-family:var(--sans);color:var(--ink);background:var(--white);line-height:1.65;font-size:16.5px}
+html{scroll-behavior:smooth;-webkit-text-size-adjust:100%;-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
+body{font-family:var(--sans);color:var(--ink);background:var(--white);line-height:1.7;font-size:17px}
+::selection{background:var(--gold);color:var(--navy-deep)}
+:focus-visible{outline:2px solid var(--gold);outline-offset:2px;border-radius:3px}
 img{max-width:100%;height:auto;display:block}
-a{color:var(--navy-soft);text-decoration:none}
+a{color:var(--navy-soft);text-decoration:none;transition:color .15s var(--ease)}
 .wrap{max-width:var(--maxw);margin:0 auto;padding:0 22px}
-h1,h2,h3,.serif{font-family:var(--serif);font-weight:600;line-height:1.18;color:var(--navy);letter-spacing:-.01em}
-h1{font-size:clamp(1.9rem,4.2vw,3.1rem)}
-h2{font-size:clamp(1.5rem,3vw,2.15rem)}
+h1,h2,h3,.serif{font-family:var(--serif);font-weight:600;line-height:1.16;color:var(--navy);letter-spacing:.005em;text-wrap:balance}
+h1{font-size:clamp(1.9rem,4.2vw,3.05rem)}
+h2{font-size:clamp(1.45rem,3vw,2.1rem)}
 h3{font-size:1.22rem}
+@media(prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important}html{scroll-behavior:auto}}
 .kicker{font-family:var(--sans);font-size:.78rem;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:var(--gold);margin-bottom:.7rem}
 .lead{font-size:1.12rem;color:var(--muted);max-width:46em}
 section{padding:72px 0}
 .center{text-align:center}.center .lead{margin-inline:auto}
 /* buttons */
-.btn{display:inline-flex;align-items:center;gap:.55em;font-weight:600;font-size:1rem;padding:.9em 1.6em;border-radius:10px;transition:.18s;cursor:pointer;border:2px solid transparent}
+.btn{display:inline-flex;align-items:center;gap:.55em;font-weight:700;font-size:.98rem;letter-spacing:.015em;padding:.9em 1.6em;border-radius:10px;transition:all .18s var(--ease);cursor:pointer;border:2px solid transparent}
 .btn-gold{background:var(--gold);color:var(--navy-deep)}
 .btn-gold:hover{background:var(--gold-soft);transform:translateY(-1px)}
 .btn-outline{border-color:rgba(255,255,255,.55);color:#fff}
@@ -117,18 +121,20 @@ section{padding:72px 0}
 /* topbar */
 .topbar{background:var(--navy-deep);color:#C8D2E4;font-size:.83rem;padding:.5em 0}
 .topbar .wrap{display:flex;justify-content:space-between;gap:1em;align-items:center}
-.topbar a{color:var(--gold-soft);font-weight:600}
+.topbar a{color:var(--gold-soft);font-weight:700}
 .topbar .tb-hours{opacity:.85}
 /* header */
 header.site{position:sticky;top:0;z-index:60;background:#fff;border-bottom:1px solid var(--line);box-shadow:0 2px 14px rgba(10,22,40,.06)}
 .nav-row{display:flex;align-items:center;justify-content:space-between;gap:1.2em;padding:.75em 0}
 .logo{display:flex;flex-direction:column;line-height:1.12}
 .logo .l1{font-family:var(--serif);font-weight:700;font-size:1.28rem;color:var(--navy);letter-spacing:.02em}
-.logo .l2{font-size:.66rem;font-weight:600;letter-spacing:.18em;text-transform:uppercase;color:var(--gold)}
+.logo .l2{font-size:.66rem;font-weight:700;letter-spacing:.18em;text-transform:uppercase;color:var(--gold)}
 nav.main{display:flex;align-items:center;gap:.2em}
 nav.main>div{position:relative}
-nav.main a.top{display:block;padding:.7em .8em;font-weight:600;font-size:.94rem;color:var(--ink);border-radius:8px}
+nav.main a.top{display:block;padding:.7em .8em;font-weight:700;font-size:.94rem;color:var(--ink);border-radius:8px;transition:background .18s var(--ease),color .18s var(--ease)}
 nav.main a.top:hover{color:var(--navy-soft);background:var(--paper)}
+.chev{display:inline-block;width:6px;height:6px;border-right:1.5px solid currentColor;border-bottom:1.5px solid currentColor;transform:rotate(45deg) translateY(-2px);margin-left:.5em;opacity:.5;transition:transform .18s var(--ease)}
+nav.main>div:hover .chev{transform:rotate(225deg) translateY(-1px)}
 .drop{position:absolute;top:100%;left:0;background:#fff;border:1px solid var(--line);border-radius:12px;box-shadow:var(--shadow);min-width:270px;padding:.5em;display:none;z-index:70}
 nav.main>div:hover .drop,nav.main>div:focus-within .drop{display:block}
 .drop a{display:block;padding:.5em .8em;border-radius:8px;font-size:.92rem;color:var(--ink)}
@@ -149,25 +155,35 @@ nav.main>div:hover .drop,nav.main>div:focus-within .drop{display:block}
 .hero-photo{position:relative}
 .hero-photo img{border-radius:var(--r);box-shadow:0 24px 60px rgba(0,0,0,.42);border:1px solid rgba(228,203,142,.35)}
 .hero-photo::after{content:"";position:absolute;inset:18px -18px -18px 18px;border:2px solid var(--gold);border-radius:var(--r);z-index:-1;opacity:.55}
-.hero-badge{position:absolute;left:-14px;bottom:-16px;background:#fff;color:var(--navy);border-radius:12px;padding:.65em 1em;font-size:.8rem;font-weight:600;box-shadow:var(--shadow);display:flex;gap:.5em;align-items:center}
+.hero-badge{position:absolute;left:-14px;bottom:-16px;background:#fff;color:var(--navy);border-radius:12px;padding:.65em 1em;font-size:.8rem;font-weight:700;box-shadow:var(--shadow);display:flex;gap:.5em;align-items:center}
 .hero-badge b{color:var(--gold);font-size:1rem}
 /* pillars */
 .pillars{background:var(--white)}
 .pillar-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:26px;margin-top:44px}
-.pillar{background:#fff;border:1px solid var(--line);border-top:4px solid var(--gold);border-radius:var(--r);padding:30px 28px;box-shadow:0 4px 18px rgba(10,22,40,.05);transition:.2s}
+.pillar{background:#fff;border:1px solid var(--line);border-top:3px solid var(--gold);border-radius:var(--r);padding:30px 28px;box-shadow:0 4px 18px rgba(10,22,40,.05);transition:transform .22s var(--ease),box-shadow .22s var(--ease)}
 .pillar:hover{transform:translateY(-4px);box-shadow:var(--shadow)}
 .pillar h3{font-size:1.45rem;margin-bottom:.2em}
 .pillar .tag{font-size:.8rem;color:var(--muted);margin-bottom:1em;display:block}
 .pillar ul{list-style:none;margin:.9em 0 1.1em}
 .pillar li{padding:.34em 0;border-bottom:1px dashed var(--line);font-size:.95rem}
 .pillar li:last-child{border:0}
-.pillar a.all{font-weight:600;color:var(--navy-soft);font-size:.95rem}
+.pillar a.all{font-weight:700;color:var(--navy-soft);font-size:.95rem}
 .pillar a.all::after{content:" →"}
 /* alternating */
 .band{background:var(--paper)}
 .split{display:grid;grid-template-columns:1fr 1fr;gap:56px;align-items:center}
 .split .photo img{border-radius:var(--r);box-shadow:var(--shadow)}
-blockquote.pull{font-family:var(--serif);font-size:1.35rem;line-height:1.45;color:var(--navy);border-left:4px solid var(--gold);padding-left:1.1em;margin:1.2em 0}
+blockquote.pull{font-family:var(--serif);font-style:italic;font-size:1.35rem;line-height:1.5;color:var(--navy);border-left:3px solid var(--gold);padding-left:1.2em;margin:1.4em 0}
+/* rating strip */
+.rating-strip{display:flex;align-items:center;justify-content:center;gap:1.3em;flex-wrap:wrap;margin-top:1.5em}
+.rating-strip .score{font-family:var(--serif);font-size:2.5rem;color:var(--navy);font-weight:700;line-height:1}
+.rating-strip .detail{text-align:left}
+.rating-strip .detail .stars{font-size:1.1rem;letter-spacing:.16em}
+.rating-strip .detail .count{font-size:.9rem;color:var(--muted)}
+.rating-strip .detail .count b{color:var(--ink)}
+.stars{color:var(--gold);letter-spacing:.16em}
+.hero-badge small{display:block;color:var(--muted);font-weight:400;font-size:.72rem;margin-top:.15em}
+.hero-badge .stars{font-size:.9rem}
 /* testimonials */
 .t-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:26px;margin-top:44px}
 .t-card{background:#fff;border:1px solid var(--line);border-radius:var(--r);padding:28px;box-shadow:0 4px 18px rgba(10,22,40,.05);display:flex;flex-direction:column}
@@ -177,8 +193,8 @@ blockquote.pull{font-family:var(--serif);font-size:1.35rem;line-height:1.45;colo
 .t-card footer b{color:var(--ink);display:block;font-size:.92rem}
 /* faq teaser + article lists */
 .q-list{margin-top:36px;display:grid;grid-template-columns:1fr 1fr;gap:14px}
-.q-item{background:#fff;border:1px solid var(--line);border-radius:12px;padding:18px 22px;display:flex;justify-content:space-between;align-items:center;gap:1em;font-weight:600;color:var(--navy);transition:.15s}
-.q-item:hover{border-color:var(--gold);box-shadow:0 4px 18px rgba(10,22,40,.07)}
+.q-item{background:#fff;border:1px solid var(--line);border-radius:12px;padding:18px 22px;display:flex;justify-content:space-between;align-items:center;gap:1em;font-weight:700;color:var(--navy);transition:all .18s var(--ease)}
+.q-item:hover{border-color:var(--gold);box-shadow:0 4px 18px rgba(10,22,40,.07);transform:translateX(2px)}
 .q-item span.arr{color:var(--gold);font-size:1.2rem}
 /* local */
 .local-grid{display:grid;grid-template-columns:1.1fr .9fr;gap:48px;align-items:start}
@@ -186,7 +202,7 @@ blockquote.pull{font-family:var(--serif);font-size:1.35rem;line-height:1.45;colo
 .nap dt{font-size:.74rem;font-weight:700;letter-spacing:.13em;text-transform:uppercase;color:var(--gold);margin-top:1.1em}
 .nap dt:first-child{margin-top:0}
 .nap dd{font-size:1rem}
-.nap dd a{font-weight:600}
+.nap dd a{font-weight:700}
 /* CTA band */
 .cta-band{background:linear-gradient(135deg,var(--navy-deep),var(--navy-soft));color:#fff;text-align:center;padding:76px 0}
 .cta-band h2{color:#fff}
@@ -198,7 +214,7 @@ blockquote.pull{font-family:var(--serif);font-size:1.35rem;line-height:1.45;colo
 .article-head{padding:26px 0 8px}
 .article-head h1{max-width:20em}
 .meta-row{display:flex;flex-wrap:wrap;align-items:center;gap:1em;margin:1.2em 0 0;font-size:.86rem;color:var(--muted)}
-.meta-row .chip{background:var(--paper);border:1px solid var(--line);border-radius:99px;padding:.3em .9em;font-weight:600;color:var(--navy-soft)}
+.meta-row .chip{background:var(--paper);border:1px solid var(--line);border-radius:99px;padding:.3em .9em;font-weight:700;color:var(--navy-soft)}
 .byline{display:flex;align-items:center;gap:.6em}
 .byline img{width:34px;height:34px;border-radius:50%;object-fit:cover}
 .byline b{color:var(--ink)}
@@ -208,9 +224,9 @@ article.body p,article.body ul,article.body ol{margin:0 0 1.15em;color:#2A3342}
 article.body ul,article.body ol{padding-left:1.3em}
 article.body li{margin-bottom:.45em}
 article.body h2{margin:1.6em 0 .6em;font-size:1.5rem}
-.direct{font-size:1.12rem;background:var(--paper);border-left:4px solid var(--gold);border-radius:0 12px 12px 0;padding:1.2em 1.4em;margin:1.4em 0 1.8em}
+.direct{font-size:1.12rem;background:var(--paper);border-left:3px solid var(--gold);border-radius:0 12px 12px 0;padding:1.2em 1.4em;margin:1.4em 0 1.8em}
 .direct p{margin:0;color:var(--ink)}
-.takeaways{background:#fff;border:1px solid var(--line);border-top:4px solid var(--gold);border-radius:var(--r);padding:26px 30px;margin:2.2em 0;box-shadow:0 4px 18px rgba(10,22,40,.05)}
+.takeaways{background:#fff;border:1px solid var(--line);border-top:3px solid var(--gold);border-radius:var(--r);padding:26px 30px;margin:2.2em 0;box-shadow:0 4px 18px rgba(10,22,40,.05)}
 .takeaways h2{font-size:1.15rem;margin:0 0 .7em}
 .takeaways ul{margin:0;padding-left:1.2em}
 .takeaways li{margin:.4em 0}
@@ -219,27 +235,27 @@ article.body h2{margin:1.6em 0 .6em;font-size:1.5rem}
 .video-facade:hover .play{transform:scale(1.08)}
 .video-facade .play{width:76px;height:76px;border-radius:50%;background:var(--gold);display:flex;align-items:center;justify-content:center;transition:.2s;box-shadow:0 10px 30px rgba(0,0,0,.35)}
 .video-facade .play::after{content:"";border-style:solid;border-width:14px 0 14px 24px;border-color:transparent transparent transparent var(--navy-deep);margin-left:6px}
-.video-facade span{color:#C8D2E4;font-size:.9rem;font-weight:600;letter-spacing:.06em}
+.video-facade span{color:#C8D2E4;font-size:.9rem;font-weight:700;letter-spacing:.06em}
 .video-facade iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
 /* author box */
-.author-box{display:grid;grid-template-columns:96px 1fr;gap:24px;background:var(--paper);border:1px solid var(--line);border-left:4px solid var(--gold);border-radius:var(--r);padding:28px;margin:2.6em 0 1.4em}
+.author-box{display:grid;grid-template-columns:96px 1fr;gap:24px;background:var(--paper);border:1px solid var(--line);border-left:3px solid var(--gold);border-radius:var(--r);padding:28px;margin:2.6em 0 1.4em}
 .author-box img{width:96px;height:96px;border-radius:50%;object-fit:cover;border:3px solid #fff;box-shadow:0 4px 14px rgba(10,22,40,.15)}
 .author-box .ab-kicker{font-size:.72rem;font-weight:700;letter-spacing:.15em;text-transform:uppercase;color:var(--gold);margin-bottom:.25em}
 .author-box h3{margin:0 0 .35em;font-size:1.2rem}
 .author-box p{font-size:.93rem;color:#2A3342;margin:0 0 .7em}
-.author-box .ab-links{font-size:.87rem;font-weight:600;display:flex;flex-wrap:wrap;gap:.4em 1.2em}
+.author-box .ab-links{font-size:.87rem;font-weight:700;display:flex;flex-wrap:wrap;gap:.4em 1.2em}
 .author-box .ab-links a{color:var(--navy-soft);border-bottom:1px solid var(--gold);padding-bottom:1px}
 .disclaimer{font-size:.8rem;color:var(--muted);border-top:1px solid var(--line);padding-top:1.2em;margin-top:1em}
 /* content tables */
 article.body table,.content-main table{width:100%;border-collapse:collapse;margin:1.4em 0;font-size:.96rem;box-shadow:0 4px 18px rgba(10,22,40,.05);border-radius:12px;overflow:hidden}
-article.body th,.content-main th{background:var(--navy);color:#fff;text-align:left;padding:.8em 1em;font-family:var(--sans);font-weight:600;font-size:.9rem}
+article.body th,.content-main th{background:var(--navy);color:#fff;text-align:left;padding:.8em 1em;font-family:var(--sans);font-weight:700;font-size:.9rem}
 article.body td,.content-main td{padding:.75em 1em;border-bottom:1px solid var(--line)}
 article.body tbody tr:nth-child(even),.content-main tbody tr:nth-child(even){background:var(--paper)}
 .table-scroll{overflow-x:auto}
 /* FAQ accordion */
 .faq-wrap{margin:2.2em 0}
 .faq-item{border:1px solid var(--line);border-radius:12px;margin-bottom:12px;background:#fff;overflow:hidden;box-shadow:0 2px 10px rgba(10,22,40,.04)}
-.faq-item summary{cursor:pointer;padding:1.05em 1.3em;font-family:var(--serif);font-weight:600;color:var(--navy);font-size:1.08rem;list-style:none;display:flex;justify-content:space-between;align-items:center;gap:1em}
+.faq-item summary{cursor:pointer;padding:1.05em 1.3em;font-family:var(--serif);font-weight:700;color:var(--navy);font-size:1.08rem;list-style:none;display:flex;justify-content:space-between;align-items:center;gap:1em}
 .faq-item summary::-webkit-details-marker{display:none}
 .faq-item summary::after{content:"+";color:var(--gold);font-size:1.5rem;font-weight:400;flex:none;transition:transform .2s}
 .faq-item[open] summary::after{transform:rotate(45deg)}
@@ -284,7 +300,7 @@ footer.site a:hover{color:var(--gold-soft)}
 .contact-form{display:grid;gap:16px;margin-top:1.4em}
 .contact-form .row{display:grid;grid-template-columns:1fr 1fr;gap:16px}
 .field{display:flex;flex-direction:column;gap:.35em}
-.field label{font-size:.82rem;font-weight:600;color:var(--navy)}
+.field label{font-size:.82rem;font-weight:700;color:var(--navy)}
 .field label .req{color:#B4472F}
 .field input,.field select,.field textarea{font-family:var(--sans);font-size:1rem;padding:.7em .85em;border:1px solid var(--line);border-radius:9px;background:#fff;color:var(--ink);width:100%}
 .field input:focus,.field select:focus,.field textarea:focus{outline:none;border-color:var(--gold);box-shadow:0 0 0 3px rgba(199,164,88,.18)}
@@ -308,7 +324,7 @@ footer.site a:hover{color:var(--gold-soft)}
 /* forms-ish contact */
 .hours-table{width:100%;border-collapse:collapse;font-size:.95rem}
 .hours-table td{padding:.5em 0;border-bottom:1px dashed var(--line)}
-.hours-table td:last-child{text-align:right;font-weight:600;color:var(--navy)}
+.hours-table td:last-child{text-align:right;font-weight:700;color:var(--navy)}
 .map-frame{border:0;width:100%;height:340px;border-radius:var(--r);box-shadow:var(--shadow)}
 /* responsive */
 @media(max-width:1000px){
@@ -456,15 +472,15 @@ def nav_html():
     <span class="l2">A Personal Attorney · Life · Business · Legacy</span>
   </a>
   <nav class="main" aria-label="Main">
-    <div><a class="top" href="/life/">Life ▾</a><div class="drop">
+    <div><a class="top" href="/life/">Life<span class="chev" aria-hidden="true"></span></a><div class="drop">
       <span class="d-label">Personal Legal Matters</span>
       {drop_links(["/lawsuits-civil-litigation","/trusts-asset-protection","/medicaid-trusts-and-applications","/medicaid-fair-hearings","/guardianships","/landlord-tenant","/divorce-and-family-law","/pre-post-nuptial-agreements","/property-tax-grievance","/ny-lemon-law-for-faulty-automobiles"])}
     </div></div>
-    <div><a class="top" href="/business/">Business ▾</a><div class="drop">
+    <div><a class="top" href="/business/">Business<span class="chev" aria-hidden="true"></span></a><div class="drop">
       <span class="d-label">Business Counsel</span>
       {drop_links(["/commercial-litigation","/appellate-practice","/business-asset-protection","/mergers-acquisitions","/commercial-leasing","/lease-negotiation","/collection-of-unpaid-debts","/mechanics-liens","/off-shore-family-limited-liability-companies-partnerships"])}
     </div></div>
-    <div><a class="top" href="/legacy/">Legacy ▾</a><div class="drop">
+    <div><a class="top" href="/legacy/">Legacy<span class="chev" aria-hidden="true"></span></a><div class="drop">
       <span class="d-label">Estate &amp; Elder Law</span>
       {drop_links(["/estate-planning","/wills","/trusts","/probate","/estate-litigation","/ny-deeds-for-out-of-state-trusts"])}
     </div></div>
@@ -523,7 +539,7 @@ def footer_html():
   <span>Attorney Advertising. Prior results do not guarantee a similar outcome. This site provides general information, not legal advice.</span>
 </div></div></footer>
 <div class="mobile-bar">
-  <a class="call" href="tel:{PHONE_TEL}">📞 Call Now</a>
+  <a class="call" href="tel:{PHONE_TEL}"><svg viewBox="0 0 24 24" width="17" height="17" aria-hidden="true" fill="currentColor"><path d="M6.6 10.8c1.4 2.8 3.8 5.1 6.6 6.6l2.2-2.2c.3-.3.7-.4 1-.2 1.2.4 2.4.6 3.6.6.6 0 1 .4 1 1V20c0 .6-.4 1-1 1C10.6 21 3 13.4 3 4c0-.6.4-1 1-1h3.5c.6 0 1 .4 1 1 0 1.3.2 2.5.6 3.6.1.4 0 .7-.2 1l-2.3 2.2z"/></svg> Call Now</a>
   <a href="/contact-us/">Free Consultation</a>
 </div>
 <script src="/js/main.js" defer></script>"""
@@ -566,7 +582,7 @@ def head_html(title, desc, path, schema_extra=None, noindex=False, og_image=None
 <link rel="icon" href="/img/favicon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:wght@600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,500;0,600;0,700;1,500;1,600&family=Lato:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="/css/style.css">
 <script type="application/ld+json">{schema}</script>
 {analytics}
@@ -669,7 +685,7 @@ TESTIMONIALS = [
 ]
 
 def t_card(quote, name, role, source=None):
-    src = f'<span style="color:var(--gold-soft);font-weight:600">✓ {esc(source)}</span>' if source else ""
+    src = f'<span style="color:var(--gold-soft);font-weight:700">✓ {esc(source)}</span>' if source else ""
     return f"""<div class="t-card"><div class="stars" aria-hidden="true">★★★★★</div>
 <p>“{esc(quote)}”</p><footer><b>{esc(name)}</b>{esc(role)} {src}</footer></div>"""
 
@@ -677,11 +693,11 @@ GOOGLE_CARDS = [(r["text"], r["author"], "Google Review", "Verified on Google") 
 
 def rating_strip():
     return f"""
-<div style="display:flex;align-items:center;justify-content:center;gap:1.4em;flex-wrap:wrap;margin-top:1.4em">
-  <div style="font-family:var(--serif);font-size:2.4rem;color:var(--navy);font-weight:700;line-height:1">{G_RATING}</div>
-  <div style="text-align:left">
-    <div style="color:var(--gold);font-size:1.15rem;letter-spacing:.12em">★★★★★</div>
-    <div style="font-size:.9rem;color:var(--muted)">Based on <b style="color:var(--ink)">{G_COUNT} verified Google reviews</b></div>
+<div class="rating-strip">
+  <div class="score">{G_RATING}</div>
+  <div class="detail">
+    <div class="stars" aria-hidden="true">★★★★★</div>
+    <div class="count">Based on <b>{G_COUNT} verified Google reviews</b></div>
   </div>
 </div>"""
 
@@ -860,7 +876,7 @@ def practice_page(pg):
       <p style="font-size:.85rem;color:var(--muted);margin:.2em 0 .8em">{G_COUNT} verified Google reviews</p>
       <p style="font-size:.92rem">“{esc(G_REVIEWS[0]['text'][:140])}…”</p>
       <p style="font-size:.85rem;color:var(--muted);margin-top:.6em"><b>{esc(G_REVIEWS[0]['author'])}</b></p>
-      <a href="/testimonials/" style="font-weight:600;font-size:.9rem">Read all testimonials →</a>
+      <a href="/testimonials/" style="font-weight:700;font-size:.9rem">Read all testimonials →</a>
     </div>
   </aside>
 </div>
@@ -934,7 +950,7 @@ def custom_practice_page(pg, custom):
     <div class="direct">{custom['intro_html']}</div>
     <nav class="toc" aria-label="On this page" style="background:var(--paper);border:1px solid var(--line);border-radius:12px;padding:1.1em 1.4em;margin:0 0 1.8em">
       <div style="font-size:.72rem;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--gold);margin-bottom:.5em">On This Page</div>
-      <div class="toc-links" style="display:flex;flex-direction:column;gap:.3em;font-size:.95rem;font-weight:600">{toc}</div>
+      <div class="toc-links" style="display:flex;flex-direction:column;gap:.3em;font-size:.95rem;font-weight:700">{toc}</div>
     </nav>
     {body_sections}
     <div class="takeaways"><h2 style="border:0;margin:0 0 .6em">Key Takeaways</h2><ul>{takeaways}</ul></div>
@@ -957,7 +973,7 @@ def custom_practice_page(pg, custom):
       <div class="stars" style="color:var(--gold);font-size:1.1rem">★★★★★ <span style="font-family:var(--serif);color:var(--navy)">{G_RATING}</span></div>
       <p style="font-size:.85rem;color:var(--muted);margin:.2em 0 .8em">{G_COUNT} verified Google reviews</p>
       <p style="font-size:.92rem">“{esc(G_REVIEWS[0]['text'][:140])}…”</p>
-      <a href="/testimonials/" style="font-weight:600;font-size:.9rem">Read all testimonials →</a>
+      <a href="/testimonials/" style="font-weight:700;font-size:.9rem">Read all testimonials →</a>
     </div>
   </aside>
 </div>
@@ -1047,7 +1063,7 @@ def town_page(town):
     </div>
     <div class="rail-card">
       <h3>Nearby Communities We Serve</h3>
-      <div class="toc-links" style="display:flex;flex-direction:column;gap:.3em;font-weight:600;font-size:.93rem">{nearby_links}</div>
+      <div class="toc-links" style="display:flex;flex-direction:column;gap:.3em;font-weight:700;font-size:.93rem">{nearby_links}</div>
     </div>
   </aside>
 </div>
@@ -1124,7 +1140,7 @@ def home_page():
            alt="Akiva Shapiro, Esq., estate planning and elder law attorney, outside his Old Bethpage, Long Island law office"
            width="760" height="1013" fetchpriority="high" decoding="async">
     </picture>
-    <div class="hero-badge"><b>★★★★★</b> <span>{G_RATING} on Google<br><small style="color:var(--muted);font-weight:500">{G_COUNT} verified reviews</small></span></div>
+    <div class="hero-badge"><span class="stars" aria-hidden="true">★★★★★</span> <span>{G_RATING} on Google<small>{G_COUNT} verified reviews</small></span></div>
   </div>
 </div></div>
 
@@ -1229,7 +1245,7 @@ def home_page():
     <div class="kicker">Mid-Island, Easy to Reach</div>
     <h2>Serving All of Long Island From Old Bethpage</h2>
     <p class="lead" style="margin-bottom:1em">Conveniently located mid-island, minutes off the Seaford–Oyster Bay Expressway — serving Nassau County, Suffolk County, Queens, and greater New York.</p>
-    <p style="margin-bottom:1.2em"><a href="/areas-we-serve/" style="font-weight:600">See the Long Island communities we serve →</a></p>
+    <p style="margin-bottom:1.2em"><a href="/areas-we-serve/" style="font-weight:700">See the Long Island communities we serve →</a></p>
     <iframe class="map-frame" title="Map to Akiva Shapiro Law, PLLC" loading="lazy" referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps?q=1+W+Park+Dr,+Old+Bethpage,+NY+11804&output=embed"></iframe>
   </div>
   <dl class="nap">
@@ -1262,11 +1278,11 @@ def faq_page():
             f"""<a class="q-item" href="{q['path']}/"><span>{esc((read_article(q['slug']) or {}).get('h1_clean', q['h1']))}</span><span class="arr">→</span></a>"""
             for q in items)
         groups_html += f"""<section style="padding:34px 0 6px"><div class="wrap">
-  <h2 id="{key}">{esc(cl['label'])} <span style="font-size:.9rem;color:var(--muted);font-family:var(--sans);font-weight:500">({len(items)} answers)</span></h2>
+  <h2 id="{key}">{esc(cl['label'])} <span style="font-size:.9rem;color:var(--muted);font-family:var(--sans);font-weight:400">({len(items)} answers)</span></h2>
   <div class="q-list">{links}</div>
-  <p style="margin-top:1em"><a href="{cl['practice']}/" style="font-weight:600">Our {esc(cl['label'])} services →</a></p>
+  <p style="margin-top:1em"><a href="{cl['practice']}/" style="font-weight:700">Our {esc(cl['label'])} services →</a></p>
 </div></section>"""
-    toc = " · ".join(f'<a href="#{k}" style="font-weight:600">{esc(CLUSTERS[k]["label"])}</a>'
+    toc = " · ".join(f'<a href="#{k}" style="font-weight:700">{esc(CLUSTERS[k]["label"])}</a>'
                      for k in order if any(q["cluster"] == k for q in plan["qa"]))
     return head_html(title, desc, path, [breadcrumbs_schema(crumbs)]) + nav_html() + f"""
 {crumbs_html(crumbs)}
