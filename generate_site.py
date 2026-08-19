@@ -575,6 +575,7 @@ def footer_html():
   <div>
     <h4>Resources</h4>
     <a href="/faq/">Legal Answers Library</a>
+    <a href="/probate-attorney-long-island/">Long Island Probate Guide</a>
     <a href="/attorney-profile/akiva-shapiro-esq/">Meet Akiva Shapiro, Esq.</a>
     <a href="/who-we-are/">Who We Are</a>
     <a href="/testimonials/">Client Testimonials</a>
@@ -1152,6 +1153,115 @@ def areas_hub_page():
   <p class="center" style="margin-top:2em;color:var(--muted)">Don't see your town? Akiva serves all of {esc(TOWNS['court']['county'])} and Long Island — <a href="/contact-us/">get in touch</a>.</p>
 </div></section>
 {cta_band()}
+""" + footer_html() + "</body></html>"
+
+# ---------------------------------------------------------------- probate cornerstone guide (SEO home of the lander-hub copy)
+GUIDE_FEE_RE = re.compile(r"^(Less than \$[\d,]+|\$[\d,]+ to \$[\d,]+|\$[\d,]+ and above), the fee is (\$[\d,]+)$")
+
+def probate_guide_page():
+    path = "/probate-attorney-long-island/"
+    src = json.load(open(os.path.join(BASE, "probate-guide-source.json")))
+    body_blocks, guide_faqs = src["body"], src["faqs"]
+    title = "Long Island Probate Attorney | Nassau & Suffolk Guide | Akiva Shapiro Law"
+    desc = ("How probate actually works in Nassau & Suffolk Surrogate's Court — timelines, filing fees, "
+            "who must sign, and what it costs. By Long Island probate attorney Akiva Shapiro. Free 15-minute call.")
+    crumbs = [("Home", "/"), ("Long Island Probate Guide", path)]
+
+    parts, fee_rows = [], []
+    toc = []
+    sec_i = 0
+    for i, b in enumerate(body_blocks):
+        t, k = b["t"], b["k"]
+        m = GUIDE_FEE_RE.match(t)
+        if m:
+            fee_rows.append(m.groups())
+            nxt = body_blocks[i + 1]["t"] if i + 1 < len(body_blocks) else ""
+            if not GUIDE_FEE_RE.match(nxt):
+                rows = "".join(f"<tr><td>{esc(a)}</td><td>{esc(v)}</td></tr>" for a, v in fee_rows)
+                parts.append('<div class="table-scroll"><table><thead><tr><th>Estate value passing through court</th>'
+                             f"<th>Filing fee</th></tr></thead><tbody>{rows}</tbody></table></div>")
+                fee_rows = []
+            continue
+        if k == "h2":
+            sec_i += 1
+            toc.append((f"g{sec_i}", t))
+            parts.append(f'<h2 id="g{sec_i}">{esc(t)}</h2>')
+        elif k == "h3":
+            parts.append(f"<h3>{esc(t)}</h3>")
+        elif k == "li":
+            parts.append(f"<ul><li>{esc(t)}</li></ul>")
+        else:
+            parts.append(f"<p>{esc(t)}</p>")
+    body_html = re.sub(r"</ul>\s*<ul>", "", "\n".join(parts))
+    toc_html = "".join(f'<a href="#{a}">{esc(t)}</a>' for a, t in toc)
+    faq_html = "".join(
+        f'<details class="faq-item"><summary>{esc(f["q"])}</summary><div class="faq-a"><p>{esc(f["a"])}</p></div></details>'
+        for f in guide_faqs)
+
+    schema_extra = [
+        breadcrumbs_schema(crumbs),
+        {"@type": "Service", "name": "Probate & Estate Administration",
+         "serviceType": "Probate Law", "provider": {"@id": DOMAIN + "/#firm"},
+         "areaServed": [{"@type": "AdministrativeArea", "name": "Nassau County, NY"},
+                        {"@type": "AdministrativeArea", "name": "Suffolk County, NY"}],
+         "url": DOMAIN + path, "description": desc},
+        {"@type": "FAQPage", "mainEntity": [
+            {"@type": "Question", "name": f["q"],
+             "acceptedAnswer": {"@type": "Answer", "text": f["a"]}} for f in guide_faqs]},
+        {"@type": "Article", "headline": "Probate Attorney in Long Island: The Complete Nassau & Suffolk Guide",
+         "description": desc, "author": {"@id": DOMAIN + "/#akiva"},
+         "publisher": {"@id": DOMAIN + "/#firm"}, "datePublished": "2026-08-19",
+         "dateModified": TODAY, "mainEntityOfPage": DOMAIN + path,
+         "image": DOMAIN + "/img/akiva-hero.jpg"},
+    ]
+    return head_html(title, desc, path, schema_extra) + nav_html() + f"""
+<div class="page-hero"><div class="wrap">
+  <div class="kicker">Probate &amp; Estate Administration · Nassau &amp; Suffolk County</div>
+  <h1>Probate Attorney in Long Island: The Complete Guide</h1>
+  <p class="lead">The bank froze the account, someone handed you a will, and nobody explained what happens next. This guide does — timelines, fees, who must sign, and where your case gets filed.</p>
+  <div class="hero-ctas">
+    <a class="btn btn-gold" href="tel:{PHONE_TEL}" data-track="call">Call {PHONE_DISPLAY}</a>
+    <a class="btn btn-outline" href="/contact-us/">Free 15-Minute Case Review</a>
+  </div>
+</div></div>
+{crumbs_html(crumbs)}
+<div class="wrap content-grid">
+  <div class="content-main">
+    <nav class="toc" aria-label="On this page" style="background:var(--paper);border:1px solid var(--line);border-radius:12px;padding:1.1em 1.4em;margin:0 0 1.8em">
+      <div style="font-size:.72rem;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--gold);margin-bottom:.5em">On This Page</div>
+      <div class="toc-links" style="display:flex;flex-direction:column;gap:.3em;font-size:.95rem;font-weight:600">{toc_html}</div>
+    </nav>
+    {body_html}
+    <h2 id="faq">Frequently Asked Questions</h2>
+    <div class="faq-wrap">{faq_html}</div>
+    {author_box()}
+    <p class="disclaimer">Attorney advertising. General information about New York law, current as of August 2026 — not legal advice for your situation. Dollar figures and court details verified against tax.ny.gov and nycourts.gov.</p>
+  </div>
+  <aside class="rail">
+    <div class="rail-card gold">
+      <h3>Holding a Will Right Now?</h3>
+      <p>One free 15-minute call tells you whether you're looking at a simple filing or something more.</p>
+      <a class="btn btn-gold" href="tel:{PHONE_TEL}">Call {PHONE_DISPLAY}</a>
+    </div>
+    <div class="rail-card">
+      <div class="stars" style="color:var(--gold);font-size:1.1rem">★★★★★ <span style="font-family:var(--serif);color:var(--navy)">{G_RATING}</span></div>
+      <p style="font-size:.85rem;color:var(--muted);margin:.2em 0 .8em">{G_COUNT} verified Google reviews</p>
+      <p style="font-size:.92rem">“{esc(G_REVIEWS[0]['text'][:140])}…”</p>
+    </div>
+    <div class="rail-card">
+      <h3>Related Services</h3>
+      <ul style="list-style:none">
+        <li><a href="/probate/">Probate</a></li>
+        <li><a href="/estate-litigation/">Estate Litigation</a></li>
+        <li><a href="/wills/">Wills</a></li>
+        <li><a href="/trusts/">Trusts</a></li>
+        <li><a href="/estate-planning/">Estate Planning</a></li>
+      </ul>
+    </div>
+  </aside>
+</div>
+{cta_band(h="Talk to a Long Island Probate Attorney — Free",
+          p="Tell Akiva what you're holding. The first conversation is free, and it usually takes about fifteen minutes to tell you whether you're looking at a simple filing or something more.")}
 """ + footer_html() + "</body></html>"
 
 # ---------------------------------------------------------------- homepage
@@ -1734,6 +1844,7 @@ def main():
     write("/contact-us", contact_page()); emitted.append("/contact-us/")
     write("/who-we-are", who_we_are_page()); emitted.append("/who-we-are/")
     write("/areas-we-serve", areas_hub_page()); emitted.append("/areas-we-serve/")
+    write("/probate-attorney-long-island", probate_guide_page()); emitted.append("/probate-attorney-long-island/")
     for town in TOWNS["towns"]:
         p = "/" + town_slug(town["name"]) + "/"
         write(p.rstrip("/"), town_page(town)); emitted.append(p)
